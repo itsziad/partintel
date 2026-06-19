@@ -1,0 +1,509 @@
+CUSTOMER ID,CITY,STATE,SERVICE HISTORY,COMMON PROBLEM,SOLUTION USED,VEHICAL COMPANY
+1,Ananthapuram,Andhra Pradesh,Oil Change; Brake Repair,Brake noise,Brake pad replacement, Maruti Suzuki
+2,Ananthapuram,Andhra Pradesh,Engine Repair; Tire Rotation,Engine overheating,Radiator replacement, Hyundai
+3,Ananthapuram,Andhra Pradesh,Bodywork; Paint Job,Dents and scratches,Body repair and repaint,Tata Motors
+4,Ananthapuram,Andhra Pradesh,Oil Change; General Maintenance,Oil leak,Oil seal replacement,Mahindra & Mahindra
+5,Ananthapuram,Andhra Pradesh,Tire Alignment; Engine Repair,Misaligned wheels,Wheel alignment,Honda
+6,Ananthapuram,Andhra Pradesh,Check Engine Light; Diagnostics,Check engine light,Diagnostic scan and repairs,Toyota
+7,Ananthapuram,Andhra Pradesh,Brake Service; Oil Change,Brake fluid leak,Brake fluid replacement, Ford
+8,Ananthapuram,Andhra Pradesh,Exhaust Repair; General Maintenance,Exhaust leak,Exhaust system repair,Nissan
+9,Ananthapuram,Andhra Pradesh,Transmission Service; Brake Fluid Change,Slipping transmission,Transmission fluid change,Volkswagen
+10,Ananthapuram,Andhra Pradesh,Body Repair; Tire Replacement,Body damage,Body repair,Renault
+11,Ananthapuram,Andhra Pradesh,Oil Change; Brake Inspection,Brake noise,Brake pad replacement,Hero MotoCorp
+12,Ananthapuram,Andhra Pradesh,Engine Diagnostics; Tune-Up,Engine misfiring,Spark plug replacement,Ford
+13,Ananthapuram,Andhra Pradesh,Suspension Repair; Brake Service,Steering issues,Suspension adjustment, Audi
+14,Ananthapuram,Andhra Pradesh,Tire Rotation; General Maintenance,Tire wear,Tire rotation and balancing,Skoda
+15,Ananthapuram,Andhra Pradesh,Transmission Fluid Change; Engine Repair,Transmission issues,Transmission service,Kia
+16,Ananthapuram,Andhra Pradesh,Brake Inspection; Diagnostics,Brake wear,Brake replacement,Bajaj Auto
+17,Ananthapuram,Andhra Pradesh,Oil Change; Tire Alignment,Misaligned wheels,Wheel alignment,Hero MotoCorp
+18,Ananthapuram,Andhra Pradesh,Exhaust Leak; General Maintenance,Exhaust noise,Exhaust system repair, TVS Motor Company
+19,Ananthapuram,Andhra Pradesh,Check Engine Light; Brake Fluid Change,Check engine light,Diagnostic scan,Royal Enfield
+20,Ananthapuram,Andhra Pradesh,Tire Replacement; Oil Change,Poor fuel economy,Fuel system cleaning, Honda (Motorcycle)
+21,Ananthapuram,Andhra Pradesh,Fluid Leak; Tire Rotation,Fluid leak,Fluid replacement,Yamaha
+22,Ananthapuram,Andhra Pradesh,Engine Overheating; Diagnostics,Engine overheating,Cooling system flush,Suzuki (Motorcycle)
+23,Ananthapuram,Andhra Pradesh,Transmission Repair; Brake Service,Transmission slipping,Transmission fluid change,Kia
+24,Ananthapuram,Andhra Pradesh,Oil Change; Battery Replacement,Dead battery,Battery replacement,Kia
+25,Ananthapuram,Andhra Pradesh,Tire Alignment; General Maintenance,Misaligned tires,Tire alignment, Tata Motors
+26,Ananthapuram,Andhra Pradesh,Brake Inspection; Oil Change,Brake noise,Brake pad replacement,Maruti Suzuki
+27,Ananthapuram,Andhra Pradesh,Engine Diagnostics; Tune-Up,Engine misfiring,Spark plug replacement, Ford
+28,Ananthapuram,Andhra Pradesh,Suspension Repair; Brake Service,Steering issues,Suspension adjustment, Honda
+29,Ananthapuram,Andhra Pradesh,Tire Rotation; General Maintenance,Tire wear,Tire rotation and balancing,Toyota
+30,Ananthapuram,Andhra Pradesh,Transmission Fluid Change; Engine Repair,Transmission issues,Transmission service,Mahindra & Mahindra
+31,Ananthapuram,Andhra Pradesh,Brake Inspection; Diagnostics,Brake wear,Brake replacement,Nissan
+32,Ananthapuram,Andhra Pradesh,Oil Change; Tire Alignment,Misaligned wheels,Wheel alignment, Volkswagen
+33,Ananthapuram,Andhra Pradesh,Exhaust Leak; General Maintenance,Exhaust noise,Exhaust system repair,Renault
+34,Ananthapuram,Andhra Pradesh,Check Engine Light; Brake Fluid Change,Check engine light,Diagnostic scan, Hyundai
+35,Ananthapuram,Andhra Pradesh,Tire Replacement; Oil Change,Poor fuel economy,Fuel system cleaning, Bajaj Auto
+36,Ananthapuram,Andhra Pradesh,Fluid Leak; Tire Rotation,Fluid leak,Fluid replacement,TVS Motor Company
+37,Ananthapuram,Andhra Pradesh,Engine Overheating; Diagnostics,Engine overheating,Cooling system flush, Hero MotoCorp
+38,Ananthapuram,Andhra Pradesh,Transmission Repair; Brake Service,Transmission slipping,Transmission fluid change,Toyota
+39,Ananthapuram,Andhra Pradesh,Oil Change; Battery Inspection,Dead battery,Battery replacement, Hyundai
+40,Ananthapuram,Andhra Pradesh,Tire Alignment; General Maintenance,Tire wear,Tire rotation, Honda
+41,Ananthapuram,Andhra Pradesh,Brake Repair; Oil Change,Brake squeal,Brake pad replacement,Tvs
+42,Ananthapuram,Andhra Pradesh,Engine Check; Suspension Repair,Steering issues,Suspension adjustment, Kia
+43,Ananthapuram,Andhra Pradesh,Exhaust Repair; Brake Service,Exhaust noise,Exhaust system repair, Tata Motors
+44,Ananthapuram,Andhra Pradesh,Transmission Service; Oil Change,Slipping transmission,Transmission fluid change,Maruti Suzuki
+45,Ananthapuram,Andhra Pradesh,Fluid Check; Tire Replacement,Poor fuel economy,Fuel system cleaning,Honda
+46,Ananthapuram,Andhra Pradesh,Check Engine Light; General Maintenance,Check engine light,Diagnostic scan,Royal Enfield
+47,Ananthapuram,Andhra Pradesh,Brake Fluid Change; Engine Repair,Brake fluid leak,Brake fluid replacement, Yamaha
+48,Ananthapuram,Andhra Pradesh,Tire Alignment; Oil Change,Misaligned wheels,Wheel alignment, KTM
+49,Ananthapuram,Andhra Pradesh,Oil Change; Battery Replacement,Dead battery,Battery replacement,Suzuki (Motorcycle)
+50,Ananthapuram,Andhra Pradesh,Engine Diagnostics; Tire Rotation,Engine misfiring,Spark plug replacement,Tvs 
+51,Ananthapuram,Andhra Pradesh,Brake Inspection; General Maintenance,Brake noise,Brake pad replacement, Ford
+52,Ananthapuram,Andhra Pradesh,Exhaust Leak; Oil Change,Exhaust noise,Exhaust system repair,Mahindra & Mahindra
+53,Ananthapuram,Andhra Pradesh,Transmission Repair; Brake Fluid Change,Transmission slipping,Transmission fluid change, Nissan
+54,Ananthapuram,Andhra Pradesh,Oil Change; Battery Check,Dead battery,Battery replacement,Volkswagen
+55,Ananthapuram,Andhra Pradesh,Fluid Leak; Tire Alignment,Fluid leak,Fluid replacement, Hyundai
+56,Ananthapuram,Andhra Pradesh,Suspension Repair; Engine Check,Steering issues,Suspension adjustment,Toyota
+57,Ananthapuram,Andhra Pradesh,Brake Service; General Maintenance,Brake wear,Brake replacement, Bajaj Auto
+58,Ananthapuram,Andhra Pradesh,Exhaust Repair; Oil Change,Exhaust noise,Exhaust system repair,TVS Motor Company
+59,Ananthapuram,Andhra Pradesh,"Oil Change, Brake Inspection",Engine overheating,Check coolant level; flush radiator; replace thermostat., Hero Motocrop
+60,Ananthapuram,Andhra Pradesh,"Tire Rotation, Brake Replacement",Brakes making noise,Inspect pads/rotors; replace if worn., Mercedes-Benz
+61, Ananthapuram, Andhra Pradesh, Transmission Service; Diagnostics, Transmission slipping, Transmission fluid change, Tata Motors
+62, Ananthapuram, Andhra Pradesh, Tire Replacement; Oil Change, Poor fuel economy, Fuel system cleaning, Ford
+63, Ananthapuram, Andhra Pradesh, Exhaust Repair; Brake Service, Exhaust noise, Exhaust system repair, Hyundai
+64, Ananthapuram, Andhra Pradesh, Brake Inspection; Tire Rotation, Misaligned wheels, Wheel alignment, Nissan
+65, Ananthapuram, Andhra Pradesh, General Maintenance; Engine Check, Engine misfiring, Spark plug replacement, Volkswagen
+66, Ananthapuram, Andhra Pradesh, Suspension Repair; Oil Change, Steering issues, Suspension adjustment, Kia
+67, Ananthapuram, Andhra Pradesh, Engine Repair; Tire Alignment, Misaligned tires, Tire alignment, Toyota
+68, Ananthapuram, Andhra Pradesh, Battery Replacement; General Maintenance, Dead battery, Battery replacement, Hero MotoCorp
+69, Ananthapuram, Andhra Pradesh, Exhaust Leak; Diagnostics, Exhaust leak, Exhaust system repair, Bajaj Auto
+70, Ananthapuram, Andhra Pradesh, Oil Change; Brake Fluid Change, Brake fluid leak, Brake fluid replacement, Mahindra
+71, Ananthapuram, Andhra Pradesh, Tire Alignment; General Maintenance, Tire wear, Tire rotation and balancing, Renault
+72, Ananthapuram, Andhra Pradesh, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush, Audi
+73, Ananthapuram, Andhra Pradesh, Brake Repair; Tire Replacement, Body damage, Body repair, Volkswagen
+74, Ananthapuram, Andhra Pradesh, Fluid Leak; Oil Change, Fluid leak, Fluid replacement, TVS Motor Company
+75, Ananthapuram, Andhra Pradesh, General Maintenance; Engine Diagnostics, Check engine light, Diagnostic scan, Hero MotoCorp
+76, Ananthapuram, Andhra Pradesh, Brake Service; Oil Change, Brake wear, Brake replacement, Hyundai
+77, Ananthapuram, Andhra Pradesh, Tire Replacement; Engine Check, Tire wear, Tire rotation and balancing, Bajaj Auto
+78, Ananthapuram, Andhra Pradesh, Exhaust Repair; Brake Fluid Change, Exhaust noise, Exhaust system repair, Ford
+79, Ananthapuram, Andhra Pradesh, Oil Change; Brake Inspection, Brake noise, Brake pad replacement, Maruti Suzuki
+80, Ananthapuram, Andhra Pradesh, Engine Repair; Diagnostics, Engine misfire, Diagnostic scan, Nissan
+81, Ananthapuram, Andhra Pradesh, Tire Rotation; Brake Service, Tire wear, Tire rotation and balancing, Hyundai
+82, Ananthapuram, Andhra Pradesh, Fluid Check; Oil Change, Low oil, Oil replacement, Ford
+83, Ananthapuram, Andhra Pradesh, Brake Inspection; General Maintenance, Brake noise, Brake pad replacement, Mahindra
+84, Ananthapuram, Andhra Pradesh, Engine Diagnostics; Tune-Up, Engine roughness, Spark plug replacement, Toyota
+85, Ananthapuram, Andhra Pradesh, Transmission Fluid Change; Brake Service, Slipping transmission, Transmission fluid change, Volkswagen
+86, Ananthapuram, Andhra Pradesh, General Maintenance; Tire Inspection, Tire wear, Tire rotation, Audi
+87, Ananthapuram, Andhra Pradesh, Oil Change; Brake Fluid Change, Brake fluid leak, Brake fluid replacement, Tata Motors
+88, Ananthapuram, Andhra Pradesh, Exhaust Repair; Engine Check, Exhaust noise, Exhaust system repair, Bajaj Auto
+89, Ananthapuram, Andhra Pradesh, Battery Inspection; General Maintenance, Dead battery, Battery replacement, Hero MotoCorp
+90, Ananthapuram, Andhra Pradesh, Fluid Leak; Tire Rotation, Fluid leak, Fluid replacement, TVS Motor Company
+91, Ananthapuram, Andhra Pradesh, Engine Repair; Brake Service, Engine overheating, Cooling system flush, Hyundai
+92, Ananthapuram, Andhra Pradesh, Brake Inspection; Oil Change, Brake noise, Brake pad replacement, Ford
+93, Ananthapuram, Andhra Pradesh, Tire Replacement; Diagnostics, Tire damage, Tire replacement, Tata Motors
+94, Ananthapuram, Andhra Pradesh, General Maintenance; Engine Repair, Engine misfiring, Spark plug replacement, Nissan
+95, Ananthapuram, Andhra Pradesh, Suspension Repair; Oil Change, Steering issues, Suspension adjustment, Kia
+96, Ananthapuram, Andhra Pradesh, Brake Service; Tire Inspection, Brake wear, Brake pad replacement, Hero MotoCorp
+97, Ananthapuram, Andhra Pradesh, Fluid Check; Engine Diagnostics, Fluid leak, Fluid replacement, Volkswagen
+98, Ananthapuram, Andhra Pradesh, Tire Alignment; Brake Inspection, Misaligned tires, Tire alignment, Mahindra
+99, Ananthapuram, Andhra Pradesh, Exhaust Leak; General Maintenance, Exhaust noise, Exhaust system repair, Toyota
+100, Ananthapuram, Andhra Pradesh, Brake Repair; Oil Change, Brake noise, Brake pad replacement, Audi
+101, Ananthapuram, Andhra Pradesh, Oil Change; Brake Repair, Brake noise, Brake pad replacement, Honda
+102, Ananthapuram, Andhra Pradesh, Transmission Service; Diagnostics, Transmission slipping, Transmission fluid change, Tata Motors
+103, Ananthapuram, Andhra Pradesh, Tire Replacement; Oil Change, Poor fuel economy, Fuel system cleaning, Ford
+104, Ananthapuram, Andhra Pradesh, Exhaust Repair; Brake Service, Exhaust noise, Exhaust system repair, Hyundai
+105, Ananthapuram, Andhra Pradesh, Brake Inspection; Tire Rotation, Misaligned wheels, Wheel alignment, Nissan
+106, Ananthapuram, Andhra Pradesh, General Maintenance; Engine Check, Engine misfiring, Spark plug replacement, Volkswagen
+107, Ananthapuram, Andhra Pradesh, Suspension Repair; Oil Change, Steering issues, Suspension adjustment, Kia
+108, Ananthapuram, Andhra Pradesh, Engine Repair; Tire Alignment, Misaligned tires, Tire alignment, Toyota
+109, Ananthapuram, Andhra Pradesh, Battery Replacement; General Maintenance, Dead battery, Battery replacement, Hero MotoCorp
+110, Ananthapuram, Andhra Pradesh, Exhaust Leak; Diagnostics, Exhaust leak, Exhaust system repair, Bajaj Auto
+111, Ananthapuram, Andhra Pradesh, Oil Change; Brake Fluid Change, Brake fluid leak, Brake fluid replacement, Mahindra
+112, Ananthapuram, Andhra Pradesh, Tire Alignment; General Maintenance, Tire wear, Tire rotation and balancing, Renault
+113, Ananthapuram, Andhra Pradesh, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush, Audi
+114, Ananthapuram, Andhra Pradesh, Brake Repair; Tire Replacement, Body damage, Body repair, Volkswagen
+115, Ananthapuram, Andhra Pradesh, Fluid Leak; Oil Change, Fluid leak, Fluid replacement, TVS Motor Company
+116, Ananthapuram, Andhra Pradesh, General Maintenance; Engine Diagnostics, Check engine light, Diagnostic scan, Hero MotoCorp
+117, Ananthapuram, Andhra Pradesh, Brake Service; Oil Change, Brake wear, Brake replacement, Hyundai
+118, Ananthapuram, Andhra Pradesh, Tire Replacement; Engine Check, Tire wear, Tire rotation and balancing, Bajaj Auto
+119, Ananthapuram, Andhra Pradesh, Exhaust Repair; Brake Fluid Change, Exhaust noise, Exhaust system repair, Ford
+120, Ananthapuram, Andhra Pradesh, Oil Change; Brake Inspection, Brake noise, Brake pad replacement, Maruti Suzuki
+121, Ananthapuram, Andhra Pradesh, Engine Repair; Diagnostics, Engine misfire, Diagnostic scan, Nissan
+122, Ananthapuram, Andhra Pradesh, Tire Rotation; Brake Service, Tire wear, Tire rotation and balancing, Hyundai
+123, Ananthapuram, Andhra Pradesh, Fluid Check; Oil Change, Low oil, Oil replacement, Ford
+124, Ananthapuram, Andhra Pradesh, Brake Inspection; General Maintenance, Brake noise, Brake pad replacement, Mahindra
+125, Ananthapuram, Andhra Pradesh, Engine Diagnostics; Tune-Up, Engine roughness, Spark plug replacement, Toyota
+126, Ananthapuram, Andhra Pradesh, Transmission Fluid Change; Brake Service, Slipping transmission, Transmission fluid change, Volkswagen
+127, Ananthapuram, Andhra Pradesh, General Maintenance; Tire Inspection, Tire wear, Tire rotation, Audi
+128, Ananthapuram, Andhra Pradesh, Oil Change; Brake Fluid Change, Brake fluid leak, Brake fluid replacement, Tata Motors
+129, Ananthapuram, Andhra Pradesh, Exhaust Repair; Engine Check, Exhaust noise, Exhaust system repair, Bajaj Auto
+130, Ananthapuram, Andhra Pradesh, Battery Inspection; General Maintenance, Dead battery, Battery replacement, Hero MotoCorp
+131, Ananthapuram, Andhra Pradesh, Fluid Leak; Tire Rotation, Fluid leak, Fluid replacement, TVS Motor Company
+132, Ananthapuram, Andhra Pradesh, Engine Repair; Brake Service, Engine overheating, Cooling system flush, Hyundai
+133, Ananthapuram, Andhra Pradesh, Brake Inspection; Oil Change, Brake noise, Brake pad replacement, Ford
+134, Ananthapuram, Andhra Pradesh, Tire Replacement; Diagnostics, Tire damage, Tire replacement, Tata Motors
+135, Ananthapuram, Andhra Pradesh, General Maintenance; Engine Repair, Engine misfiring, Spark plug replacement, Nissan
+136, Ananthapuram, Andhra Pradesh, Suspension Repair; Oil Change, Steering issues, Suspension adjustment, Kia
+137, Ananthapuram, Andhra Pradesh, Brake Service; Tire Inspection, Brake wear, Brake pad replacement, Hero MotoCorp
+138, Ananthapuram, Andhra Pradesh, Fluid Check; Engine Diagnostics, Fluid leak, Fluid replacement, Volkswagen
+139, Ananthapuram, Andhra Pradesh, Tire Alignment; Brake Inspection, Misaligned tires, Tire alignment, Mahindra
+140, Ananthapuram, Andhra Pradesh, Exhaust Leak; General Maintenance, Exhaust noise, Exhaust system repair, Toyota
+141, Ananthapuram, Andhra Pradesh, Brake Repair; Oil Change, Brake noise, Brake pad replacement, Audi
+142, Ananthapuram, Andhra Pradesh, Oil Change; Brake Repair, Brake noise, Brake pad replacement, Honda
+143, Ananthapuram, Andhra Pradesh, Transmission Service; Diagnostics, Transmission slipping, Transmission fluid change, Tata Motors
+144, Ananthapuram, Andhra Pradesh, Tire Replacement; Oil Change, Poor fuel economy, Fuel system cleaning, Ford
+145, Ananthapuram, Andhra Pradesh, Exhaust Repair; Brake Service, Exhaust noise, Exhaust system repair, Hyundai
+146, Ananthapuram, Andhra Pradesh, Brake Inspection; Tire Rotation, Misaligned wheels, Wheel alignment, Nissan
+147, Ananthapuram, Andhra Pradesh, General Maintenance; Engine Check, Engine misfiring, Spark plug replacement, Volkswagen
+148, Ananthapuram, Andhra Pradesh, Suspension Repair; Oil Change, Steering issues, Suspension adjustment, Kia
+149, Ananthapuram, Andhra Pradesh, Engine Repair; Tire Alignment, Misaligned tires, Tire alignment, Toyota
+150, Ananthapuram, Andhra Pradesh, Battery Replacement; General Maintenance, Dead battery, Battery replacement, Hero MotoCorp
+151, Ananthapuram, Andhra Pradesh, Exhaust Leak; Diagnostics, Exhaust leak, Exhaust system repair, Bajaj Auto
+152, Ananthapuram, Andhra Pradesh, Oil Change; Brake Fluid Change, Brake fluid leak, Brake fluid replacement, Mahindra
+153, Ananthapuram, Andhra Pradesh, Tire Alignment; General Maintenance, Tire wear, Tire rotation and balancing, Renault
+154, Ananthapuram, Andhra Pradesh, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush, Audi
+155, Ananthapuram, Andhra Pradesh, Brake Repair; Tire Replacement, Body damage, Body repair, Volkswagen
+156, Ananthapuram, Andhra Pradesh, Fluid Leak; Oil Change, Fluid leak, Fluid replacement, TVS Motor Company
+157, Ananthapuram, Andhra Pradesh, General Maintenance; Engine Diagnostics, Check engine light, Diagnostic scan, Hero MotoCorp
+158, Ananthapuram, Andhra Pradesh, Brake Service; Oil Change, Brake wear, Brake replacement, Hyundai
+159, Ananthapuram, Andhra Pradesh, Tire Replacement; Engine Check, Tire wear, Tire rotation and balancing, Bajaj Auto
+160, Ananthapuram, Andhra Pradesh, Exhaust Repair; Brake Fluid Change, Exhaust noise, Exhaust system repair, Ford
+161, Ananthapuram, Andhra Pradesh, Oil Change; Brake Inspection, Brake noise, Brake pad replacement, Maruti Suzuki
+162, Ananthapuram, Andhra Pradesh, Engine Repair; Diagnostics, Engine misfire, Diagnostic scan, Nissan
+163, Ananthapuram, Andhra Pradesh, Tire Rotation; Brake Service, Tire wear, Tire rotation and balancing, Hyundai
+164, Ananthapuram, Andhra Pradesh, Fluid Check; Oil Change, Low oil, Oil replacement, Ford
+165, Ananthapuram, Andhra Pradesh, Brake Inspection; General Maintenance, Brake noise, Brake pad replacement, Mahindra
+166, Ananthapuram, Andhra Pradesh, Engine Diagnostics; Tune-Up, Engine roughness, Spark plug replacement, Toyota
+167, Ananthapuram, Andhra Pradesh, Transmission Fluid Change; Brake Service, Slipping transmission, Transmission fluid change, Volkswagen
+168, Ananthapuram, Andhra Pradesh, General Maintenance; Tire Inspection, Tire wear, Tire rotation, Audi
+169, Ananthapuram, Andhra Pradesh, Oil Change; Brake Fluid Change, Brake fluid leak, Brake fluid replacement, Tata Motors
+170, Ananthapuram, Andhra Pradesh, Exhaust Repair; Engine Check, Exhaust noise, Exhaust system repair, Bajaj Auto
+171, Ananthapuram, Andhra Pradesh, Battery Inspection; General Maintenance, Dead battery, Battery replacement, Hero MotoCorp
+172, Ananthapuram, Andhra Pradesh, Fluid Leak; Tire Rotation, Fluid leak, Fluid replacement, TVS Motor Company
+173, Ananthapuram, Andhra Pradesh, Engine Repair; Brake Service, Engine overheating, Cooling system flush, Hyundai
+174, Ananthapuram, Andhra Pradesh, Brake Inspection; Oil Change, Brake noise, Brake pad replacement, Ford
+175, Ananthapuram, Andhra Pradesh, Tire Replacement; Diagnostics, Tire damage, Tire replacement, Tata Motors
+176, Ananthapuram, Andhra Pradesh, General Maintenance; Engine Repair, Engine misfiring, Spark plug replacement, Nissan
+177, Ananthapuram, Andhra Pradesh, Suspension Repair; Oil Change, Steering issues, Suspension adjustment, Kia
+178, Ananthapuram, Andhra Pradesh, Brake Service; Tire Inspection, Brake wear, Brake pad replacement, Hero MotoCorp
+179, Ananthapuram, Andhra Pradesh, Fluid Check; Engine Diagnostics, Fluid leak, Fluid replacement, Volkswagen
+180, Ananthapuram, Andhra Pradesh, Tire Alignment; Brake Inspection, Misaligned tires, Tire alignment, Mahindra
+181, Ananthapuram, Andhra Pradesh, Exhaust Leak; General Maintenance, Exhaust noise, Exhaust system repair, Toyota
+182, Ananthapuram, Andhra Pradesh, Brake Repair; Oil Change, Brake noise, Brake pad replacement, Audi
+183, Ananthapuram, Andhra Pradesh, Oil Change; Brake Repair, Brake noise, Brake pad replacement, Honda
+184, Ananthapuram, Andhra Pradesh, Transmission Service; Diagnostics, Transmission slipping, Transmission fluid change, Tata Motors
+185, Ananthapuram, Andhra Pradesh, Tire Replacement; Oil Change, Poor fuel economy, Fuel system cleaning, Ford
+186, Ananthapuram, Andhra Pradesh, Exhaust Repair; Brake Service, Exhaust noise, Exhaust system repair, Hyundai
+187, Ananthapuram, Andhra Pradesh, Brake Inspection; Tire Rotation, Misaligned wheels, Wheel alignment, Nissan
+188, Ananthapuram, Andhra Pradesh, General Maintenance; Engine Check, Engine misfiring, Spark plug replacement, Volkswagen
+189, Ananthapuram, Andhra Pradesh, Suspension Repair; Oil Change, Steering issues, Suspension adjustment, Kia
+190, Ananthapuram, Andhra Pradesh, Engine Repair; Tire Alignment, Misaligned tires, Tire alignment, Toyota
+191, Ananthapuram, Andhra Pradesh, Battery Replacement; General Maintenance, Dead battery, Battery replacement, Hero MotoCorp
+192, Ananthapuram, Andhra Pradesh, Exhaust Leak; Diagnostics, Exhaust leak, Exhaust system repair, Bajaj Auto
+193, Ananthapuram, Andhra Pradesh, Oil Change; Brake Fluid Change, Brake fluid leak, Brake fluid replacement, Mahindra
+194, Ananthapuram, Andhra Pradesh, Tire Alignment; General Maintenance, Tire wear, Tire rotation and balancing, Renault
+195, Ananthapuram, Andhra Pradesh, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush, Audi
+196, Ananthapuram, Andhra Pradesh, Brake Repair; Tire Replacement, Body damage, Body repair, Volkswagen
+197, Ananthapuram, Andhra Pradesh, Fluid Leak; Oil Change, Fluid leak, Fluid replacement, TVS Motor Company
+198, Ananthapuram, Andhra Pradesh, General Maintenance; Engine Diagnostics, Check engine light, Diagnostic scan, Hero MotoCorp
+199, Ananthapuram, Andhra Pradesh, Brake Service; Oil Change, Brake wear, Brake replacement, Hyundai
+200, Ananthapuram, Andhra Pradesh, Tire Replacement; Engine Check, Tire wear, Tire rotation and balancing, Bajaj Auto
+201, Ananthapuram, Andhra Pradesh, Exhaust Repair; Brake Fluid Change, Exhaust noise, Exhaust system repair, Ford
+202, Ananthapuram, Andhra Pradesh, Oil Change; Brake Inspection, Brake noise, Brake pad replacement, Maruti Suzuki
+203, Ananthapuram, Andhra Pradesh, Engine Repair; Diagnostics, Engine misfire, Diagnostic scan, Nissan
+204, Ananthapuram, Andhra Pradesh, Tire Rotation; Brake Service, Tire wear, Tire rotation and balancing, Hyundai
+205, Ananthapuram, Andhra Pradesh, Fluid Check; Oil Change, Low oil, Oil replacement, Ford
+206, Ananthapuram, Andhra Pradesh, Brake Inspection; General Maintenance, Brake noise, Brake pad replacement, Mahindra
+207, Ananthapuram, Andhra Pradesh, Engine Diagnostics; Tune-Up, Engine roughness, Spark plug replacement, Toyota
+208, Ananthapuram, Andhra Pradesh, Transmission Fluid Change; Brake Service, Slipping transmission, Transmission fluid change, Volkswagen
+209, Ananthapuram, Andhra Pradesh, General Maintenance; Tire Inspection, Tire wear, Tire rotation, Audi
+210, Ananthapuram, Andhra Pradesh, Oil Change; Brake Fluid Change, Brake fluid leak, Brake fluid replacement, Tata Motors
+211, Ananthapuram, Andhra Pradesh, Exhaust Repair; Engine Check, Exhaust noise, Exhaust system repair, Bajaj Auto
+212, Ananthapuram, Andhra Pradesh, Battery Inspection; General Maintenance, Dead battery, Battery replacement, Hero MotoCorp
+213, Ananthapuram, Andhra Pradesh, Fluid Leak; Tire Rotation, Fluid leak, Fluid replacement, TVS Motor Company
+214, Ananthapuram, Andhra Pradesh, Engine Repair; Brake Service, Engine overheating, Cooling system flush, Hyundai
+215, Ananthapuram, Andhra Pradesh, Brake Inspection; Oil Change, Brake noise, Brake pad replacement, Ford
+216, Ananthapuram, Andhra Pradesh, Tire Replacement; Diagnostics, Tire damage, Tire replacement, Tata Motors
+217, Ananthapuram, Andhra Pradesh, General Maintenance; Engine Repair, Engine misfiring, Spark plug replacement, Nissan
+218, Ananthapuram, Andhra Pradesh, Suspension Repair; Oil Change, Steering issues, Suspension adjustment, Kia
+219, Ananthapuram, Andhra Pradesh, Brake Service; Tire Inspection, Brake wear, Brake pad replacement, Hero MotoCorp
+220, Ananthapuram, Andhra Pradesh, Fluid Check; Engine Diagnostics, Fluid leak, Fluid replacement, Volkswagen
+221, Ananthapuram, Andhra Pradesh, Tire Alignment; Brake Inspection, Misaligned tires, Tire alignment, Mahindra
+222, Ananthapuram, Andhra Pradesh, Exhaust Leak; General Maintenance, Exhaust noise, Exhaust system repair, Toyota
+223, Ananthapuram, Andhra Pradesh, Brake Repair; Oil Change, Brake noise, Brake pad replacement, Audi
+224, Ananthapuram, Andhra Pradesh, Oil Change; Brake Repair, Brake noise, Brake pad replacement, Honda
+225, Ananthapuram, Andhra Pradesh, Transmission Service; Diagnostics, Transmission slipping, Transmission fluid change, Tata Motors
+226, Ananthapuram, Andhra Pradesh, Tire Replacement; Oil Change, Poor fuel economy, Fuel system cleaning, Ford
+227, Ananthapuram, Andhra Pradesh, Exhaust Repair; Brake Service, Exhaust noise, Exhaust system repair, Hyundai
+228, Ananthapuram, Andhra Pradesh, Brake Inspection; Tire Rotation, Misaligned wheels, Wheel alignment, Nissan
+229, Ananthapuram, Andhra Pradesh, General Maintenance; Engine Check, Engine misfiring, Spark plug replacement, Volkswagen
+230, Ananthapuram, Andhra Pradesh, Suspension Repair; Oil Change, Steering issues, Suspension adjustment, Kia
+231, Ananthapuram, Andhra Pradesh, Engine Repair; Tire Alignment, Misaligned tires, Tire alignment, Toyota
+232, Ananthapuram, Andhra Pradesh, Battery Replacement; General Maintenance, Dead battery, Battery replacement, Hero MotoCorp
+233, Ananthapuram, Andhra Pradesh, Exhaust Leak; Diagnostics, Exhaust leak, Exhaust system repair, Bajaj Auto
+234, Ananthapuram, Andhra Pradesh, Oil Change; Brake Fluid Change, Brake fluid leak, Brake fluid replacement, Mahindra
+235, Ananthapuram, Andhra Pradesh, Tire Alignment; General Maintenance, Tire wear, Tire rotation and balancing, Renault
+236, Ananthapuram, Andhra Pradesh, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush, Audi
+237, Ananthapuram, Andhra Pradesh, Brake Repair; Tire Replacement, Body damage, Body repair, Volkswagen
+238, Ananthapuram, Andhra Pradesh, Fluid Leak; Oil Change, Fluid leak, Fluid replacement, TVS Motor Company
+239, Ananthapuram, Andhra Pradesh, General Maintenance; Engine Diagnostics, Check engine light, Diagnostic scan, Hero MotoCorp
+240, Ananthapuram, Andhra Pradesh, Brake Service; Oil Change, Brake wear, Brake replacement, Hyundai
+241, Ananthapuram, Andhra Pradesh, Tire Replacement; Engine Check, Tire wear, Tire rotation and balancing, Bajaj Auto
+242, Ananthapuram, Andhra Pradesh, Exhaust Repair; Brake Fluid Change, Exhaust noise, Exhaust system repair, Ford
+243, Ananthapuram, Andhra Pradesh, Oil Change; Brake Inspection, Brake noise, Brake pad replacement, Maruti Suzuki
+244, Ananthapuram, Andhra Pradesh, Engine Repair; Diagnostics, Engine misfire, Diagnostic scan, Nissan
+245, Ananthapuram, Andhra Pradesh, Tire Rotation; Brake Service, Tire wear, Tire rotation and balancing, Hyundai
+246, Ananthapuram, Andhra Pradesh, Fluid Check; Oil Change, Low oil, Oil replacement, Ford
+247, Ananthapuram, Andhra Pradesh, Brake Inspection; General Maintenance, Brake noise, Brake pad replacement, Mahindra
+248, Ananthapuram, Andhra Pradesh, Engine Diagnostics; Tune-Up, Engine roughness, Spark plug replacement, Toyota
+249, Ananthapuram, Andhra Pradesh, Transmission Fluid Change; Brake Service, Slipping transmission, Transmission fluid change, Volkswagen
+250, Ananthapuram, Andhra Pradesh, General Maintenance; Tire Inspection, Tire wear, Tire rotation, Audi
+251, Ananthapuram, Andhra Pradesh, Battery Replacement; General Maintenance, Dead battery, Battery replacement, Hero MotoCorp
+252, Ananthapuram, Andhra Pradesh, Exhaust Leak; Diagnostics, Exhaust leak, Exhaust system repair, Bajaj Auto
+253, Ananthapuram, Andhra Pradesh, Oil Change; Brake Fluid Change, Brake fluid leak, Brake fluid replacement, Mahindra
+254, Ananthapuram, Andhra Pradesh, Tire Alignment; General Maintenance, Tire wear, Tire rotation and balancing, Renault
+255, Ananthapuram, Andhra Pradesh, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush, Audi
+256, Ananthapuram, Andhra Pradesh, Brake Repair; Tire Replacement, Body damage, Body repair, Volkswagen
+257, Ananthapuram, Andhra Pradesh, Fluid Leak; Oil Change, Fluid leak, Fluid replacement, TVS Motor Company
+258, Ananthapuram, Andhra Pradesh, General Maintenance; Engine Diagnostics, Check engine light, Diagnostic scan, Hero MotoCorp
+259, Ananthapuram, Andhra Pradesh, Brake Service; Oil Change, Brake wear, Brake replacement, Hyundai
+260, Ananthapuram, Andhra Pradesh, Tire Replacement; Engine Check, Tire wear, Tire rotation and balancing, Bajaj Auto
+261, Ananthapuram, Andhra Pradesh, Exhaust Repair; Brake Fluid Change, Exhaust noise, Exhaust system repair, Ford
+262, Ananthapuram, Andhra Pradesh, Oil Change; Brake Inspection, Brake noise, Brake pad replacement, Maruti Suzuki
+263, Ananthapuram, Andhra Pradesh, Engine Repair; Diagnostics, Engine misfire, Diagnostic scan, Nissan
+264, Ananthapuram, Andhra Pradesh, Tire Rotation; Brake Service, Tire wear, Tire rotation and balancing, Hyundai
+265, Ananthapuram, Andhra Pradesh, Fluid Check; Oil Change, Low oil, Oil replacement, Ford
+266, Ananthapuram, Andhra Pradesh, Brake Inspection; General Maintenance, Brake noise, Brake pad replacement, Mahindra
+267, Ananthapuram, Andhra Pradesh, Engine Diagnostics; Tune-Up, Engine roughness, Spark plug replacement, Toyota
+268, Ananthapuram, Andhra Pradesh, Transmission Fluid Change; Brake Service, Slipping transmission, Transmission fluid change, Volkswagen
+269, Ananthapuram, Andhra Pradesh, General Maintenance; Tire Inspection, Tire wear, Tire rotation, Audi
+270, Ananthapuram, Andhra Pradesh, Oil Change; Tire Alignment, Misaligned tires, Tire alignment, Hyundai
+271, Ananthapuram, Andhra Pradesh, Brake Repair; Engine Check, Brake noise, Brake pad replacement, Ford
+272, Ananthapuram, Andhra Pradesh, Transmission Repair; Oil Change, Slipping transmission, Transmission fluid change, Tata Motors
+273, Ananthapuram, Andhra Pradesh, Exhaust Leak; Tire Inspection, Exhaust noise, Exhaust system repair, Hero MotoCorp
+274, Ananthapuram, Andhra Pradesh, Fluid Leak; Brake Inspection, Fluid leak, Fluid replacement, Audi
+275, Ananthapuram, Andhra Pradesh, Engine Diagnostics; Oil Change, Engine misfire, Diagnostic scan, Volkswagen
+276, Ananthapuram, Andhra Pradesh, Suspension Repair; General Maintenance, Steering issues, Suspension adjustment, Tata Motors
+277, Ananthapuram, Andhra Pradesh, Tire Rotation; Brake Service, Tire wear, Tire rotation, Kia
+278, Ananthapuram, Andhra Pradesh, Brake Fluid Change; Oil Change, Brake fluid leak, Brake fluid replacement, Bajaj Auto
+279, Ananthapuram, Andhra Pradesh, Engine Check; Tire Replacement, Tire damage, Tire replacement, Hero MotoCorp
+280, Ananthapuram, Andhra Pradesh, Transmission Fluid Change; Diagnostics, Transmission slipping, Transmission fluid change, Hyundai
+281, Ananthapuram, Andhra Pradesh, Oil Change; Brake Repair, Brake noise, Brake pad replacement, Renault
+282, Ananthapuram, Andhra Pradesh, Fluid Check; General Maintenance, Fluid leak, Fluid replacement, Toyota
+283, Ananthapuram, Andhra Pradesh, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush, Ford
+284, Ananthapuram, Andhra Pradesh, Tire Alignment; Brake Fluid Change, Misaligned tires, Tire alignment, Kia
+285, Ananthapuram, Andhra Pradesh, Exhaust Repair; Oil Change, Exhaust noise, Exhaust system repair, Honda
+286, Ananthapuram, Andhra Pradesh, Brake Inspection; Tire Rotation, Brake noise, Brake pad replacement, Bajaj Auto
+287, Ananthapuram, Andhra Pradesh, Engine Diagnostics; Oil Change, Check engine light, Diagnostic scan, Nissan
+288, Ananthapuram, Andhra Pradesh, Fluid Leak; Tire Replacement, Fluid leak, Fluid replacement, Tata Motors
+289, Ananthapuram, Andhra Pradesh, General Maintenance; Engine Repair, Engine roughness, Spark plug replacement, Hyundai
+290, Ananthapuram, Andhra Pradesh, Brake Repair; Oil Change, Brake noise, Brake pad replacement, Ford
+291, Ananthapuram, Andhra Pradesh, Tire Alignment; Brake Inspection, Misaligned wheels, Wheel alignment, Renault
+292, Ananthapuram, Andhra Pradesh, Suspension Repair; Tire Inspection, Steering issues, Suspension adjustment, Kia
+293, Ananthapuram, Andhra Pradesh, Exhaust Leak; General Maintenance, Exhaust noise, Exhaust system repair, Hyundai
+294, Ananthapuram, Andhra Pradesh, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush, Volkswagen
+295, Ananthapuram, Andhra Pradesh, Oil Change; Tire Alignment, Misaligned tires, Tire alignment, Hyundai
+296, Ananthapuram, Andhra Pradesh, Brake Repair; Engine Check, Brake noise, Brake pad replacement, Ford
+297, Ananthapuram, Andhra Pradesh, Transmission Repair; Oil Change, Slipping transmission, Transmission fluid change, Tata Motors
+298, Ananthapuram, Andhra Pradesh, Exhaust Leak; Tire Inspection, Exhaust noise, Exhaust system repair, Hero MotoCorp
+299, Ananthapuram, Andhra Pradesh, Fluid Leak; Brake Inspection, Fluid leak, Fluid replacement, Audi
+300, Ananthapuram, Andhra Pradesh, Engine Diagnostics; Oil Change, Engine misfire, Diagnostic scan, Volkswagen
+301, Ananthapuram, Andhra Pradesh, Suspension Repair; General Maintenance, Steering issues, Suspension adjustment, Tata Motors
+302, Ananthapuram, Andhra Pradesh, Tire Rotation; Brake Service, Tire wear, Tire rotation, Kia
+303, Ananthapuram, Andhra Pradesh, Brake Fluid Change; Oil Change, Brake fluid leak, Brake fluid replacement, Bajaj Auto
+304, Ananthapuram, Andhra Pradesh, Engine Check; Tire Replacement, Tire damage, Tire replacement, Hero MotoCorp
+305, Ananthapuram, Andhra Pradesh, Transmission Fluid Change; Diagnostics, Transmission slipping, Transmission fluid change, Hyundai
+306, Ananthapuram, Andhra Pradesh, Oil Change; Brake Repair, Brake noise, Brake pad replacement, Renault
+307, Ananthapuram, Andhra Pradesh, Fluid Check; General Maintenance, Fluid leak, Fluid replacement, Toyota
+308, Ananthapuram, Andhra Pradesh, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush, Ford
+309, Ananthapuram, Andhra Pradesh, Tire Alignment; Brake Fluid Change, Misaligned tires, Tire alignment, Kia
+310, Ananthapuram, Andhra Pradesh, Exhaust Repair; Oil Change, Exhaust noise, Exhaust system repair, Honda
+311, Ananthapuram, Andhra Pradesh, Brake Inspection; Tire Rotation, Brake noise, Brake pad replacement, Bajaj Auto
+312, Ananthapuram, Andhra Pradesh, Engine Diagnostics; Oil Change, Check engine light, Diagnostic scan, Nissan
+313, Ananthapuram, Andhra Pradesh, Fluid Leak; Tire Replacement, Fluid leak, Fluid replacement, Tata Motors
+314, Ananthapuram, Andhra Pradesh, General Maintenance; Engine Repair, Engine roughness, Spark plug replacement, Hyundai
+315, Ananthapuram, Andhra Pradesh, Brake Repair; Oil Change, Brake noise, Brake pad replacement, Ford
+316, Ananthapuram, Andhra Pradesh, Tire Alignment; Brake Inspection, Misaligned wheels, Wheel alignment, Renault
+317, Ananthapuram, Andhra Pradesh, Suspension Repair; Tire Inspection, Steering issues, Suspension adjustment, Kia
+318, Ananthapuram, Andhra Pradesh, Exhaust Leak; General Maintenance, Exhaust noise, Exhaust system repair, Hyundai
+319, Ananthapuram, Andhra Pradesh, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush, Volkswagen
+320, Ananthapuram, Andhra Pradesh, Oil Change; Tire Alignment, Misaligned tires, Tire alignment, Hyundai
+321, Ananthapuram, Andhra Pradesh, Brake Repair; Engine Check, Brake noise, Brake pad replacement, Ford
+322, Ananthapuram, Andhra Pradesh, Transmission Repair; Oil Change, Slipping transmission, Transmission fluid change, Tata Motors
+323, Ananthapuram, Andhra Pradesh, Exhaust Leak; Tire Inspection, Exhaust noise, Exhaust system repair, Hero MotoCorp
+324, Ananthapuram, Andhra Pradesh, Fluid Leak; Brake Inspection, Fluid leak, Fluid replacement, Audi
+325, Ananthapuram, Andhra Pradesh, Engine Diagnostics; Oil Change, Engine misfire, Diagnostic scan, Volkswagen
+326, Ananthapuram, Andhra Pradesh, Suspension Repair; General Maintenance, Steering issues, Suspension adjustment, Tata Motors
+327, Ananthapuram, Andhra Pradesh, Tire Rotation; Brake Service, Tire wear, Tire rotation, Kia
+328, Ananthapuram, Andhra Pradesh, Brake Fluid Change; Oil Change, Brake fluid leak, Brake fluid replacement, Bajaj Auto
+329, Ananthapuram, Andhra Pradesh, Engine Check; Tire Replacement, Tire damage, Tire replacement, Hero MotoCorp
+330, Ananthapuram, Andhra Pradesh, Transmission Fluid Change; Diagnostics, Transmission slipping, Transmission fluid change, Hyundai
+331, Ananthapuram, Andhra Pradesh, Oil Change; Brake Repair, Brake noise, Brake pad replacement, Renault
+332, Ananthapuram, Andhra Pradesh, Fluid Check; General Maintenance, Fluid leak, Fluid replacement, Toyota
+333, Ananthapuram, Andhra Pradesh, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush, Ford
+334, Ananthapuram, Andhra Pradesh, Tire Alignment; Brake Fluid Change, Misaligned tires, Tire alignment, Kia
+335, Ananthapuram, Andhra Pradesh, Exhaust Repair; Oil Change, Exhaust noise, Exhaust system repair, Honda
+336, Ananthapuram, Andhra Pradesh, Brake Inspection; Tire Rotation, Brake noise, Brake pad replacement, Bajaj Auto
+337, Ananthapuram, Andhra Pradesh, Engine Diagnostics; Oil Change, Check engine light, Diagnostic scan, Nissan
+338, Ananthapuram, Andhra Pradesh, Fluid Leak; Tire Replacement, Fluid leak, Fluid replacement, Tata Motors
+339, Ananthapuram, Andhra Pradesh, General Maintenance; Engine Repair, Engine roughness, Spark plug replacement, Hyundai
+340, Ananthapuram, Andhra Pradesh, Brake Repair; Oil Change, Brake noise, Brake pad replacement, Ford
+341, Ananthapuram, Andhra Pradesh, Tire Alignment; Brake Inspection, Misaligned wheels, Wheel alignment, Renault
+342, Ananthapuram, Andhra Pradesh, Suspension Repair; Tire Inspection, Steering issues, Suspension adjustment, Kia
+343, Ananthapuram, Andhra Pradesh, Exhaust Leak; General Maintenance, Exhaust noise, Exhaust system repair, Hyundai
+344, Ananthapuram, Andhra Pradesh, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush, Volkswagen
+345, Ananthapuram, Andhra Pradesh, Oil Change; Tire Alignment, Misaligned tires, Tire alignment, Hyundai
+346, Ananthapuram, Andhra Pradesh, Brake Repair; Engine Check, Brake noise, Brake pad replacement, Ford
+347, Ananthapuram, Andhra Pradesh, Transmission Repair; Oil Change, Slipping transmission, Transmission fluid change, Tata Motors
+348, Ananthapuram, Andhra Pradesh, Exhaust Leak; Tire Inspection, Exhaust noise, Exhaust system repair, Hero MotoCorp
+349, Ananthapuram, Andhra Pradesh, Fluid Leak; Brake Inspection, Fluid leak, Fluid replacement, Audi
+350, Ananthapuram, Andhra Pradesh, Engine Diagnostics; Oil Change, Engine misfire, Diagnostic scan, Volkswagen
+351, Ananthapuram, Andhra Pradesh, Suspension Repair; General Maintenance, Steering issues, Suspension adjustment, Tata Motors
+352, Ananthapuram, Andhra Pradesh, Tire Rotation; Brake Service, Tire wear, Tire rotation, Kia
+353, Ananthapuram, Andhra Pradesh, Brake Fluid Change; Oil Change, Brake fluid leak, Brake fluid replacement, Bajaj Auto
+354, Ananthapuram, Andhra Pradesh, Engine Check; Tire Replacement, Tire damage, Tire replacement, Hero MotoCorp
+355, Ananthapuram, Andhra Pradesh, Transmission Fluid Change; Diagnostics, Transmission slipping, Transmission fluid change, Hyundai
+356, Ananthapuram, Andhra Pradesh, Oil Change; Brake Repair, Brake noise, Brake pad replacement, Renault
+357, Ananthapuram, Andhra Pradesh, Fluid Check; General Maintenance, Fluid leak, Fluid replacement, Toyota
+358, Ananthapuram, Andhra Pradesh, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush, Ford
+359, Ananthapuram, Andhra Pradesh, Tire Alignment; Brake Fluid Change, Misaligned tires, Tire alignment, Kia
+360, Ananthapuram, Andhra Pradesh, Exhaust Repair; Oil Change, Exhaust noise, Exhaust system repair, Honda
+361, Ananthapuram, Andhra Pradesh, Brake Inspection; Tire Rotation, Brake noise, Brake pad replacement, Bajaj Auto
+362, Ananthapuram, Andhra Pradesh, Engine Diagnostics; Oil Change, Check engine light, Diagnostic scan, Nissan
+363, Ananthapuram, Andhra Pradesh, Fluid Leak; Tire Replacement, Fluid leak, Fluid replacement, Tata Motors
+364, Ananthapuram, Andhra Pradesh, General Maintenance; Engine Repair, Engine roughness, Spark plug replacement, Hyundai
+365, Ananthapuram, Andhra Pradesh, Brake Repair; Oil Change, Brake noise, Brake pad replacement, Ford
+366, Ananthapuram, Andhra Pradesh, Tire Alignment; Brake Inspection, Misaligned wheels, Wheel alignment, Renault
+367, Ananthapuram, Andhra Pradesh, Suspension Repair; Tire Inspection, Steering issues, Suspension adjustment, Kia
+368, Ananthapuram, Andhra Pradesh, Exhaust Leak; General Maintenance, Exhaust noise, Exhaust system repair, Hyundai
+369, Ananthapuram, Andhra Pradesh, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush, Volkswagen
+370, Ananthapuram, Andhra Pradesh, Oil Change; Tire Alignment, Misaligned tires, Tire alignment, Hyundai
+371, Ananthapuram, Andhra Pradesh, Brake Repair; Engine Check, Brake noise, Brake pad replacement, Ford
+372, Ananthapuram, Andhra Pradesh, Transmission Repair; Oil Change, Slipping transmission, Transmission fluid change, Tata Motors
+373, Ananthapuram, Andhra Pradesh, Exhaust Leak; Tire Inspection, Exhaust noise, Exhaust system repair, Hero MotoCorp
+374, Ananthapuram, Andhra Pradesh, Fluid Leak; Brake Inspection, Fluid leak, Fluid replacement, Audi
+375, Ananthapuram, Andhra Pradesh, Engine Diagnostics; Oil Change, Engine misfire, Diagnostic scan, Volkswagen
+376, Ananthapuram, Andhra Pradesh, Suspension Repair; General Maintenance, Steering issues, Suspension adjustment, Tata Motors
+377, Ananthapuram, Andhra Pradesh, Tire Rotation; Brake Service, Tire wear, Tire rotation, Kia
+378, Ananthapuram, Andhra Pradesh, Brake Fluid Change; Oil Change, Brake fluid leak, Brake fluid replacement, Bajaj Auto
+379, Ananthapuram, Andhra Pradesh, Engine Check; Tire Replacement, Tire damage, Tire replacement, Hero MotoCorp
+376, Ananthapuram, Andhra Pradesh, Suspension Repair; General Maintenance, Steering issues, Suspension adjustment, Tata Motors
+377, Ananthapuram, Andhra Pradesh, Tire Rotation; Brake Service, Tire wear, Tire rotation, Kia
+378, Ananthapuram, Andhra Pradesh, Brake Fluid Change; Oil Change, Brake fluid leak, Brake fluid replacement, Bajaj Auto
+379, Ananthapuram, Andhra Pradesh, Engine Check; Tire Replacement, Tire damage, Tire replacement, Hero MotoCorp
+376, Ananthapuram, Andhra Pradesh, Suspension Repair; General Maintenance, Steering issues, Suspension adjustment, Tata Motors
+377, Ananthapuram, Andhra Pradesh, Tire Rotation; Brake Service, Tire wear, Tire rotation, Kia
+378, Ananthapuram, Andhra Pradesh, Brake Fluid Change; Oil Change, Brake fluid leak, Brake fluid replacement, Bajaj Auto
+379, Ananthapuram, Andhra Pradesh, Engine Check; Tire Replacement, Tire damage, Tire replacement, Hero MotoCorp
+380, Ananthapuram, Andhra Pradesh, Battery Check; Oil Change, Battery drainage, Battery replacement, Honda 
+381, Ananthapuram, Andhra Pradesh, AC Service; Engine Tune-Up, AC not cooling, AC repair, Maruti Suzuki 
+382, Ananthapuram, Andhra Pradesh, Wheel Alignment; Brake Inspection, Misalignment, Wheel alignment, Ford 
+383, Ananthapuram, Andhra Pradesh, Fuel Filter Change; Oil Change, Fuel blockage, Fuel filter replacement, Tata Motors 
+384, Ananthapuram, Andhra Pradesh, Timing Belt Replacement; Engine Check, Timing issues, Timing belt replacement, Hyundai 
+385, Ananthapuram, Andhra Pradesh, Transmission Fluid Change; Brake Service, Gear slipping, Transmission fluid replacement, Nissan 
+386, Ananthapuram, Andhra Pradesh, Radiator Flush; Cooling System Check, Overheating, Radiator repair, Chevrolet 
+387, Ananthapuram, Andhra Pradesh, Light Replacement; General Maintenance, Flickering lights, Headlight replacement, Suzuki 
+388, Ananthapuram, Andhra Pradesh, Exhaust System Repair; Emission Test, Loud exhaust, Exhaust repair, Volkswagen 
+389, Ananthapuram, Andhra Pradesh, Oil Filter Change; Tire Rotation, Oil leak, Oil filter replacement, Renault 
+390, Ananthapuram, Andhra Pradesh, Spark Plug Replacement; Engine Diagnostics, Poor acceleration, Spark plug replacement, Toyota 
+391, Ananthapuram, Andhra Pradesh, Clutch Replacement; Brake Inspection, Sticking clutch, Clutch repair, Mahindra 
+392, Ananthapuram, Andhra Pradesh, Fuel Injection Service; Oil Change, Rough idling, Fuel injector cleaning, Bajaj Auto 
+393, Ananthapuram, Andhra Pradesh, Windshield Wiper Replacement; General Maintenance, Streaky wipers, Wiper replacement, Ford 
+394, Ananthapuram, Andhra Pradesh, Power Steering Fluid Change; Tire Rotation, Hard steering, Power steering service, Honda 
+395, Ananthapuram, Andhra Pradesh, Differential Service; Brake Fluid Change, Noise while turning, Differential repair, Kia 
+396, Ananthapuram, Andhra Pradesh, Antifreeze Change; Engine Check, Cooling issues, Antifreeze replacement, Hyundai 
+397, Ananthapuram, Andhra Pradesh, Serpentine Belt Replacement; General Maintenance, Squeaking noise, Belt replacement, Nissan 
+398, Ananthapuram, Andhra Pradesh, Engine Filter Change; Tire Replacement, Decreased power, Engine filter replacement, Tata Motors 
+399, Ananthapuram, Andhra Pradesh, Safety Inspection; Brake Service, Warning lights, Inspection service, Chevrolet 
+400, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Suzuki
+401, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Honda City
+402, Ananthapuram, Andhra Pradesh, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration, Maruti Swift
+403, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration, Toyota Corolla
+404, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Scratched headlights, Headlight restoration, Ford EcoSport
+405, Ananthapuram, Andhra Pradesh, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration, Hyundai Verna
+406, Ananthapuram, Andhra Pradesh, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration, Chevrolet Beat
+407, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Tata Nexon
+408, Ananthapuram, Andhra Pradesh, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration, Nissan Micra
+409, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Alignment, Cloudy headlights, Headlight restoration, Renault Duster
+410, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Mahindra XUV300
+411, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Kia Seltos
+412, Ananthapuram, Andhra Pradesh, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration, Tata Tiago
+413, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration, Skoda Rapid
+414, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Scratched headlights, Headlight restoration, Volkswagen Polo
+415, Ananthapuram, Andhra Pradesh, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration, Nissan Sunny
+416, Ananthapuram, Andhra Pradesh, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration, Honda Jazz
+417, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Ford Figo
+418, Ananthapuram, Andhra Pradesh, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration, Maruti Baleno
+419, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Alignment, Cloudy headlights, Headlight restoration, Hyundai Creta
+420, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Mahindra Thar
+421, Ananthapuram, Andhra Pradesh, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration, Hyundai Elite i20
+422, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration, Tata Harrier
+423, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Scratched headlights, Headlight restoration, Kia Carnival
+424, Ananthapuram, Andhra Pradesh, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration, Toyota Innova
+425, Ananthapuram, Andhra Pradesh, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration, Skoda Kushaq
+426, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Maruti Suzuki Vitara Brezza
+427, Ananthapuram, Andhra Pradesh, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration, Nissan Magnite
+428, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Alignment, Cloudy headlights, Headlight restoration, Honda Accord
+429, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, MG Hector
+430, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Mahindra Scorpio
+431, Ananthapuram, Andhra Pradesh, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration, Tata Safari
+432, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration, Hyundai i20
+433, Ananthapuram, Andhra Pradesh, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration, Honda WR-V
+434, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Maruti Celerio
+435, Ananthapuram, Andhra Pradesh, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration, Renault Captur
+436, Ananthapuram, Andhra Pradesh, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration, Tata Nexon
+437, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Ford EcoSport
+438, Ananthapuram, Andhra Pradesh, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration, Mahindra KUV100
+439, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration, Nissan Kicks
+440, Ananthapuram, Andhra Pradesh, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration, Skoda Octavia
+441, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, MG Hector Plus
+442, Ananthapuram, Andhra Pradesh, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration, Hyundai Venue
+443, Ananthapuram, Andhra Pradesh, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration,Hyundai
+444, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Alignment, Cloudy headlights, Headlight restoration, Mahindra Thar
+445, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Ford EcoSport
+446, Ananthapuram, Andhra Pradesh, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration, Renault Duster
+447, Ananthapuram, Andhra Pradesh, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration, Tata Harrier
+448, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Maruti Alto
+449, Ananthapuram, Andhra Pradesh, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration, Hyundai Creta
+450, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration, Honda WR-V
+451, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Scratched headlights, Headlight restoration, Tata Nexon
+452, Ananthapuram, Andhra Pradesh, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration, Ford Figo
+453, Ananthapuram, Andhra Pradesh, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration, Renault Duster
+454, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Mahindra 
+455, Ananthapuram, Andhra Pradesh, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration, Maruti Swift
+456, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration, Hyundai i20
+457, Ananthapuram, Andhra Pradesh, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration, Tata Harrier
+458, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Honda City
+459, Ananthapuram, Andhra Pradesh, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration, Maruti Baleno
+460, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Alignment, Cloudy headlights, Headlight restoration, Toyota Yaris
+461, Ananthapuram, Andhra Pradesh, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration, Hyundai Venue
+462, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Nissan Kicks
+463, Ananthapuram, Andhra Pradesh, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration, Tata Nexon
+464, Ananthapuram, Andhra Pradesh, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration, MG Hector
+465, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Alignment, Cloudy headlights, Headlight restoration, Ford EcoSport
+466, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Renault Captur
+467, Ananthapuram, Andhra Pradesh, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration, Skoda Kushaq
+468, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration, Honda Accord
+469, Ananthapuram, Andhra Pradesh, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration, Maruti Vitara Brezza
+470, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Hyundai Creta
+471, Ananthapuram, Andhra Pradesh, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration, Tata Nexon
+472, Ananthapuram, Andhra Pradesh, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration, Ford EcoSport
+473, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Alignment, Cloudy headlights, Headlight restoration, Nissan Magnite
+474, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Mahindra Thar
+475, Ananthapuram, Andhra Pradesh, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration, Toyota Innova
+476, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration, Hyundai Elite i20
+477, Ananthapuram, Andhra Pradesh, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration, Renault Duster
+478, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Tata Harrier
+479, Ananthapuram, Andhra Pradesh, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration, Maruti Swift
+480, Ananthapuram, Andhra Pradesh, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration, Honda WR-V
+481, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Alignment, Cloudy headlights, Headlight restoration, Ford Figo
+482, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Hyundai Creta
+483, Ananthapuram, Andhra Pradesh, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration, MG Hector
+484, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration, Toyota Fortuner
+485, Ananthapuram, Andhra Pradesh, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration, Tata Nexon
+486, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Nissan Kicks
+487, Ananthapuram, Andhra Pradesh, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration, Honda
+488, Ananthapuram, Andhra Pradesh, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration, Mahindra XUV300
+489, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Alignment, Cloudy headlights, Headlight restoration, Ford EcoSport
+490, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Hyundai Venue
+491, Ananthapuram, Andhra Pradesh, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration, Tata Tiago
+492, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration, Renault Captur
+493, Ananthapuram, Andhra Pradesh, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration, Skoda Kushaq
+494, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Maruti Vitara
+495, Ananthapuram, Andhra Pradesh, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration, Toyota Yaris
+496, Ananthapuram, Andhra Pradesh, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration, Hyundai Creta
+497, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Alignment, Cloudy headlights, Headlight restoration, Tata Nexon
+498, Ananthapuram, Andhra Pradesh, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration, Mahindra Scorpio
+499, Ananthapuram, Andhra Pradesh, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration, Nissan Kicks
+500, Ananthapuram, Andhra Pradesh, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration, Honda Accord

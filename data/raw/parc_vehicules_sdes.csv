@@ -1,0 +1,1001 @@
+"Code insee de la commune";"Libellé de la commune";"Motorisation du véhicule";"Vignette Crit'air du véhicule";"Statut de l'utilisateur ";"Groupe du véhicule";"Catégorie du véhicule";"parc au 1er janvier 2011";"parc au 1er janvier 2012";"parc au 1er janvier 2013";"parc au 1er janvier 2014";"parc au 1er janvier 2015";"parc au 1er janvier 2016";"parc au 1er janvier 2017";"parc au 1er janvier 2018";"parc au 1er janvier 2019";"parc au 1er janvier 2020";"parc au 1er janvier 2021";"parc au 1er janvier 2022";"parc au 1er janvier 2023";"parc au 1er janvier 2024";"parc au 1er janvier 2025"
+"COMMUNE_CODE";"COMMUNE_NOM";"CARBURANT";"CRIT_AIR";"STATUT_UTILISATEUR";"GROUPE";"CATEGORIE";"PARC_2011";"PARC_2012";"PARC_2013";"PARC_2014";"PARC_2015";"PARC_2016";"PARC_2017";"PARC_2018";"PARC_2019";"PARC_2020";"PARC_2021";"PARC_2022";"PARC_2023";"PARC_2024";"PARC_2025"
+"00000";"Inconnu";"Diesel";"Non classé";"Professionel";"PL";"AUTREPL";1;1;1;1;1;1;1;1;1;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 5";"Professionel";"PL";"AUTREPL";1;1;1;1;1;1;1;1;1;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 3";"Particulier";"PL";"AUTREPL";1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 5";"Particulier";"PL";"AUTREPL";3;3;3;3;3;2;2;1;1;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Non classé";"Particulier";"PL";"AUTREPL";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"00000";"Inconnu";"Essence";"Non classé";"Particulier";"PL";"CAMION";0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 5";"Particulier";"PL";"CAMION";4;3;3;3;2;0;0;0;0;0;1;0;0;0;0
+"00000";"Inconnu";"Diesel";"Non classé";"Professionel";"PL";"CAMION";32;23;18;17;16;14;13;11;10;7;8;7;5;4;6
+"00000";"Inconnu";"Diesel";"Non classé";"Particulier";"PL";"CAMION";21;17;16;14;15;13;10;7;5;4;3;2;1;0;1
+"00000";"Inconnu";"Diesel";"Crit'Air 4";"Particulier";"PL";"TRACTEUR";1;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 5";"Professionel";"PL";"TRACTEUR";2;1;1;2;1;1;0;0;0;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 5";"Particulier";"PL";"TRACTEUR";2;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Non classé";"Professionel";"PL";"TRACTEUR";14;10;8;5;4;3;3;4;4;2;1;1;0;0;0
+"00000";"Inconnu";"Diesel";"Non classé";"Particulier";"PL";"TRACTEUR";6;4;3;2;3;3;2;1;2;1;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 5";"Professionel";"TCP";"BUS";1;1;1;1;1;1;1;1;1;1;1;0;0;0;0
+"00000";"Inconnu";"Diesel";"Non classé";"Professionel";"TCP";"BUS";1;1;1;1;0;0;0;0;0;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Non classé";"Professionel";"TCP";"CAR";4;4;5;3;3;0;0;0;0;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Non classé";"Particulier";"TCP";"CAR";4;4;3;3;2;2;1;1;0;0;0;0;0;0;0
+"00000";"Inconnu";"Gaz";"Crit'Air 1";"Particulier";"VUL";"CAMTTE";1;1;1;1;1;1;1;1;0;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMTTE";0;2;2;3;3;2;2;1;2;27;50;57;54;44;39
+"00000";"Inconnu";"Essence";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";1;1;1;1;1;1;0;0;1;1;2;1;1;1;1
+"00000";"Inconnu";"Gaz";"Crit'Air 1";"Professionel";"VUL";"CAMTTE";2;3;2;2;2;1;1;1;0;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 3";"Professionel";"VUL";"CAMTTE";8;49;64;56;43;33;21;17;13;16;16;9;10;8;8
+"00000";"Inconnu";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";16;32;26;18;16;15;10;9;10;14;19;27;16;16;16
+"00000";"Inconnu";"Diesel";"Crit'Air 4";"Professionel";"VUL";"CAMTTE";24;22;21;19;20;19;15;11;9;5;2;1;1;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMTTE";25;20;14;11;10;9;6;5;4;8;13;11;5;4;4
+"00000";"Inconnu";"Diesel";"Crit'Air 5";"Professionel";"VUL";"CAMTTE";11;9;10;11;9;9;8;5;4;6;1;0;1;1;0
+"00000";"Inconnu";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMTTE";19;16;12;9;5;6;5;2;2;5;3;1;0;0;0
+"00000";"Inconnu";"Diesel";"Non classé";"Professionel";"VUL";"CAMTTE";317;279;224;205;197;175;143;128;110;70;56;56;52;41;38
+"00000";"Inconnu";"Diesel";"Non classé";"Particulier";"VUL";"CAMTTE";107;83;69;68;59;47;44;36;34;28;26;22;22;15;14
+"00000";"Inconnu";"Essence";"Non classé";"Professionel";"VUL";"CAMTTE";92;83;71;62;60;49;47;38;32;19;17;15;11;14;12
+"00000";"Inconnu";"Essence";"Non classé";"Particulier";"VUL";"CAMTTE";17;10;6;4;5;5;3;4;6;2;2;3;2;3;3
+"00000";"Inconnu";"Essence";"Crit'Air 3";"Professionel";"VUL";"DERIVP";1;1;1;1;1;1;0;0;0;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 2";"Professionel";"VUL";"DERIVP";0;20;24;24;21;15;15;11;13;16;10;9;7;5;4
+"00000";"Inconnu";"Diesel";"Crit'Air 2";"Particulier";"VUL";"DERIVP";0;10;1;1;1;1;1;1;1;4;3;3;5;3;4
+"00000";"Inconnu";"Diesel";"Crit'Air 3";"Professionel";"VUL";"DERIVP";2;31;38;31;26;22;15;11;8;3;3;1;1;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 3";"Particulier";"VUL";"DERIVP";4;109;6;6;3;1;1;1;1;0;2;1;1;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 4";"Professionel";"VUL";"DERIVP";1;0;0;0;0;0;1;0;0;0;1;1;1;1;1
+"00000";"Inconnu";"Diesel";"Crit'Air 4";"Particulier";"VUL";"DERIVP";6;5;3;3;2;2;0;1;0;1;2;1;0;0;1
+"00000";"Inconnu";"Diesel";"Crit'Air 5";"Professionel";"VUL";"DERIVP";2;2;1;1;1;1;1;1;1;1;1;1;0;0;0
+"00000";"Inconnu";"Diesel";"Non classé";"Professionel";"VUL";"DERIVP";52;46;38;27;24;19;17;14;10;8;4;2;1;2;1
+"00000";"Inconnu";"Diesel";"Non classé";"Particulier";"VUL";"DERIVP";16;17;11;7;3;3;3;2;2;1;1;0;0;0;0
+"00000";"Inconnu";"Essence";"Non classé";"Professionel";"VUL";"DERIVP";8;9;8;6;5;5;4;2;1;1;0;0;0;1;1
+"00000";"Inconnu";"Essence";"Non classé";"Particulier";"VUL";"DERIVP";2;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMPCAR";1;1;1;1;0;0;0;0;0;3;3;2;3;3;2
+"00000";"Inconnu";"Diesel";"Crit'Air 4";"Professionel";"VUL";"CAMPCAR";1;1;1;1;1;1;1;1;1;1;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMPCAR";1;1;1;1;1;1;1;1;1;0;1;0;1;1;0
+"00000";"Inconnu";"Gaz";"Crit'Air 1";"Professionel";"VUL";"CAMPCAR";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMPCAR";2;2;2;2;2;2;2;1;1;2;1;1;1;1;0
+"00000";"Inconnu";"Diesel";"Crit'Air 5";"Professionel";"VUL";"CAMPCAR";2;2;2;2;2;2;1;0;0;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Non classé";"Professionel";"VUL";"CAMPCAR";14;10;9;7;6;6;5;4;3;3;3;3;3;3;3
+"00000";"Inconnu";"Diesel";"Non classé";"Particulier";"VUL";"CAMPCAR";8;4;4;3;1;2;1;0;0;0;0;0;0;0;0
+"00000";"Inconnu";"Essence";"Non classé";"Professionel";"VUL";"CAMPCAR";2;0;0;1;1;1;0;1;1;1;1;1;1;1;1
+"00000";"Inconnu";"Essence";"Non classé";"Particulier";"VUL";"CAMPCAR";4;4;3;1;1;1;1;0;1;2;1;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 3";"Particulier";"VUL";"VASP";1;1;1;1;0;0;0;0;0;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 4";"Particulier";"VUL";"VASP";1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 5";"Professionel";"VUL";"VASP";1;1;1;1;1;1;0;0;0;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 3";"Professionel";"VUL";"VASP";0;6;5;4;3;3;1;1;1;1;1;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 5";"Particulier";"VUL";"VASP";2;2;1;1;1;1;1;1;1;1;1;0;0;0;0
+"00000";"Inconnu";"Diesel";"Non classé";"Professionel";"VUL";"VASP";18;18;17;11;10;10;11;8;6;7;6;5;5;3;1
+"00000";"Inconnu";"Diesel";"Non classé";"Particulier";"VUL";"VASP";8;5;2;2;1;1;1;1;1;1;1;1;1;0;0
+"00000";"Inconnu";"Essence";"Non classé";"Professionel";"VUL";"VASP";2;2;1;1;1;1;1;1;0;0;0;0;1;1;0
+"00000";"Inconnu";"Essence";"Non classé";"Particulier";"VUL";"VASP";3;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"00000";"Inconnu";"Essence HNR";"Crit'Air 1";"Particulier";"VP";"VP";0;2;1;1;0;0;1;0;1;11;22;79;144;45;36
+"00000";"Inconnu";"Gaz";"Crit'Air 1";"Professionel";"VP";"VP";9;4;2;2;2;1;1;1;1;1;0;0;0;0;0
+"00000";"Inconnu";"Gaz";"Crit'Air 1";"Particulier";"VP";"VP";14;9;9;4;3;3;3;2;2;1;38;30;3;3;2
+"00000";"Inconnu";"Diesel";"Crit'Air 2";"Professionel";"VP";"VP";3;27;68;47;39;41;40;53;66;74;50;32;21;18;8
+"00000";"Inconnu";"Diesel";"Crit'Air 2";"Particulier";"VP";"VP";111;311;355;307;335;321;307;309;365;739;571;682;523;175;155
+"00000";"Inconnu";"Diesel";"Crit'Air 3";"Professionel";"VP";"VP";51;204;192;129;91;70;48;30;25;26;14;9;6;3;3
+"00000";"Inconnu";"Diesel";"Crit'Air 3";"Particulier";"VP";"VP";285;2065;2499;1994;1547;1239;982;773;610;510;332;188;79;69;54
+"00000";"Inconnu";"Diesel";"Crit'Air 4";"Professionel";"VP";"VP";59;57;57;54;53;52;38;28;24;19;6;5;5;2;3
+"00000";"Inconnu";"Diesel";"Crit'Air 4";"Particulier";"VP";"VP";164;117;90;77;67;54;44;39;41;84;68;45;28;20;16
+"00000";"Inconnu";"Diesel";"Crit'Air 5";"Professionel";"VP";"VP";28;28;27;25;24;24;14;11;9;7;1;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 5";"Particulier";"VP";"VP";56;39;34;32;22;18;16;15;15;18;9;6;3;2;2
+"00000";"Inconnu";"Diesel";"Non classé";"Professionel";"VP";"VP";1061;721;575;463;417;364;278;241;184;150;111;94;87;83;73
+"00000";"Inconnu";"Diesel";"Non classé";"Particulier";"VP";"VP";577;361;286;227;191;151;116;96;71;47;40;34;35;29;23
+"00000";"Inconnu";"Essence";"Crit'Air 1";"Professionel";"VP";"VP";1;7;12;13;13;13;16;18;47;65;37;40;42;35;20
+"00000";"Inconnu";"Essence";"Crit'Air 1";"Particulier";"VP";"VP";14;45;57;53;62;65;103;147;202;420;492;606;543;370;322
+"00000";"Inconnu";"Essence";"Crit'Air 2";"Professionel";"VP";"VP";41;29;21;19;18;17;14;9;11;14;9;5;2;1;1
+"00000";"Inconnu";"Essence";"Crit'Air 2";"Particulier";"VP";"VP";81;81;60;45;34;26;27;27;39;77;77;52;34;29;19
+"00000";"Inconnu";"Essence";"Crit'Air 3";"Professionel";"VP";"VP";78;74;70;74;76;72;50;37;35;24;2;0;0;0;0
+"00000";"Inconnu";"Essence";"Crit'Air 3";"Particulier";"VP";"VP";135;94;76;70;59;51;41;39;34;77;72;50;40;30;22
+"00000";"Inconnu";"Essence";"Non classé";"Professionel";"VP";"VP";2635;1673;1246;1073;923;836;683;611;526;392;292;265;268;225;192
+"00000";"Inconnu";"Essence";"Non classé";"Particulier";"VP";"VP";706;374;281;228;192;174;168;157;139;130;97;71;59;53;45
+"00000";"Inconnu";"Inconnu";"Non classé";"Particulier";"VP";"VP";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 5";"Professionel";"PL";"CAMION";0;1;1;1;1;1;1;1;1;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 4";"Professionel";"PL";"CAMION";0;2;4;3;3;3;2;2;2;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 3";"Professionel";"PL";"TRACTEUR";0;5;6;6;6;3;2;2;2;2;2;2;1;1;1
+"00000";"Inconnu";"Diesel";"Crit'Air 4";"Professionel";"PL";"TRACTEUR";0;3;2;2;2;1;1;1;1;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 4";"Professionel";"TCP";"CAR";0;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 2";"Professionel";"VUL";"CAMTTE";0;1;5;5;5;5;8;15;23;54;89;103;101;92;76
+"00000";"Inconnu";"Diesel";"Crit'Air 2";"Particulier";"VUL";"VASP";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 2";"Professionel";"VUL";"VASP";0;0;2;2;2;2;2;0;0;4;4;4;7;6;6
+"00000";"Inconnu";"Gaz";"Crit'Air 3";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"00000";"Inconnu";"Diesel HNR";"Crit'Air 2";"Professionel";"VP";"VP";0;0;1;0;0;0;0;0;1;1;0;1;1;1;1
+"00000";"Inconnu";"Essence HNR";"Crit'Air 1";"Professionel";"VP";"VP";0;2;1;2;1;1;2;1;1;3;2;11;24;24;17
+"00000";"Inconnu";"Essence HNR";"Crit'Air 2";"Particulier";"VP";"VP";0;2;2;2;1;1;1;0;0;0;0;0;0;0;0
+"00000";"Inconnu";"Essence HR";"Crit'Air 1";"Professionel";"VP";"VP";0;5;10;2;1;0;0;0;0;0;5;10;12;10;5
+"00000";"Inconnu";"Essence HR";"Crit'Air 1";"Particulier";"VP";"VP";0;25;36;30;20;12;6;5;4;4;12;59;45;12;9
+"00000";"Inconnu";"Diesel";"Crit'Air 5";"Particulier";"VUL";"DERIVP";0;0;0;1;0;0;0;0;0;1;1;1;1;1;1
+"00000";"Inconnu";"Diesel HNR";"Crit'Air 2";"Particulier";"VP";"VP";0;0;0;0;0;18;0;0;0;1;2;1;1;1;0
+"00000";"Inconnu";"Essence";"Crit'Air 1";"Professionel";"VUL";"CAMTTE";0;0;0;0;0;0;0;1;1;1;1;0;0;0;0
+"00000";"Inconnu";"Diesel";"Crit'Air 2";"Professionel";"PL";"AUTREPL";0;0;0;0;0;0;0;0;0;8;8;8;8;8;8
+"00000";"Inconnu";"Diesel";"Crit'Air 2";"Professionel";"PL";"CAMION";0;0;0;0;0;0;0;0;0;6;9;11;14;14;12
+"00000";"Inconnu";"Diesel";"Crit'Air 2";"Professionel";"TCP";"CAR";0;0;0;0;0;0;0;0;0;3;3;3;3;3;3
+"00000";"Inconnu";"Electrique";"Crit'Air E";"Professionel";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;1;1;1;1;0;0
+"00000";"Inconnu";"Essence";"Crit'Air 1";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;2;1;4;4;3;3
+"00000";"Inconnu";"Essence";"Crit'Air 1";"Professionel";"VUL";"DERIVP";0;0;0;0;0;0;0;0;0;3;4;3;3;2;1
+"00000";"Inconnu";"Diesel";"Crit'Air 3";"Professionel";"PL";"CAMION";0;0;0;0;0;0;0;0;0;2;2;2;2;2;2
+"00000";"Inconnu";"Diesel";"Crit'Air 2";"Professionel";"PL";"TRACTEUR";0;0;0;0;0;0;0;0;0;0;1;3;3;3;3
+"00000";"Inconnu";"Diesel HR";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;1;2;2;2;1
+"00000";"Inconnu";"Electrique";"Crit'Air E";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;3;5;6;5;4
+"00000";"Inconnu";"Electrique";"Crit'Air E";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;1;13;32;37;31;19
+"00000";"Inconnu";"Essence";"Crit'Air 2";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+"00000";"Inconnu";"Essence";"Crit'Air 1";"Particulier";"VUL";"DERIVP";0;0;0;0;0;0;0;0;0;0;1;1;1;1;1
+"00000";"Inconnu";"Electrique";"Crit'Air E";"Professionel";"VUL";"DERIVP";0;0;0;0;0;0;0;0;0;0;0;1;1;1;0
+"00000";"Inconnu";"Electrique";"Crit'Air E";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;0;0;1;1;1;1
+"00000";"Inconnu";"Essence HNR";"Crit'Air 1";"Professionel";"VUL";"DERIVP";0;0;0;0;0;0;0;0;0;0;0;0;1;1;1
+"00000";"Inconnu";"Diesel HR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;0;2;2;1
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 2";"Professionel";"VUL";"CAMTTE";0;1;1;1;1;0;1;1;2;12;18;21;19;16;18
+"01000";"Inconnu (Ain)";"Diesel";"Non classé";"Particulier";"VUL";"CAMTTE";0;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+"01000";"Inconnu (Ain)";"Essence";"Non classé";"Particulier";"VUL";"CAMTTE";1;1;1;1;1;1;1;1;1;2;2;0;0;1;0
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 5";"Particulier";"VP";"VP";1;1;1;1;1;1;0;0;0;0;5;6;3;3;3
+"01000";"Inconnu (Ain)";"Essence";"Crit'Air 3";"Particulier";"VP";"VP";1;1;2;2;1;2;4;5;6;21;28;40;22;13;12
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 2";"Particulier";"VP";"VP";8;19;32;37;38;34;33;33;27;106;181;233;217;189;160
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 3";"Particulier";"VP";"VP";12;20;23;21;17;18;22;24;26;60;88;103;84;71;60
+"01000";"Inconnu (Ain)";"Essence";"Crit'Air 1";"Particulier";"VP";"VP";4;9;13;13;11;11;11;16;20;90;164;219;196;159;134
+"01000";"Inconnu (Ain)";"Essence";"Crit'Air 2";"Particulier";"VP";"VP";14;9;5;4;2;1;0;0;2;18;24;22;22;17;13
+"01000";"Inconnu (Ain)";"Essence";"Non classé";"Particulier";"VP";"VP";2;2;2;2;1;1;2;2;2;6;8;7;4;3;3
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 3";"Professionel";"VUL";"CAMTTE";0;0;1;1;1;1;1;1;1;1;1;1;1;1;1
+"01000";"Inconnu (Ain)";"Diesel";"Non classé";"Particulier";"VP";"VP";0;1;1;1;1;1;1;1;1;1;2;2;2;1;1
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 3";"Professionel";"VP";"VP";0;1;1;1;1;1;0;0;1;1;1;1;2;1;1
+"01000";"Inconnu (Ain)";"Essence HNR";"Crit'Air 1";"Particulier";"VP";"VP";0;1;1;1;2;2;1;1;0;4;10;26;20;17;14
+"01000";"Inconnu (Ain)";"Essence";"Crit'Air 2";"Professionel";"VUL";"DERIVP";0;0;1;1;1;1;1;1;1;1;1;1;1;1;1
+"01000";"Inconnu (Ain)";"Diesel HNR";"Crit'Air 2";"Particulier";"VP";"VP";0;0;0;0;0;1;1;1;1;0;0;2;2;2;2
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 3";"Particulier";"VUL";"DERIVP";0;0;0;0;0;0;1;1;1;3;4;4;4;3;2
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 3";"Professionel";"VUL";"DERIVP";0;0;0;0;0;0;0;1;1;2;2;1;1;1;1
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;1;0;0;4;12;23;20;13;12
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 2";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;7;16;22;10;7;3
+"01000";"Inconnu (Ain)";"Essence";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;1;1;1;0;0;0
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;1;3;5;3;4;3
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 2";"Professionel";"VUL";"DERIVP";0;0;0;0;0;0;0;0;0;0;4;4;4;2;2
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMPCAR";0;0;0;0;0;0;0;0;0;2;3;4;3;3;3
+"01000";"Inconnu (Ain)";"Electrique";"Crit'Air E";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;1;8;17;14;14;10
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 4";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;1;21;28;29;19;14;12
+"01000";"Inconnu (Ain)";"Electrique";"Crit'Air E";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;2;10;9;6;5;3
+"01000";"Inconnu (Ain)";"Essence";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;22;22;26;2;1;2
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 3";"Professionel";"PL";"CAMION";0;0;0;0;0;0;0;0;0;1;1;1;1;1;1
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;1;2;4;4;4;2
+"01000";"Inconnu (Ain)";"Essence";"Crit'Air 1";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;1;1;2;2;2;2
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;3;7;6;3;3;2
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 2";"Particulier";"VUL";"DERIVP";0;0;0;0;0;0;0;0;0;1;2;2;1;1;1
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMPCAR";0;0;0;0;0;0;0;0;0;1;1;2;2;2;2
+"01000";"Inconnu (Ain)";"Essence HR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;0;1;2;2;2;2
+"01000";"Inconnu (Ain)";"Gaz";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;2;1;3;2;1;1
+"01000";"Inconnu (Ain)";"Essence HNR";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;2;7;1;1;1
+"01000";"Inconnu (Ain)";"Essence HR";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;4;4;3;3;2
+"01000";"Inconnu (Ain)";"Essence";"Crit'Air 1";"Professionel";"VUL";"DERIVP";0;0;0;0;0;0;0;0;0;0;1;1;1;1;1
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 4";"Particulier";"VUL";"DERIVP";0;0;0;0;0;0;0;0;0;0;2;2;1;0;0
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMPCAR";0;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+"01000";"Inconnu (Ain)";"Diesel";"Crit'Air 3";"Particulier";"VUL";"VASP";0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+"01000";"Inconnu (Ain)";"Gaz";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"01001";"L'Abergement-Clémenciat";"Diesel";"Non classé";"Professionel";"PL";"AUTREPL";1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+"01001";"L'Abergement-Clémenciat";"Diesel";"Non classé";"Professionel";"PL";"CAMION";2;2;2;2;2;2;2;1;1;1;1;1;0;1;0
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMTTE";2;1;3;3;2;2;3;5;6;4;4;4;2;4;3
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 5";"Professionel";"VUL";"CAMTTE";1;1;1;1;1;1;1;1;0;0;0;0;0;0;0
+"01001";"L'Abergement-Clémenciat";"Essence";"Non classé";"Professionel";"VUL";"CAMTTE";1;1;1;1;1;1;1;1;1;1;1;0;0;0;0
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 2";"Professionel";"VUL";"CAMTTE";0;1;1;4;6;8;10;10;13;15;18;21;24;23;26
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMTTE";0;1;1;0;2;3;7;8;9;11;11;17;15;19;22
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 3";"Professionel";"VUL";"CAMTTE";8;8;9;9;9;7;8;7;7;8;7;6;6;6;7
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";3;2;4;3;4;5;5;8;7;10;9;8;9;10;9
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 4";"Professionel";"VUL";"CAMTTE";4;4;4;4;4;4;4;4;4;5;2;2;2;3;2
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMTTE";8;8;11;12;8;8;8;9;9;7;6;7;7;5;6
+"01001";"L'Abergement-Clémenciat";"Diesel";"Non classé";"Professionel";"VUL";"CAMTTE";5;4;4;3;2;3;3;1;1;0;0;0;0;0;0
+"01001";"L'Abergement-Clémenciat";"Diesel";"Non classé";"Particulier";"VUL";"CAMTTE";18;16;11;11;8;11;9;7;6;5;3;4;4;4;4
+"01001";"L'Abergement-Clémenciat";"Essence";"Non classé";"Particulier";"VUL";"CAMTTE";7;8;6;4;5;5;5;4;4;2;2;2;2;1;2
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 3";"Particulier";"VUL";"DERIVP";1;0;0;0;0;1;3;2;0;0;0;0;0;2;1
+"01001";"L'Abergement-Clémenciat";"Essence";"Crit'Air 3";"Particulier";"VUL";"DERIVP";1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 4";"Particulier";"VUL";"DERIVP";1;0;0;0;1;1;3;3;3;3;2;0;1;1;1
+"01001";"L'Abergement-Clémenciat";"Diesel";"Non classé";"Particulier";"VUL";"DERIVP";2;2;2;0;0;0;0;0;0;0;0;0;0;0;0
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMPCAR";1;1;1;1;1;1;1;2;2;3;2;3;3;3;1
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMPCAR";1;2;2;2;2;2;2;0;0;0;0;0;0;0;0
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMPCAR";1;1;1;1;2;2;2;2;2;1;1;2;1;1;3
+"01001";"L'Abergement-Clémenciat";"Essence";"Non classé";"Particulier";"VUL";"CAMPCAR";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01001";"L'Abergement-Clémenciat";"Diesel";"Non classé";"Particulier";"VUL";"CAMPCAR";2;4;3;3;2;1;2;1;1;2;1;0;0;0;0
+"01001";"L'Abergement-Clémenciat";"Diesel";"Non classé";"Particulier";"VUL";"VASP";1;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 4";"Professionel";"VP";"VP";1;1;1;1;1;0;0;0;0;0;0;0;0;0;0
+"01001";"L'Abergement-Clémenciat";"Gaz";"Crit'Air 1";"Particulier";"VP";"VP";2;2;1;1;1;2;1;0;0;0;1;1;2;3;3
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 2";"Particulier";"VP";"VP";6;20;34;61;86;95;118;130;153;165;175;187;190;198;193
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 3";"Particulier";"VP";"VP";117;120;123;114;116;122;125;116;100;105;90;84;83;75;67
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 4";"Particulier";"VP";"VP";88;81;78;66;63;60;60;52;52;40;34;31;30;31;25
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 5";"Particulier";"VP";"VP";33;31;34;28;21;22;23;21;15;12;11;10;11;8;5
+"01001";"L'Abergement-Clémenciat";"Diesel";"Non classé";"Particulier";"VP";"VP";53;45;33;34;30;25;27;15;9;4;4;3;3;3;3
+"01001";"L'Abergement-Clémenciat";"Essence";"Crit'Air 1";"Particulier";"VP";"VP";3;5;9;12;16;20;30;54;76;111;111;128;130;137;146
+"01001";"L'Abergement-Clémenciat";"Essence";"Crit'Air 2";"Particulier";"VP";"VP";35;39;38;41;37;38;32;32;41;45;42;41;43;43;47
+"01001";"L'Abergement-Clémenciat";"Essence";"Crit'Air 3";"Particulier";"VP";"VP";63;66;67;66;64;69;66;67;54;40;40;31;33;38;36
+"01001";"L'Abergement-Clémenciat";"Essence";"Non classé";"Particulier";"VP";"VP";72;68;59;59;56;46;37;28;23;14;10;11;11;6;6
+"01001";"L'Abergement-Clémenciat";"Inconnu";"Non classé";"Particulier";"VP";"VP";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01001";"L'Abergement-Clémenciat";"Essence HNR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;1;1;2;2;3;3;3;1;3;6;9;8;17
+"01001";"L'Abergement-Clémenciat";"Essence";"Crit'Air 2";"Particulier";"VUL";"CAMTTE";0;0;1;1;1;1;1;1;1;0;0;0;0;0;1
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 2";"Professionel";"VUL";"DERIVP";0;0;0;0;1;1;2;2;2;2;3;3;3;3;2
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 2";"Professionel";"VP";"VP";0;0;0;0;1;1;1;1;2;1;2;1;1;1;1
+"01001";"L'Abergement-Clémenciat";"Electrique";"Crit'Air E";"Particulier";"VP";"VP";0;0;0;0;0;1;1;2;1;2;5;6;6;8;14
+"01001";"L'Abergement-Clémenciat";"Essence";"Crit'Air 3";"Professionel";"VP";"VP";0;0;0;0;0;1;1;1;1;1;1;1;1;1;1
+"01001";"L'Abergement-Clémenciat";"Diesel";"Non classé";"Particulier";"PL";"AUTREPL";0;0;0;0;0;0;1;1;0;0;0;0;0;0;0
+"01001";"L'Abergement-Clémenciat";"Diesel";"Non classé";"Professionel";"VUL";"DERIVP";0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMPCAR";0;0;0;0;0;0;1;1;1;0;0;2;3;3;4
+"01001";"L'Abergement-Clémenciat";"Essence";"Crit'Air 1";"Professionel";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;1;1;1;1;1;1;1
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 2";"Particulier";"VUL";"DERIVP";0;0;0;0;0;0;0;1;3;1;1;1;1;0;1
+"01001";"L'Abergement-Clémenciat";"Diesel HNR";"Crit'Air 2";"Particulier";"VP";"VP";0;0;0;0;0;0;0;1;1;1;2;2;3;5;7
+"01001";"L'Abergement-Clémenciat";"Essence";"Crit'Air 1";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;0;1;1;1;0;0
+"01001";"L'Abergement-Clémenciat";"Essence HR";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"01001";"L'Abergement-Clémenciat";"Essence HR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;0;1;1;3;3;3
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 5";"Professionel";"PL";"CAMION";0;0;0;0;0;0;0;0;0;0;1;1;1;1;1
+"01001";"L'Abergement-Clémenciat";"Essence";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;1;1;0;0;1
+"01001";"L'Abergement-Clémenciat";"Diesel";"Crit'Air 4";"Professionel";"PL";"TRACTEUR";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+"01001";"L'Abergement-Clémenciat";"Gaz";"Crit'Air 1";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"01001";"L'Abergement-Clémenciat";"Inconnu";"Inconnu";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;1;1;1;1
+"01001";"L'Abergement-Clémenciat";"Diesel HR";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"01002";"L'Abergement-de-Varey";"Essence";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";1;1;1;1;0;0;0;0;0;0;0;0;0;0;0
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 3";"Professionel";"VUL";"CAMTTE";0;1;1;2;2;2;2;2;1;3;2;2;1;1;1
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMTTE";2;2;2;2;2;2;3;1;1;2;2;2;1;1;2
+"01002";"L'Abergement-de-Varey";"Essence";"Non classé";"Particulier";"VUL";"CAMTTE";3;3;3;2;2;1;1;1;1;1;0;1;0;1;1
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";2;2;3;4;4;4;4;4;4;6;5;7;8;8;9
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 4";"Professionel";"VUL";"CAMTTE";4;3;3;3;3;1;1;2;2;3;1;1;1;1;1
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMTTE";7;5;4;4;4;3;5;5;6;5;5;5;3;7;5
+"01002";"L'Abergement-de-Varey";"Diesel";"Non classé";"Particulier";"VUL";"CAMTTE";4;4;3;1;1;2;2;3;3;1;2;2;3;1;2
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 4";"Professionel";"VUL";"DERIVP";1;1;1;1;1;1;1;1;0;0;1;0;0;0;0
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 4";"Particulier";"VUL";"DERIVP";1;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMPCAR";1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMPCAR";2;2;2;2;2;2;2;2;3;3;3;3;3;4;4
+"01002";"L'Abergement-de-Varey";"Inconnu";"Non classé";"Particulier";"VP";"VP";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01002";"L'Abergement-de-Varey";"Essence";"Crit'Air 1";"Particulier";"VP";"VP";1;1;3;6;5;4;8;15;20;22;25;29;33;37;35
+"01002";"L'Abergement-de-Varey";"Inconnu";"Inconnu";"Particulier";"VP";"VP";1;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+"01002";"L'Abergement-de-Varey";"Gaz";"Crit'Air 1";"Particulier";"VP";"VP";3;4;4;4;4;5;5;4;3;1;0;0;2;2;2
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 2";"Particulier";"VP";"VP";4;10;16;19;21;28;29;35;43;50;54;57;55;58;55
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 3";"Particulier";"VP";"VP";26;26;27;31;38;42;42;43;42;37;32;29;25;24;27
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 4";"Particulier";"VP";"VP";32;29;27;27;26;28;24;21;19;16;15;14;15;11;11
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 5";"Particulier";"VP";"VP";14;14;17;14;13;11;8;6;5;3;2;2;3;4;3
+"01002";"L'Abergement-de-Varey";"Diesel";"Non classé";"Particulier";"VP";"VP";18;15;16;18;15;8;7;4;2;1;1;1;1;0;0
+"01002";"L'Abergement-de-Varey";"Essence";"Crit'Air 2";"Particulier";"VP";"VP";9;8;8;8;10;10;10;10;9;9;9;8;8;7;8
+"01002";"L'Abergement-de-Varey";"Essence";"Crit'Air 3";"Particulier";"VP";"VP";25;23;18;15;17;16;13;12;9;8;8;9;7;8;8
+"01002";"L'Abergement-de-Varey";"Essence";"Non classé";"Particulier";"VP";"VP";26;22;19;16;15;13;11;8;8;6;4;5;4;3;3
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 3";"Particulier";"VUL";"DERIVP";0;1;0;0;1;2;2;1;1;0;0;1;1;0;1
+"01002";"L'Abergement-de-Varey";"Diesel";"Non classé";"Particulier";"VUL";"DERIVP";0;0;1;0;0;0;0;0;0;0;0;1;0;0;1
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 2";"Professionel";"VP";"VP";0;0;0;1;1;1;0;1;1;1;0;0;0;0;0
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 2";"Professionel";"VUL";"CAMTTE";0;0;0;0;2;4;4;4;4;4;7;9;8;8;8
+"01002";"L'Abergement-de-Varey";"Essence HNR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;1;1;1;2;2;2;2;3;4;4;6
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMTTE";0;0;0;0;1;1;3;3;3;6;5;7;8;9;8
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 2";"Particulier";"VUL";"DERIVP";0;0;0;0;0;1;1;1;0;1;1;1;0;0;0
+"01002";"L'Abergement-de-Varey";"Diesel HNR";"Crit'Air 2";"Particulier";"VP";"VP";0;0;0;0;0;0;1;1;0;0;0;1;1;0;0
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMPCAR";0;0;0;0;0;0;0;0;1;1;1;2;4;4;3
+"01002";"L'Abergement-de-Varey";"Essence";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;1;1;1;1;0
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 3";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+"01002";"L'Abergement-de-Varey";"Electrique";"Crit'Air E";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;0;1;2;3;3;3
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 2";"Professionel";"VUL";"VASP";0;0;0;0;0;0;0;0;0;0;0;1;1;1;1
+"01002";"L'Abergement-de-Varey";"Essence HR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;0;1;0;2
+"01002";"L'Abergement-de-Varey";"Diesel";"Crit'Air 2";"Particulier";"VUL";"VASP";0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"01004";"Ambérieu-en-Bugey";"Essence";"Non classé";"Particulier";"PL";"AUTREPL";1;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 4";"Particulier";"PL";"AUTREPL";1;1;2;2;2;2;2;2;1;1;1;1;1;1;1
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 4";"Professionel";"PL";"AUTREPL";2;2;2;2;2;2;1;1;1;1;0;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Diesel";"Non classé";"Professionel";"PL";"AUTREPL";2;3;3;3;3;2;0;0;0;0;0;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Inconnu";"Non classé";"Particulier";"PL";"CAMION";1;0;1;0;1;0;1;1;1;0;1;0;1;0;0
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 3";"Professionel";"PL";"CAMION";6;11;16;16;16;16;17;17;16;16;16;16;14;14;13
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 4";"Professionel";"PL";"CAMION";15;15;12;15;14;14;13;14;16;16;15;13;13;12;10
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 5";"Professionel";"PL";"CAMION";22;21;16;17;18;14;14;14;14;13;14;10;9;8;6
+"01004";"Ambérieu-en-Bugey";"Diesel";"Non classé";"Professionel";"PL";"CAMION";20;23;19;15;13;12;9;9;5;3;2;2;2;2;1
+"01004";"Ambérieu-en-Bugey";"Diesel";"Non classé";"Particulier";"PL";"CAMION";5;6;6;6;4;5;5;4;3;1;2;3;3;3;3
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 5";"Particulier";"PL";"TRACTEUR";1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 3";"Professionel";"PL";"TRACTEUR";8;13;18;26;27;25;25;25;26;23;17;13;10;3;1
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 4";"Professionel";"PL";"TRACTEUR";20;19;18;19;19;12;9;5;2;1;1;1;1;1;1
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 5";"Professionel";"PL";"TRACTEUR";41;35;31;22;14;5;3;2;1;1;1;1;1;1;1
+"01004";"Ambérieu-en-Bugey";"Diesel";"Non classé";"Professionel";"PL";"TRACTEUR";5;4;3;1;1;0;0;0;0;0;0;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 5";"Professionel";"TCP";"CAR";1;1;1;1;0;0;0;0;0;0;0;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 4";"Professionel";"TCP";"CAR";3;3;3;3;3;0;0;0;0;1;0;0;0;1;0
+"01004";"Ambérieu-en-Bugey";"Diesel";"Non classé";"Professionel";"TCP";"CAR";14;13;11;9;4;3;3;1;0;0;0;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Gaz";"Crit'Air 1";"Particulier";"VUL";"CAMTTE";1;0;0;0;0;0;0;0;1;0;1;1;2;2;1
+"01004";"Ambérieu-en-Bugey";"Electrique";"Crit'Air E";"Particulier";"VUL";"CAMTTE";0;1;1;1;1;0;0;0;0;0;2;2;3;3;2
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMTTE";0;1;1;3;9;9;21;38;50;65;68;96;112;133;142
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 2";"Professionel";"VUL";"CAMTTE";6;31;57;92;125;165;201;237;268;326;362;384;409;380;363
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 3";"Professionel";"VUL";"CAMTTE";219;234;217;207;166;142;145;132;111;95;83;70;60;54;45
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";36;45;57;59;75;88;95;102;108;108;99;95;96;101;101
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 4";"Professionel";"VUL";"CAMTTE";85;83;82;67;60;53;48;39;35;24;24;18;14;10;12
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMTTE";60;63;65;70;71;70;78;75;77;83;77;71;63;56;47
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 5";"Professionel";"VUL";"CAMTTE";30;21;22;20;17;17;12;10;7;4;5;3;2;1;2
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMTTE";48;43;37;43;45;43;44;49;45;44;41;38;25;22;22
+"01004";"Ambérieu-en-Bugey";"Diesel";"Non classé";"Professionel";"VUL";"CAMTTE";58;45;44;36;31;25;22;16;11;8;6;5;5;4;4
+"01004";"Ambérieu-en-Bugey";"Diesel";"Non classé";"Particulier";"VUL";"CAMTTE";130;107;94;94;83;79;69;54;41;36;27;19;19;17;19
+"01004";"Ambérieu-en-Bugey";"Essence";"Crit'Air 2";"Professionel";"VUL";"CAMTTE";11;13;13;13;13;13;13;13;13;13;10;10;10;10;8
+"01004";"Ambérieu-en-Bugey";"Essence";"Crit'Air 3";"Professionel";"VUL";"CAMTTE";5;4;4;4;2;2;3;1;0;0;0;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Essence";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";2;1;0;1;1;1;1;1;2;1;1;1;1;1;1
+"01004";"Ambérieu-en-Bugey";"Essence";"Non classé";"Professionel";"VUL";"CAMTTE";7;7;6;7;8;7;4;3;3;3;1;1;1;0;0
+"01004";"Ambérieu-en-Bugey";"Essence";"Non classé";"Particulier";"VUL";"CAMTTE";26;28;31;26;26;25;22;23;23;18;14;13;13;11;8
+"01004";"Ambérieu-en-Bugey";"Inconnu";"Non classé";"Professionel";"VUL";"CAMTTE";9;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Essence";"Crit'Air 1";"Professionel";"VUL";"DERIVP";0;1;2;3;3;6;8;4;4;3;3;3;3;3;6
+"01004";"Ambérieu-en-Bugey";"Essence";"Crit'Air 2";"Professionel";"VUL";"DERIVP";1;1;1;1;1;1;1;1;1;1;1;1;1;0;0
+"01004";"Ambérieu-en-Bugey";"Essence";"Non classé";"Professionel";"VUL";"DERIVP";1;1;1;1;0;0;0;0;0;0;0;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 2";"Professionel";"VUL";"DERIVP";1;15;24;34;40;51;55;55;51;64;66;67;65;63;57
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 3";"Professionel";"VUL";"DERIVP";41;45;44;35;29;30;25;20;21;18;17;15;14;14;9
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 3";"Particulier";"VUL";"DERIVP";10;16;23;28;31;36;39;34;33;38;35;29;24;22;20
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 4";"Professionel";"VUL";"DERIVP";11;12;9;9;8;6;6;5;5;2;2;2;2;2;3
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 4";"Particulier";"VUL";"DERIVP";27;33;35;37;29;27;25;20;16;14;13;6;10;7;8
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 5";"Professionel";"VUL";"DERIVP";3;2;1;1;1;0;1;1;1;1;1;1;1;1;1
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 5";"Particulier";"VUL";"DERIVP";17;11;8;9;10;6;8;5;7;6;1;3;0;1;1
+"01004";"Ambérieu-en-Bugey";"Diesel";"Non classé";"Professionel";"VUL";"DERIVP";15;11;10;7;6;3;2;2;2;0;0;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Diesel";"Non classé";"Particulier";"VUL";"DERIVP";24;25;19;13;12;12;10;6;3;0;0;0;1;0;0
+"01004";"Ambérieu-en-Bugey";"Essence";"Crit'Air 3";"Professionel";"VUL";"DERIVP";2;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Essence";"Crit'Air 3";"Particulier";"VUL";"DERIVP";3;3;5;3;3;1;1;1;4;2;2;1;1;0;0
+"01004";"Ambérieu-en-Bugey";"Essence";"Non classé";"Particulier";"VUL";"DERIVP";4;3;3;3;3;2;1;1;1;1;1;1;1;1;1
+"01004";"Ambérieu-en-Bugey";"Essence";"Non classé";"Particulier";"VUL";"CAMPCAR";1;1;1;2;3;4;2;1;0;1;1;1;2;1;1
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMPCAR";12;14;14;13;13;15;16;19;18;16;14;14;12;10;9
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMPCAR";18;17;19;18;21;16;14;13;14;13;13;14;14;14;13
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMPCAR";4;5;5;4;1;2;3;5;5;6;6;6;5;5;7
+"01004";"Ambérieu-en-Bugey";"Diesel";"Non classé";"Particulier";"VUL";"CAMPCAR";11;12;10;13;13;12;11;7;7;5;6;9;6;4;5
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 5";"Particulier";"VUL";"VASP";1;1;1;0;1;3;2;2;1;1;1;1;2;2;2
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 4";"Professionel";"VUL";"VASP";1;1;1;1;1;1;1;0;0;0;0;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 3";"Professionel";"VUL";"VASP";5;3;2;1;2;2;2;2;2;2;1;1;1;1;1
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 5";"Professionel";"VUL";"VASP";4;4;3;3;2;0;0;0;0;0;0;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Diesel";"Non classé";"Professionel";"VUL";"VASP";4;2;1;1;2;1;1;1;1;1;0;0;0;1;1
+"01004";"Ambérieu-en-Bugey";"Diesel";"Non classé";"Particulier";"VUL";"VASP";2;3;2;2;2;1;1;2;2;1;1;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Essence";"Non classé";"Particulier";"VUL";"VASP";2;2;2;2;2;2;2;2;2;2;2;1;1;1;1
+"01004";"Ambérieu-en-Bugey";"Essence HNR";"Crit'Air 2";"Particulier";"VP";"VP";2;2;2;2;1;1;1;1;1;3;1;0;0;1;0
+"01004";"Ambérieu-en-Bugey";"Gaz";"Crit'Air 1";"Professionel";"VP";"VP";1;1;0;0;0;0;0;0;0;0;1;1;2;2;6
+"01004";"Ambérieu-en-Bugey";"Essence HR";"Crit'Air 1";"Professionel";"VP";"VP";0;1;1;0;0;2;2;3;4;12;18;29;36;48;60
+"01004";"Ambérieu-en-Bugey";"Gaz";"Crit'Air 1";"Particulier";"VP";"VP";29;29;29;24;24;23;25;23;28;30;34;42;48;60;77
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 2";"Professionel";"VP";"VP";19;81;122;177;204;219;257;280;307;316;314;300;293;286;267
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 2";"Particulier";"VP";"VP";101;306;545;741;919;1106;1299;1509;1733;1922;2102;2280;2295;2303;2401
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 3";"Professionel";"VP";"VP";165;122;98;77;54;44;42;41;41;41;40;33;38;27;21
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 3";"Particulier";"VP";"VP";1348;1503;1566;1681;1690;1689;1762;1761;1697;1643;1638;1563;1491;1416;1332
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 4";"Professionel";"VP";"VP";35;31;29;25;26;23;24;26;23;19;10;10;5;3;8
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 4";"Particulier";"VP";"VP";1288;1305;1292;1261;1268;1246;1193;1139;1048;924;833;714;638;559;507
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 5";"Professionel";"VP";"VP";11;13;13;12;16;14;7;4;4;4;3;1;1;2;1
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 5";"Particulier";"VP";"VP";583;557;528;493;453;428;374;322;259;190;146;122;103;101;81
+"01004";"Ambérieu-en-Bugey";"Diesel";"Non classé";"Professionel";"VP";"VP";16;13;9;7;5;4;4;2;3;4;3;2;2;2;1
+"01004";"Ambérieu-en-Bugey";"Diesel";"Non classé";"Particulier";"VP";"VP";958;804;668;575;484;382;312;236;149;76;57;50;42;44;38
+"01004";"Ambérieu-en-Bugey";"Essence";"Crit'Air 1";"Professionel";"VP";"VP";9;22;28;29;27;38;54;80;100;130;148;170;185;194;214
+"01004";"Ambérieu-en-Bugey";"Essence";"Crit'Air 1";"Particulier";"VP";"VP";56;151;271;407;507;656;877;1114;1335;1612;1833;1983;2099;2202;2305
+"01004";"Ambérieu-en-Bugey";"Essence";"Crit'Air 2";"Professionel";"VP";"VP";21;17;12;10;9;7;6;4;6;7;6;5;4;4;5
+"01004";"Ambérieu-en-Bugey";"Essence";"Crit'Air 2";"Particulier";"VP";"VP";531;559;562;572;589;598;608;617;623;604;619;610;630;603;565
+"01004";"Ambérieu-en-Bugey";"Essence";"Crit'Air 3";"Professionel";"VP";"VP";14;13;11;8;13;15;14;12;9;9;2;4;7;5;4
+"01004";"Ambérieu-en-Bugey";"Essence";"Crit'Air 3";"Particulier";"VP";"VP";1117;1075;1050;1028;1013;1006;952;888;805;735;695;665;604;523;480
+"01004";"Ambérieu-en-Bugey";"Essence";"Non classé";"Professionel";"VP";"VP";23;18;19;19;13;12;9;10;8;7;8;7;6;5;4
+"01004";"Ambérieu-en-Bugey";"Essence";"Non classé";"Particulier";"VP";"VP";1049;945;803;679;613;517;426;355;285;240;205;184;184;166;151
+"01004";"Ambérieu-en-Bugey";"Essence HNR";"Crit'Air 1";"Professionel";"VP";"VP";2;1;1;1;1;3;2;3;9;16;23;28;36;39;55
+"01004";"Ambérieu-en-Bugey";"Essence HR";"Crit'Air 1";"Particulier";"VP";"VP";3;4;6;4;1;4;6;8;11;16;19;31;38;48;64
+"01004";"Ambérieu-en-Bugey";"Inconnu";"Non classé";"Particulier";"VP";"VP";82;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Inconnu";"Inconnu";"Particulier";"VP";"VP";2;1;1;1;0;1;1;1;1;1;1;1;1;0;0
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 5";"Professionel";"PL";"AUTREPL";0;0;1;1;1;0;0;0;0;0;0;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 5";"Particulier";"PL";"AUTREPL";0;1;1;1;1;1;0;0;0;0;0;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMPCAR";0;0;2;5;7;12;17;21;28;31;38;49;47;47;49
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 2";"Professionel";"VUL";"VASP";0;1;1;2;2;2;2;2;2;3;3;3;3;5;6
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 4";"Particulier";"VUL";"VASP";0;1;1;1;1;0;0;1;1;2;2;2;2;2;3
+"01004";"Ambérieu-en-Bugey";"Diesel HNR";"Crit'Air 2";"Professionel";"VP";"VP";0;0;2;5;4;5;4;3;3;4;2;6;8;13;9
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 3";"Particulier";"PL";"AUTREPL";0;0;0;1;1;1;2;2;1;1;1;1;1;1;2
+"01004";"Ambérieu-en-Bugey";"Gaz";"Crit'Air 1";"Professionel";"VUL";"DERIVP";0;0;0;1;1;1;0;0;0;0;0;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 2";"Particulier";"VUL";"DERIVP";0;0;1;1;3;4;7;8;11;21;25;32;32;36;38
+"01004";"Ambérieu-en-Bugey";"Essence HNR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;4;10;16;25;32;37;51;82;114;165;212;273
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 2";"Professionel";"PL";"CAMION";0;0;0;0;2;6;7;10;15;20;21;45;48;51;45
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 2";"Professionel";"PL";"TRACTEUR";0;0;0;0;8;11;18;23;26;30;36;39;41;48;52
+"01004";"Ambérieu-en-Bugey";"Diesel HNR";"Crit'Air 2";"Particulier";"VP";"VP";0;0;0;0;4;6;9;12;16;16;19;22;21;19;23
+"01004";"Ambérieu-en-Bugey";"Electrique";"Crit'Air E";"Particulier";"VP";"VP";0;0;0;1;2;7;17;17;17;22;49;90;131;194;267
+"01004";"Ambérieu-en-Bugey";"Essence";"Crit'Air 1";"Professionel";"VUL";"CAMTTE";0;0;0;0;0;1;3;2;4;5;7;8;8;10;12
+"01004";"Ambérieu-en-Bugey";"Essence";"Crit'Air 2";"Particulier";"VUL";"CAMTTE";0;0;0;0;2;2;1;1;1;1;1;1;1;1;1
+"01004";"Ambérieu-en-Bugey";"Essence";"Crit'Air 1";"Particulier";"VUL";"DERIVP";0;0;0;0;1;0;0;0;1;1;1;0;0;1;1
+"01004";"Ambérieu-en-Bugey";"Electrique";"Crit'Air E";"Professionel";"VP";"VP";0;0;0;0;1;1;2;2;3;8;17;23;42;56;53
+"01004";"Ambérieu-en-Bugey";"Electrique";"Crit'Air E";"Professionel";"VUL";"CAMTTE";0;0;0;0;0;0;0;1;1;2;3;4;5;3;4
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 3";"Particulier";"VUL";"VASP";0;0;0;0;0;0;1;1;1;1;1;1;1;3;2
+"01004";"Ambérieu-en-Bugey";"Diesel HR";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;1;0;1;0;0;4;4;5;4
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 2";"Professionel";"PL";"AUTREPL";0;0;0;0;0;0;0;0;1;1;2;2;3;3;4
+"01004";"Ambérieu-en-Bugey";"Diesel";"Non classé";"Professionel";"VUL";"CAMPCAR";0;0;0;0;0;0;0;1;1;1;1;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 4";"Particulier";"PL";"CAMION";0;0;0;0;0;0;0;0;1;1;1;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Gaz";"Crit'Air 1";"Professionel";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;1;0;1;0;1;1
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 5";"Particulier";"PL";"CAMION";0;0;0;0;0;0;0;0;0;1;2;1;1;2;1
+"01004";"Ambérieu-en-Bugey";"Electrique";"Crit'Air E";"Particulier";"VUL";"DERIVP";0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+"01004";"Ambérieu-en-Bugey";"Essence";"Crit'Air 2";"Particulier";"VUL";"DERIVP";0;0;0;0;0;0;0;0;0;1;1;1;1;1;1
+"01004";"Ambérieu-en-Bugey";"Essence";"Crit'Air 1";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;0;0;1;1;2;4
+"01004";"Ambérieu-en-Bugey";"Electrique";"Crit'Air E";"Professionel";"VUL";"DERIVP";0;0;0;0;0;0;0;0;0;0;0;1;1;1;1
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 2";"Particulier";"VUL";"VASP";0;0;0;0;0;0;0;0;0;0;1;1;1;2;3
+"01004";"Ambérieu-en-Bugey";"Essence HNR";"Crit'Air 1";"Professionel";"VUL";"DERIVP";0;0;0;0;0;0;0;0;0;0;0;0;2;4;7
+"01004";"Ambérieu-en-Bugey";"Diesel";"Non classé";"Particulier";"PL";"AUTREPL";0;0;0;0;0;0;0;0;0;0;0;0;1;1;1
+"01004";"Ambérieu-en-Bugey";"Diesel HNR";"Crit'Air 2";"Professionel";"VUL";"DERIVP";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"01004";"Ambérieu-en-Bugey";"Diesel HR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"01004";"Ambérieu-en-Bugey";"Diesel";"Crit'Air 3";"Professionel";"PL";"AUTREPL";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"01005";"Ambérieux-en-Dombes";"Diesel";"Non classé";"Professionel";"PL";"AUTREPL";1;1;1;1;1;1;1;1;1;1;0;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 5";"Professionel";"PL";"CAMION";1;1;1;0;0;0;0;0;0;0;1;1;1;1;0
+"01005";"Ambérieux-en-Dombes";"Diesel";"Non classé";"Professionel";"PL";"CAMION";3;4;4;3;3;2;3;4;4;3;2;1;1;1;1
+"01005";"Ambérieux-en-Dombes";"Diesel";"Non classé";"Particulier";"PL";"CAMION";2;1;0;0;0;0;0;0;0;0;1;0;0;1;1
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 2";"Professionel";"VUL";"CAMTTE";0;1;4;7;12;18;26;28;38;44;44;46;54;57;47
+"01005";"Ambérieux-en-Dombes";"Essence";"Non classé";"Professionel";"VUL";"CAMTTE";1;1;1;1;1;1;1;1;2;1;1;1;1;1;1
+"01005";"Ambérieux-en-Dombes";"Essence";"Non classé";"Particulier";"VUL";"CAMTTE";2;3;3;2;2;1;1;2;3;0;0;1;0;1;1
+"01005";"Ambérieux-en-Dombes";"Inconnu";"Non classé";"Particulier";"VUL";"CAMTTE";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Essence";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";1;1;1;1;1;1;1;1;1;0;0;0;0;2;1
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 3";"Professionel";"VUL";"CAMTTE";21;23;18;20;18;18;18;13;12;11;11;9;10;9;7
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";10;13;16;19;20;23;25;22;21;23;27;26;24;25;23
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 4";"Professionel";"VUL";"CAMTTE";7;7;8;9;8;6;6;8;7;4;4;4;3;4;2
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMTTE";16;18;22;19;22;21;21;20;18;19;19;17;20;17;19
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 5";"Professionel";"VUL";"CAMTTE";5;5;5;3;3;3;4;5;5;4;3;3;1;1;1
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMTTE";12;13;13;12;12;11;12;10;11;9;7;9;9;9;7
+"01005";"Ambérieux-en-Dombes";"Diesel";"Non classé";"Professionel";"VUL";"CAMTTE";8;6;6;6;6;8;4;3;3;3;3;2;1;3;3
+"01005";"Ambérieux-en-Dombes";"Diesel";"Non classé";"Particulier";"VUL";"CAMTTE";30;33;35;33;29;22;19;16;13;7;5;4;4;3;4
+"01005";"Ambérieux-en-Dombes";"Essence";"Non classé";"Particulier";"VUL";"DERIVP";1;1;1;1;1;0;0;0;0;0;0;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 3";"Professionel";"VUL";"DERIVP";3;4;5;5;5;5;5;4;3;2;3;1;0;0;0
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 3";"Particulier";"VUL";"DERIVP";2;1;6;7;5;3;5;3;1;1;0;0;2;0;2
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 4";"Professionel";"VUL";"DERIVP";2;3;3;3;2;1;1;1;1;1;0;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 4";"Particulier";"VUL";"DERIVP";5;4;6;6;5;5;3;2;3;1;1;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 5";"Professionel";"VUL";"DERIVP";3;2;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 5";"Particulier";"VUL";"DERIVP";4;6;4;2;2;3;2;3;2;1;2;2;2;1;1
+"01005";"Ambérieux-en-Dombes";"Diesel";"Non classé";"Professionel";"VUL";"DERIVP";4;3;3;2;2;2;1;0;0;0;0;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Diesel";"Non classé";"Particulier";"VUL";"DERIVP";4;4;1;0;0;0;1;2;0;0;0;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Diesel";"Non classé";"Particulier";"VUL";"CAMPCAR";1;0;0;1;1;0;0;0;0;0;0;1;1;1;1
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMPCAR";1;1;1;1;1;1;2;2;1;1;1;1;1;1;1
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMPCAR";2;2;2;1;2;2;0;1;1;0;0;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMPCAR";2;2;2;3;1;1;2;1;1;1;0;0;0;1;1
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 5";"Particulier";"VUL";"VASP";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Essence";"Non classé";"Professionel";"VUL";"VASP";1;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Essence";"Crit'Air 3";"Professionel";"VUL";"VASP";1;1;1;1;1;1;1;1;1;1;1;1;0;0;0
+"01005";"Ambérieux-en-Dombes";"Diesel";"Non classé";"Professionel";"VP";"VP";1;1;1;1;1;1;1;1;1;1;1;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Essence";"Crit'Air 1";"Professionel";"VP";"VP";1;0;1;0;1;3;3;3;5;4;4;4;7;10;9
+"01005";"Ambérieux-en-Dombes";"Gaz";"Crit'Air 1";"Particulier";"VP";"VP";4;5;3;4;3;2;1;0;0;1;1;6;5;6;9
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 2";"Professionel";"VP";"VP";2;2;5;9;11;11;11;16;14;13;13;8;10;11;10
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 2";"Particulier";"VP";"VP";20;58;94;134;168;212;263;300;334;356;394;406;412;410;414
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 3";"Professionel";"VP";"VP";5;2;1;1;2;1;1;2;2;2;2;1;1;1;1
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 3";"Particulier";"VP";"VP";246;259;248;261;247;250;238;233;237;215;222;214;193;184;182
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 4";"Professionel";"VP";"VP";3;4;4;3;3;3;4;4;3;3;2;4;4;4;3
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 4";"Particulier";"VP";"VP";200;185;201;186;169;166;166;146;118;109;89;82;70;60;55
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 5";"Particulier";"VP";"VP";70;65;55;48;47;50;41;35;32;21;18;15;17;18;11
+"01005";"Ambérieux-en-Dombes";"Diesel";"Non classé";"Particulier";"VP";"VP";107;97;94;78;61;46;40;28;19;12;9;8;6;4;4
+"01005";"Ambérieux-en-Dombes";"Essence";"Crit'Air 1";"Particulier";"VP";"VP";4;21;31;43;58;83;101;137;181;218;270;301;334;360;395
+"01005";"Ambérieux-en-Dombes";"Essence";"Crit'Air 2";"Professionel";"VP";"VP";2;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Essence";"Crit'Air 2";"Particulier";"VP";"VP";59;68;62;63;63;66;68;61;59;66;67;72;75;76;74
+"01005";"Ambérieux-en-Dombes";"Essence";"Crit'Air 3";"Professionel";"VP";"VP";3;4;4;4;4;5;3;2;2;1;1;1;1;1;1
+"01005";"Ambérieux-en-Dombes";"Essence";"Crit'Air 3";"Particulier";"VP";"VP";113;112;128;124;118;103;97;100;82;83;71;70;63;60;63
+"01005";"Ambérieux-en-Dombes";"Essence";"Non classé";"Particulier";"VP";"VP";123;104;81;74;58;48;49;36;31;24;32;28;26;23;22
+"01005";"Ambérieux-en-Dombes";"Inconnu";"Non classé";"Particulier";"VP";"VP";15;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Essence";"Crit'Air 3";"Particulier";"VUL";"DERIVP";0;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 2";"Professionel";"VUL";"DERIVP";0;0;1;2;2;2;3;3;7;6;7;5;5;4;6
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 3";"Professionel";"VUL";"VASP";0;1;1;0;1;1;1;1;1;1;1;1;1;1;1
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 4";"Particulier";"PL";"CAMION";0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 3";"Professionel";"PL";"CAMION";0;0;0;1;1;1;1;1;1;1;1;1;1;1;1
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMTTE";0;0;0;2;3;4;4;7;13;23;29;32;30;34;40
+"01005";"Ambérieux-en-Dombes";"Diesel";"Non classé";"Particulier";"VUL";"VASP";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 2";"Professionel";"VUL";"VASP";0;0;0;2;2;2;2;3;3;3;3;3;5;5;5
+"01005";"Ambérieux-en-Dombes";"Essence";"Non classé";"Particulier";"VUL";"VASP";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 5";"Particulier";"PL";"CAMION";0;0;0;0;1;1;1;1;0;0;0;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Electrique";"Crit'Air E";"Professionel";"VUL";"DERIVP";0;0;0;0;0;1;1;2;2;3;3;5;5;4;4
+"01005";"Ambérieux-en-Dombes";"Diesel HNR";"Crit'Air 2";"Particulier";"VP";"VP";0;0;0;0;1;1;0;0;1;1;3;5;5;6;8
+"01005";"Ambérieux-en-Dombes";"Electrique";"Crit'Air E";"Professionel";"VP";"VP";0;0;0;0;0;0;1;1;1;2;5;5;6;6;4
+"01005";"Ambérieux-en-Dombes";"Essence";"Crit'Air 1";"Professionel";"VUL";"DERIVP";0;0;0;0;0;0;1;1;0;0;0;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMPCAR";0;0;0;0;0;0;2;2;2;2;4;6;6;6;8
+"01005";"Ambérieux-en-Dombes";"Essence HR";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;1;1;0;0;1;2;3;4;4
+"01005";"Ambérieux-en-Dombes";"Electrique";"Crit'Air E";"Professionel";"VUL";"CAMTTE";0;0;0;0;0;0;0;1;1;3;2;3;3;4;4
+"01005";"Ambérieux-en-Dombes";"Essence";"Crit'Air 1";"Professionel";"VUL";"CAMTTE";0;0;0;0;0;0;0;1;1;1;1;1;2;3;2
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 5";"Professionel";"VP";"VP";0;0;0;0;0;0;1;1;1;1;1;1;1;1;1
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 2";"Professionel";"PL";"AUTREPL";0;0;0;0;0;0;0;1;1;1;1;1;1;1;1
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 2";"Particulier";"VUL";"DERIVP";0;0;0;0;0;0;0;3;2;3;1;2;3;3;5
+"01005";"Ambérieux-en-Dombes";"Electrique";"Crit'Air E";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;1;1;5;9;16;30;40
+"01005";"Ambérieux-en-Dombes";"Diesel HR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;1;1;0;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Essence HNR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;0;0;1;6;10;12;17;21;33;61
+"01005";"Ambérieux-en-Dombes";"Essence";"Crit'Air 1";"Particulier";"VUL";"DERIVP";0;0;0;0;0;0;0;0;1;1;0;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Essence HR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;1;2;1;0;4;7;11
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 2";"Particulier";"PL";"CAMION";0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+"01005";"Ambérieux-en-Dombes";"Diesel HR";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;1;1;1;1
+"01005";"Ambérieux-en-Dombes";"Essence";"Crit'Air 1";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;0;0;1;1;1;2
+"01005";"Ambérieux-en-Dombes";"Gaz";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;0;0;1;1
+"01005";"Ambérieux-en-Dombes";"Essence HNR";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;0;0;1;2
+"01005";"Ambérieux-en-Dombes";"Diesel";"Non classé";"Particulier";"PL";"TRACTEUR";0;0;0;0;0;0;0;0;0;0;0;0;0;1;1
+"01005";"Ambérieux-en-Dombes";"Diesel";"Crit'Air 2";"Professionel";"PL";"CAMION";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"01006";"Ambléon";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMTTE";1;1;1;1;1;1;1;1;1;1;1;1;0;0;0
+"01006";"Ambléon";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMTTE";4;3;3;3;3;3;7;5;5;3;4;4;4;3;3
+"01006";"Ambléon";"Essence";"Non classé";"Particulier";"VUL";"CAMTTE";2;3;2;2;2;1;0;0;0;0;0;0;0;0;0
+"01006";"Ambléon";"Diesel";"Non classé";"Particulier";"VUL";"CAMTTE";5;6;4;5;4;4;3;5;5;4;3;3;1;1;1
+"01006";"Ambléon";"Diesel";"Non classé";"Particulier";"VUL";"DERIVP";1;1;1;2;1;1;1;1;1;0;0;0;0;0;0
+"01006";"Ambléon";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMPCAR";1;1;1;0;0;1;2;1;0;0;0;0;0;0;0
+"01006";"Ambléon";"Essence HNR";"Crit'Air 2";"Particulier";"VP";"VP";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01006";"Ambléon";"Diesel";"Crit'Air 2";"Particulier";"VP";"VP";2;4;6;8;9;9;13;14;15;16;15;19;21;17;18
+"01006";"Ambléon";"Diesel";"Crit'Air 3";"Particulier";"VP";"VP";11;10;11;16;18;21;21;21;20;17;16;15;13;11;13
+"01006";"Ambléon";"Diesel";"Crit'Air 4";"Particulier";"VP";"VP";15;16;18;15;13;10;7;8;5;9;11;11;11;8;7
+"01006";"Ambléon";"Diesel";"Crit'Air 5";"Particulier";"VP";"VP";8;7;5;4;3;4;5;4;4;4;5;4;3;3;4
+"01006";"Ambléon";"Diesel";"Non classé";"Particulier";"VP";"VP";13;14;11;11;9;9;5;4;8;5;3;4;3;3;3
+"01006";"Ambléon";"Essence";"Crit'Air 1";"Particulier";"VP";"VP";0;2;1;3;4;4;6;5;7;8;12;13;20;21;21
+"01006";"Ambléon";"Essence";"Crit'Air 2";"Particulier";"VP";"VP";3;2;1;1;1;3;5;5;5;5;6;8;8;9;10
+"01006";"Ambléon";"Essence";"Crit'Air 3";"Particulier";"VP";"VP";4;5;7;5;5;2;3;2;2;3;4;5;4;5;5
+"01006";"Ambléon";"Essence";"Non classé";"Particulier";"VP";"VP";13;9;11;9;7;8;5;2;3;3;2;1;1;1;1
+"01006";"Ambléon";"Inconnu";"Non classé";"Particulier";"VP";"VP";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01006";"Ambléon";"Diesel";"Crit'Air 3";"Particulier";"VUL";"DERIVP";0;1;1;1;1;1;1;1;1;1;2;2;1;1;1
+"01006";"Ambléon";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";0;0;2;3;4;4;3;3;3;3;3;4;5;2;2
+"01006";"Ambléon";"Electrique";"Crit'Air E";"Particulier";"VP";"VP";0;0;0;0;0;1;1;1;0;0;0;0;0;1;2
+"01006";"Ambléon";"Diesel HNR";"Crit'Air 2";"Particulier";"VP";"VP";0;0;0;0;0;1;1;1;0;0;0;1;0;0;0
+"01006";"Ambléon";"Diesel";"Crit'Air 3";"Professionel";"VUL";"CAMTTE";0;0;0;0;0;0;0;1;1;1;1;1;1;1;0
+"01006";"Ambléon";"Diesel";"Crit'Air 2";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;1;1;1;0;0;0;0
+"01006";"Ambléon";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;2;2;2;4;5;6
+"01006";"Ambléon";"Essence";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+"01006";"Ambléon";"Diesel";"Crit'Air 2";"Professionel";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;0;0;0;1;2;2
+"01006";"Ambléon";"Essence HNR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;0;1;3;2
+"01006";"Ambléon";"Gaz";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;0;0;1;2
+"01006";"Ambléon";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMPCAR";0;0;0;0;0;0;0;0;0;0;0;0;0;1;1
+"01007";"Ambronay";"Diesel";"Non classé";"Professionel";"PL";"AUTREPL";2;4;2;3;2;2;3;3;2;2;2;3;2;2;2
+"01007";"Ambronay";"Diesel";"Non classé";"Particulier";"PL";"CAMION";1;1;1;1;1;1;1;2;1;1;1;2;2;2;2
+"01007";"Ambronay";"Diesel";"Crit'Air 3";"Professionel";"PL";"CAMION";2;3;3;5;5;5;5;5;5;5;6;6;6;5;4
+"01007";"Ambronay";"Diesel";"Crit'Air 4";"Professionel";"PL";"CAMION";7;7;7;7;7;7;8;8;5;7;5;4;3;3;3
+"01007";"Ambronay";"Diesel";"Crit'Air 5";"Professionel";"PL";"CAMION";7;7;9;10;10;10;10;10;8;5;4;3;4;3;2
+"01007";"Ambronay";"Diesel";"Non classé";"Professionel";"PL";"CAMION";16;16;14;11;10;9;9;9;6;5;5;5;3;2;2
+"01007";"Ambronay";"Diesel";"Non classé";"Particulier";"PL";"TRACTEUR";1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+"01007";"Ambronay";"Diesel";"Crit'Air 4";"Professionel";"PL";"TRACTEUR";1;2;1;1;1;1;1;1;1;1;1;1;1;1;1
+"01007";"Ambronay";"Diesel";"Crit'Air 3";"Professionel";"PL";"TRACTEUR";1;1;1;1;1;1;1;2;2;2;2;1;1;0;0
+"01007";"Ambronay";"Diesel";"Crit'Air 5";"Professionel";"PL";"TRACTEUR";6;6;7;8;1;1;1;2;2;2;2;2;2;1;2
+"01007";"Ambronay";"Diesel";"Non classé";"Professionel";"PL";"TRACTEUR";6;6;6;2;1;2;2;2;1;2;2;2;2;2;0
+"01007";"Ambronay";"Diesel";"Crit'Air 5";"Professionel";"TCP";"CAR";1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01007";"Ambronay";"Gaz";"Crit'Air 1";"Particulier";"VUL";"CAMTTE";1;1;1;0;0;0;0;0;0;0;0;0;0;0;1
+"01007";"Ambronay";"Diesel";"Crit'Air 2";"Professionel";"VUL";"CAMTTE";0;1;15;18;24;27;34;37;45;40;46;53;56;61;59
+"01007";"Ambronay";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMTTE";0;2;4;6;8;9;10;15;18;22;24;25;31;38;37
+"01007";"Ambronay";"Diesel";"Crit'Air 3";"Professionel";"VUL";"CAMTTE";27;32;37;36;30;28;25;26;24;22;21;20;19;16;12
+"01007";"Ambronay";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";15;18;22;29;33;36;36;34;34;35;35;32;32;34;35
+"01007";"Ambronay";"Diesel";"Crit'Air 4";"Professionel";"VUL";"CAMTTE";20;21;26;24;21;20;19;16;17;15;13;11;7;8;9
+"01007";"Ambronay";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMTTE";28;33;30;28;34;36;31;30;27;28;23;20;19;20;21
+"01007";"Ambronay";"Diesel";"Crit'Air 5";"Professionel";"VUL";"CAMTTE";8;6;4;3;2;3;2;2;2;2;2;1;1;1;1
+"01007";"Ambronay";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMTTE";10;11;11;10;10;10;11;10;10;6;8;7;7;6;3
+"01007";"Ambronay";"Diesel";"Non classé";"Professionel";"VUL";"CAMTTE";14;12;10;13;9;6;6;5;5;4;5;4;4;4;4
+"01007";"Ambronay";"Diesel";"Non classé";"Particulier";"VUL";"CAMTTE";61;57;55;44;37;38;29;28;24;12;13;10;8;6;7
+"01007";"Ambronay";"Essence";"Non classé";"Professionel";"VUL";"CAMTTE";3;2;2;1;0;0;0;0;0;0;0;0;0;0;0
+"01007";"Ambronay";"Essence";"Non classé";"Particulier";"VUL";"CAMTTE";13;14;11;11;11;10;7;6;5;5;4;2;2;1;1
+"01007";"Ambronay";"Essence";"Non classé";"Professionel";"VUL";"DERIVP";1;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+"01007";"Ambronay";"Gaz";"Crit'Air 1";"Particulier";"VUL";"DERIVP";1;2;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01007";"Ambronay";"Diesel";"Crit'Air 2";"Professionel";"VUL";"DERIVP";0;2;3;4;3;3;5;5;6;6;7;6;8;9;10
+"01007";"Ambronay";"Diesel";"Crit'Air 3";"Professionel";"VUL";"DERIVP";4;4;6;5;5;6;4;4;4;3;1;1;0;0;0
+"01007";"Ambronay";"Diesel";"Crit'Air 4";"Professionel";"VUL";"DERIVP";2;2;2;2;2;2;2;1;4;4;2;1;2;1;1
+"01007";"Ambronay";"Diesel";"Crit'Air 4";"Particulier";"VUL";"DERIVP";6;7;5;6;3;3;2;1;1;1;1;1;1;1;2
+"01007";"Ambronay";"Diesel";"Crit'Air 5";"Particulier";"VUL";"DERIVP";3;4;4;4;2;2;1;2;0;1;1;0;0;0;0
+"01007";"Ambronay";"Diesel";"Non classé";"Professionel";"VUL";"DERIVP";4;2;2;2;2;1;1;0;0;0;0;0;0;0;0
+"01007";"Ambronay";"Diesel";"Non classé";"Particulier";"VUL";"DERIVP";13;10;11;10;9;5;4;5;3;2;1;1;1;2;1
+"01007";"Ambronay";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMPCAR";2;2;2;2;2;3;6;4;4;2;3;5;5;7;8
+"01007";"Ambronay";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMPCAR";3;4;3;2;3;4;3;3;4;4;4;4;5;6;5
+"01007";"Ambronay";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMPCAR";2;1;1;1;1;1;1;2;1;1;1;1;1;1;1
+"01007";"Ambronay";"Diesel";"Non classé";"Particulier";"VUL";"CAMPCAR";3;4;6;5;4;5;4;5;3;3;5;5;4;4;3
+"01007";"Ambronay";"Diesel";"Crit'Air 4";"Professionel";"VUL";"VASP";1;1;1;1;1;1;1;0;1;1;1;1;0;0;0
+"01007";"Ambronay";"Diesel";"Non classé";"Professionel";"VUL";"VASP";2;2;2;2;1;1;1;1;1;1;0;0;0;0;0
+"01007";"Ambronay";"Diesel";"Non classé";"Particulier";"VUL";"VASP";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01007";"Ambronay";"Diesel";"Crit'Air 5";"Professionel";"VP";"VP";1;3;2;3;2;1;3;3;2;1;1;1;1;1;1
+"01007";"Ambronay";"Essence";"Crit'Air 1";"Professionel";"VP";"VP";0;1;1;1;1;4;2;3;2;3;4;4;5;6;6
+"01007";"Ambronay";"Essence";"Crit'Air 3";"Professionel";"VP";"VP";1;2;3;2;2;2;2;3;3;2;1;1;1;1;1
+"01007";"Ambronay";"Essence HNR";"Crit'Air 2";"Particulier";"VP";"VP";1;1;1;1;1;0;0;0;0;0;1;1;1;1;1
+"01007";"Ambronay";"Inconnu";"Inconnu";"Particulier";"VP";"VP";1;1;2;2;2;1;1;1;1;1;1;1;1;1;1
+"01007";"Ambronay";"Gaz";"Crit'Air 1";"Particulier";"VP";"VP";6;5;7;6;5;3;3;2;0;1;1;5;6;11;17
+"01007";"Ambronay";"Diesel";"Crit'Air 2";"Professionel";"VP";"VP";2;9;10;14;19;20;21;27;24;28;31;28;25;20;23
+"01007";"Ambronay";"Diesel";"Crit'Air 2";"Particulier";"VP";"VP";15;71;121;172;236;285;329;375;447;514;552;564;568;566;567
+"01007";"Ambronay";"Diesel";"Crit'Air 3";"Professionel";"VP";"VP";15;15;8;8;4;4;5;3;2;1;2;2;2;2;4
+"01007";"Ambronay";"Diesel";"Crit'Air 3";"Particulier";"VP";"VP";312;338;355;370;381;383;386;372;357;342;333;328;312;279;259
+"01007";"Ambronay";"Diesel";"Crit'Air 4";"Professionel";"VP";"VP";6;4;3;2;2;4;4;2;4;4;4;6;5;4;3
+"01007";"Ambronay";"Diesel";"Crit'Air 4";"Particulier";"VP";"VP";287;286;299;284;272;270;247;231;193;156;148;130;120;112;106
+"01007";"Ambronay";"Diesel";"Crit'Air 5";"Particulier";"VP";"VP";112;111;104;97;93;79;67;55;49;45;38;31;27;21;20
+"01007";"Ambronay";"Diesel";"Non classé";"Professionel";"VP";"VP";7;5;2;3;3;2;2;1;1;1;1;1;1;0;1
+"01007";"Ambronay";"Diesel";"Non classé";"Particulier";"VP";"VP";216;199;184;142;117;89;84;67;46;28;30;20;21;20;12
+"01007";"Ambronay";"Essence";"Crit'Air 1";"Particulier";"VP";"VP";6;22;40;59;91;127;178;224;280;340;371;408;438;458;491
+"01007";"Ambronay";"Essence";"Crit'Air 2";"Professionel";"VP";"VP";2;2;0;1;1;1;1;1;1;1;1;1;1;2;2
+"01007";"Ambronay";"Essence";"Crit'Air 2";"Particulier";"VP";"VP";83;90;94;100;112;123;129;132;127;137;135;126;122;109;109
+"01007";"Ambronay";"Essence";"Crit'Air 3";"Particulier";"VP";"VP";207;204;190;181;182;185;185;168;159;148;134;125;113;94;96
+"01007";"Ambronay";"Essence";"Non classé";"Professionel";"VP";"VP";14;12;10;10;6;5;4;4;3;4;1;1;1;1;1
+"01007";"Ambronay";"Essence";"Non classé";"Particulier";"VP";"VP";194;182;167;135;115;105;97;92;84;68;64;58;56;48;46
+"01007";"Ambronay";"Inconnu";"Non classé";"Particulier";"VP";"VP";14;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+"01007";"Ambronay";"Diesel";"Crit'Air 5";"Professionel";"PL";"AUTREPL";0;0;0;1;1;1;2;3;2;2;2;2;2;2;1
+"01007";"Ambronay";"Diesel";"Crit'Air 3";"Professionel";"PL";"AUTREPL";0;0;1;1;1;1;0;0;0;0;0;0;0;0;0
+"01007";"Ambronay";"Diesel";"Crit'Air 3";"Particulier";"PL";"AUTREPL";0;0;1;1;1;1;1;1;2;1;0;0;0;0;0
+"01007";"Ambronay";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMPCAR";0;1;1;1;0;0;2;3;4;6;8;7;10;14;17
+"01007";"Ambronay";"Essence HNR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;1;3;4;5;6;5;8;11;11;21;20;34;54
+"01007";"Ambronay";"Electrique";"Crit'Air E";"Professionel";"VUL";"CAMTTE";0;0;0;1;1;1;0;0;1;1;1;2;3;3;4
+"01007";"Ambronay";"Diesel";"Crit'Air 3";"Particulier";"VUL";"DERIVP";0;0;1;6;6;6;9;7;8;10;6;3;1;1;1
+"01007";"Ambronay";"Diesel";"Crit'Air 3";"Professionel";"VUL";"VASP";0;0;0;1;1;1;1;1;1;1;1;1;1;1;1
+"01007";"Ambronay";"Diesel";"Crit'Air 2";"Professionel";"PL";"CAMION";0;0;0;0;1;2;2;2;6;10;11;13;14;16;16
+"01007";"Ambronay";"Diesel";"Crit'Air 5";"Particulier";"PL";"TRACTEUR";0;0;0;1;1;1;1;1;0;0;0;0;0;0;0
+"01007";"Ambronay";"Essence";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";0;0;0;2;2;2;2;1;2;2;2;1;1;2;1
+"01007";"Ambronay";"Diesel";"Crit'Air 2";"Particulier";"VUL";"DERIVP";0;0;0;0;1;1;2;2;2;2;2;1;3;3;6
+"01007";"Ambronay";"Essence";"Non classé";"Particulier";"VUL";"CAMPCAR";0;0;0;1;2;2;2;2;1;1;1;0;0;1;1
+"01007";"Ambronay";"Diesel HNR";"Crit'Air 2";"Particulier";"VP";"VP";0;0;0;1;0;0;1;2;2;2;2;5;7;6;6
+"01007";"Ambronay";"Essence";"Crit'Air 3";"Particulier";"VUL";"DERIVP";0;0;0;0;1;1;1;1;1;1;1;1;1;1;1
+"01007";"Ambronay";"Electrique";"Crit'Air E";"Particulier";"VP";"VP";0;0;0;0;0;1;1;3;4;6;12;20;34;55;59
+"01007";"Ambronay";"Diesel";"Crit'Air 2";"Professionel";"PL";"TRACTEUR";0;0;0;0;0;0;1;1;2;2;4;5;6;7;10
+"01007";"Ambronay";"Diesel";"Crit'Air 2";"Professionel";"TCP";"CAR";0;0;0;0;0;0;1;1;1;1;1;2;2;2;1
+"01007";"Ambronay";"Essence";"Crit'Air 1";"Particulier";"VUL";"DERIVP";0;0;0;0;0;0;1;1;1;1;3;3;2;2;1
+"01007";"Ambronay";"Diesel";"Crit'Air 2";"Professionel";"VUL";"VASP";0;0;0;0;0;0;1;1;1;1;2;1;1;1;2
+"01007";"Ambronay";"Essence HR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;1;3;3;5;12;14;12
+"01007";"Ambronay";"Diesel";"Crit'Air 2";"Professionel";"PL";"AUTREPL";0;0;0;0;0;0;0;0;0;2;2;2;3;2;3
+"01007";"Ambronay";"Essence HNR";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;1;1;1;1;0;3
+"01007";"Ambronay";"Electrique";"Crit'Air E";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;1;1;1;2;1;3;5
+"01007";"Ambronay";"Diesel";"Crit'Air 5";"Particulier";"VUL";"VASP";0;0;0;0;0;0;0;0;0;0;0;1;1;1;1
+"01007";"Ambronay";"Essence HR";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;1;2;1;2;5;6
+"01007";"Ambronay";"Diesel";"Crit'Air 4";"Professionel";"PL";"AUTREPL";0;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+"01007";"Ambronay";"Essence";"Crit'Air 1";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;0;0;1;1;1;1
+"01007";"Ambronay";"Electrique";"Crit'Air E";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;0;1;2;3;2;2
+"01007";"Ambronay";"Diesel HR";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;1;1;2;1
+"01007";"Ambronay";"Diesel";"Crit'Air 4";"Particulier";"PL";"AUTREPL";0;0;0;0;0;0;0;0;0;0;0;1;1;1;1
+"01007";"Ambronay";"Diesel";"Crit'Air 3";"Particulier";"PL";"CAMION";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01007";"Ambronay";"Diesel";"Crit'Air 3";"Particulier";"VUL";"VASP";0;0;0;0;0;0;0;0;0;0;0;1;2;2;2
+"01007";"Ambronay";"Diesel";"Crit'Air 2";"Particulier";"PL";"AUTREPL";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"01007";"Ambronay";"Diesel HNR";"Crit'Air 2";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;0;1;1;1
+"01007";"Ambronay";"Diesel";"Crit'Air 5";"Particulier";"PL";"CAMION";0;0;0;0;0;0;0;0;0;0;0;0;0;1;1
+"01008";"Ambutrix";"Diesel";"Non classé";"Professionel";"PL";"CAMION";2;2;2;1;1;1;1;2;2;2;2;2;2;0;0
+"01008";"Ambutrix";"Diesel";"Crit'Air 4";"Professionel";"PL";"TRACTEUR";1;1;1;1;0;0;0;0;0;0;0;0;0;0;0
+"01008";"Ambutrix";"Diesel";"Crit'Air 5";"Professionel";"PL";"TRACTEUR";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01008";"Ambutrix";"Diesel";"Crit'Air 3";"Professionel";"PL";"TRACTEUR";1;2;2;4;3;4;4;4;4;3;2;1;0;0;0
+"01008";"Ambutrix";"Diesel";"Non classé";"Professionel";"TCP";"CAR";1;0;1;1;0;0;0;0;0;0;0;0;0;0;0
+"01008";"Ambutrix";"Diesel";"Crit'Air 5";"Professionel";"VUL";"CAMTTE";2;1;1;1;1;1;0;0;0;0;0;0;0;0;0
+"01008";"Ambutrix";"Diesel";"Crit'Air 3";"Professionel";"VUL";"CAMTTE";9;11;11;9;8;11;8;11;10;8;7;4;3;3;3
+"01008";"Ambutrix";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";5;7;7;11;12;12;14;20;18;20;21;18;16;16;17
+"01008";"Ambutrix";"Diesel";"Crit'Air 4";"Professionel";"VUL";"CAMTTE";2;5;5;4;5;6;4;4;5;2;1;1;0;0;0
+"01008";"Ambutrix";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMTTE";13;13;14;14;15;16;18;15;14;14;14;13;10;9;9
+"01008";"Ambutrix";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMTTE";2;2;2;3;3;4;3;4;4;2;2;1;2;1;1
+"01008";"Ambutrix";"Diesel";"Non classé";"Professionel";"VUL";"CAMTTE";5;4;4;4;3;3;3;3;2;1;1;2;1;1;2
+"01008";"Ambutrix";"Diesel";"Non classé";"Particulier";"VUL";"CAMTTE";16;14;16;11;12;12;11;10;6;5;5;3;3;3;3
+"01008";"Ambutrix";"Essence";"Non classé";"Particulier";"VUL";"CAMTTE";8;4;3;2;1;1;1;1;2;1;0;0;1;0;0
+"01008";"Ambutrix";"Diesel";"Crit'Air 3";"Particulier";"VUL";"DERIVP";1;0;0;1;3;2;3;1;1;1;0;0;1;1;2
+"01008";"Ambutrix";"Diesel";"Crit'Air 4";"Professionel";"VUL";"DERIVP";0;1;1;1;1;1;0;0;0;0;0;1;0;0;0
+"01008";"Ambutrix";"Diesel";"Crit'Air 3";"Professionel";"VUL";"DERIVP";1;1;1;1;2;2;2;3;2;2;2;2;2;2;1
+"01008";"Ambutrix";"Diesel";"Crit'Air 4";"Particulier";"VUL";"DERIVP";5;4;4;4;4;3;3;2;2;2;2;2;2;2;2
+"01008";"Ambutrix";"Diesel";"Non classé";"Professionel";"VUL";"DERIVP";2;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01008";"Ambutrix";"Diesel";"Non classé";"Particulier";"VUL";"DERIVP";4;3;2;2;1;0;0;0;0;0;0;0;0;0;0
+"01008";"Ambutrix";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMPCAR";2;2;2;2;2;2;1;1;1;1;1;1;1;1;2
+"01008";"Ambutrix";"Diesel";"Crit'Air 2";"Professionel";"VUL";"VASP";0;1;1;1;1;2;3;3;3;3;3;4;3;1;0
+"01008";"Ambutrix";"Diesel";"Crit'Air 3";"Professionel";"VUL";"VASP";1;1;3;3;5;4;3;2;2;1;1;1;0;0;0
+"01008";"Ambutrix";"Diesel";"Non classé";"Particulier";"VUL";"VASP";1;1;1;1;1;1;1;1;1;1;1;1;1;1;0
+"01008";"Ambutrix";"Diesel";"Crit'Air 3";"Particulier";"VUL";"VASP";0;1;1;1;1;1;0;0;0;0;0;0;0;1;0
+"01008";"Ambutrix";"Essence";"Crit'Air 2";"Professionel";"VP";"VP";1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01008";"Ambutrix";"Diesel";"Crit'Air 4";"Professionel";"VP";"VP";1;1;2;2;2;2;2;2;1;1;0;0;0;0;0
+"01008";"Ambutrix";"Inconnu";"Inconnu";"Particulier";"VP";"VP";1;1;1;1;1;2;2;0;0;0;0;0;0;0;0
+"01008";"Ambutrix";"Diesel";"Crit'Air 2";"Professionel";"VP";"VP";3;5;5;11;13;11;11;12;11;8;9;6;4;4;3
+"01008";"Ambutrix";"Diesel";"Crit'Air 2";"Particulier";"VP";"VP";5;21;40;53;74;91;106;109;123;136;143;148;152;154;153
+"01008";"Ambutrix";"Diesel";"Crit'Air 3";"Professionel";"VP";"VP";8;6;6;7;6;3;2;1;2;1;1;1;1;0;1
+"01008";"Ambutrix";"Diesel";"Crit'Air 3";"Particulier";"VP";"VP";89;95;99;109;110;120;110;106;102;90;101;96;89;79;74
+"01008";"Ambutrix";"Diesel";"Crit'Air 4";"Particulier";"VP";"VP";92;91;98;95;85;87;77;70;61;53;54;47;39;35;27
+"01008";"Ambutrix";"Diesel";"Crit'Air 5";"Particulier";"VP";"VP";42;38;34;32;24;22;21;19;17;17;10;10;8;9;9
+"01008";"Ambutrix";"Diesel";"Non classé";"Particulier";"VP";"VP";62;56;48;45;36;26;23;15;12;6;5;6;5;2;2
+"01008";"Ambutrix";"Essence";"Crit'Air 1";"Particulier";"VP";"VP";2;8;14;16;27;33;41;68;88;109;117;119;123;124;134
+"01008";"Ambutrix";"Essence";"Crit'Air 2";"Particulier";"VP";"VP";31;34;35;37;28;30;34;32;29;28;31;26;23;26;29
+"01008";"Ambutrix";"Essence";"Crit'Air 3";"Professionel";"VP";"VP";2;2;2;2;2;2;2;2;3;2;1;1;1;1;1
+"01008";"Ambutrix";"Essence";"Crit'Air 3";"Particulier";"VP";"VP";64;64;69;67;57;59;57;58;63;58;50;40;33;35;32
+"01008";"Ambutrix";"Essence";"Non classé";"Professionel";"VP";"VP";2;2;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01008";"Ambutrix";"Essence";"Non classé";"Particulier";"VP";"VP";71;60;55;45;32;27;24;19;23;20;23;20;18;15;13
+"01008";"Ambutrix";"Inconnu";"Non classé";"Particulier";"VP";"VP";5;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01008";"Ambutrix";"Diesel";"Crit'Air 2";"Professionel";"VUL";"CAMTTE";0;0;3;6;8;8;11;13;15;18;17;21;22;23;21
+"01008";"Ambutrix";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMPCAR";0;0;1;1;1;1;2;2;3;4;4;6;6;6;8
+"01008";"Ambutrix";"Essence HNR";"Crit'Air 2";"Particulier";"VP";"VP";0;0;1;1;0;0;0;0;0;0;0;0;0;0;0
+"01008";"Ambutrix";"Essence";"Crit'Air 1";"Professionel";"VP";"VP";0;0;1;2;3;7;7;13;16;17;20;18;10;9;9
+"01008";"Ambutrix";"Diesel";"Crit'Air 4";"Professionel";"VUL";"VASP";0;0;1;1;1;1;0;0;0;0;0;0;0;0;0
+"01008";"Ambutrix";"Diesel HNR";"Crit'Air 2";"Particulier";"VP";"VP";0;0;0;1;1;0;0;0;1;1;1;1;1;2;3
+"01008";"Ambutrix";"Gaz";"Crit'Air 1";"Particulier";"VP";"VP";0;0;1;2;2;2;2;2;1;1;1;2;2;3;3
+"01008";"Ambutrix";"Diesel";"Non classé";"Particulier";"PL";"AUTREPL";0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+"01008";"Ambutrix";"Diesel";"Crit'Air 2";"Professionel";"PL";"TRACTEUR";0;0;0;0;1;1;3;3;3;5;7;7;5;5;0
+"01008";"Ambutrix";"Diesel";"Non classé";"Particulier";"VUL";"CAMPCAR";0;0;0;1;1;1;1;1;1;0;0;0;1;1;1
+"01008";"Ambutrix";"Essence HR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;0;1;1;0;0;1;2;3;4;4
+"01008";"Ambutrix";"Electrique";"Crit'Air E";"Particulier";"VP";"VP";0;0;0;0;0;2;2;2;1;2;2;4;8;15;24
+"01008";"Ambutrix";"Essence HNR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;1;2;4;9;10;10;13;12;12;16
+"01008";"Ambutrix";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;2;4;4;6;10;10;14;14;15;15
+"01008";"Ambutrix";"Diesel";"Crit'Air 2";"Professionel";"VUL";"DERIVP";0;0;0;0;0;0;1;1;1;3;3;2;2;4;3
+"01008";"Ambutrix";"Diesel";"Crit'Air 2";"Particulier";"VUL";"DERIVP";0;0;0;0;0;0;1;1;0;2;3;3;3;4;6
+"01008";"Ambutrix";"Diesel";"Crit'Air 4";"Particulier";"VUL";"VASP";0;0;0;0;0;0;1;1;1;1;1;1;1;2;2
+"01008";"Ambutrix";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMPCAR";0;0;0;0;0;0;0;0;0;1;1;1;1;1;0
+"01008";"Ambutrix";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMPCAR";0;0;0;0;0;0;0;0;0;1;1;2;2;2;1
+"01008";"Ambutrix";"Electrique";"Crit'Air E";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;1;1;1;1;1
+"01008";"Ambutrix";"Essence HNR";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;1;3;2;1;1;0
+"01008";"Ambutrix";"Diesel";"Crit'Air 2";"Particulier";"VUL";"VASP";0;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+"01008";"Ambutrix";"Essence";"Crit'Air 1";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;0;0;0;1;1;1
+"01008";"Ambutrix";"Essence";"Non classé";"Professionel";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;0;0;1;0;0;1
+"01008";"Ambutrix";"Diesel";"Crit'Air 2";"Professionel";"PL";"CAMION";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"01009";"Andert-et-Condon";"Diesel";"Non classé";"Professionel";"PL";"AUTREPL";1;1;1;0;0;1;0;0;0;0;0;0;0;0;0
+"01009";"Andert-et-Condon";"Diesel";"Non classé";"Particulier";"PL";"CAMION";1;1;1;1;1;1;1;1;3;3;3;2;2;1;1
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 5";"Professionel";"PL";"CAMION";1;1;1;1;1;1;1;1;1;0;0;0;0;0;0
+"01009";"Andert-et-Condon";"Diesel";"Non classé";"Professionel";"PL";"TRACTEUR";1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 3";"Professionel";"PL";"TRACTEUR";1;1;2;2;3;3;3;3;5;5;5;5;4;2;1
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 4";"Professionel";"PL";"TRACTEUR";1;1;1;1;1;1;1;1;0;0;0;0;0;0;0
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 5";"Professionel";"PL";"TRACTEUR";2;2;3;4;1;1;1;1;0;0;0;0;0;0;0
+"01009";"Andert-et-Condon";"Diesel";"Non classé";"Professionel";"VUL";"CAMTTE";1;1;1;1;0;0;0;0;1;1;1;1;1;0;0
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMTTE";2;3;3;4;4;4;4;8;6;7;5;2;4;6;5
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 3";"Professionel";"VUL";"CAMTTE";2;2;2;3;3;3;3;2;1;1;1;1;3;3;1
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 4";"Professionel";"VUL";"CAMTTE";4;4;4;3;3;3;3;3;2;2;2;1;1;0;1
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMTTE";4;3;3;2;2;2;2;2;1;2;1;1;1;2;1
+"01009";"Andert-et-Condon";"Diesel";"Non classé";"Particulier";"VUL";"CAMTTE";7;9;9;8;9;10;8;7;7;2;3;2;0;1;0
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 4";"Particulier";"VUL";"DERIVP";1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+"01009";"Andert-et-Condon";"Essence";"Crit'Air 3";"Particulier";"VUL";"DERIVP";1;1;1;1;1;0;0;0;1;1;0;1;1;1;0
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 5";"Particulier";"VUL";"DERIVP";0;1;1;1;0;0;0;0;0;0;0;0;0;0;0
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 3";"Particulier";"VUL";"DERIVP";1;1;0;1;1;1;1;1;0;0;0;1;1;2;1
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 4";"Professionel";"VUL";"DERIVP";1;1;1;1;1;1;1;0;0;0;0;0;0;0;0
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 5";"Professionel";"VUL";"DERIVP";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01009";"Andert-et-Condon";"Diesel";"Non classé";"Particulier";"VUL";"CAMPCAR";1;3;4;3;3;3;4;4;4;2;2;2;3;3;3
+"01009";"Andert-et-Condon";"Inconnu";"Non classé";"Particulier";"VP";"VP";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01009";"Andert-et-Condon";"Diesel";"Non classé";"Professionel";"VP";"VP";0;1;1;0;1;0;0;0;0;0;0;0;0;0;0
+"01009";"Andert-et-Condon";"Essence";"Non classé";"Professionel";"VP";"VP";0;1;1;1;1;0;0;0;1;0;0;0;0;0;0
+"01009";"Andert-et-Condon";"Essence";"Crit'Air 1";"Particulier";"VP";"VP";0;3;7;7;10;14;22;27;32;39;49;57;62;63;67
+"01009";"Andert-et-Condon";"Gaz";"Crit'Air 1";"Particulier";"VP";"VP";2;2;1;1;2;1;1;1;1;1;0;0;0;0;1
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 2";"Particulier";"VP";"VP";3;9;18;26;32;34;39;44;48;57;65;78;76;80;76
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 3";"Particulier";"VP";"VP";41;44;46;45;44;45;45;43;42;38;37;39;37;36;37
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 4";"Particulier";"VP";"VP";37;33;40;36;36;38;35;38;39;38;29;37;33;35;32
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 5";"Particulier";"VP";"VP";15;16;20;16;14;11;6;7;5;3;4;6;5;4;2
+"01009";"Andert-et-Condon";"Diesel";"Non classé";"Particulier";"VP";"VP";36;34;30;27;19;14;11;13;8;2;1;1;2;1;1
+"01009";"Andert-et-Condon";"Essence";"Crit'Air 2";"Particulier";"VP";"VP";17;16;17;14;11;12;12;15;16;15;15;13;16;13;10
+"01009";"Andert-et-Condon";"Essence";"Crit'Air 3";"Particulier";"VP";"VP";32;30;30;29;30;25;25;29;28;26;22;22;20;19;20
+"01009";"Andert-et-Condon";"Essence";"Non classé";"Particulier";"VP";"VP";35;27;23;19;17;17;14;11;8;8;5;4;4;3;4
+"01009";"Andert-et-Condon";"Diesel";"Non classé";"Professionel";"PL";"CAMION";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 4";"Professionel";"PL";"CAMION";0;1;1;1;0;0;0;0;0;0;0;0;0;0;0
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMPCAR";0;1;1;0;1;1;1;1;2;2;1;1;2;3;3
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 2";"Professionel";"VUL";"CAMTTE";0;0;2;2;2;2;4;4;4;3;4;3;3;4;2
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";0;0;0;3;3;3;4;4;6;3;3;2;4;4;4
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMPCAR";0;0;1;0;0;0;0;0;1;2;2;2;2;1;1
+"01009";"Andert-et-Condon";"Essence HNR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;1;1;1;1;1;1;2;2;4;4;7;9
+"01009";"Andert-et-Condon";"Essence";"Non classé";"Particulier";"VUL";"CAMTTE";0;0;0;0;1;3;3;3;1;1;1;1;1;0;0
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 2";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01009";"Andert-et-Condon";"Electrique";"Crit'Air E";"Particulier";"VP";"VP";0;0;0;0;0;1;1;1;1;1;2;2;3;5;6
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;3;4;3;5;6;6;9;11
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 2";"Particulier";"VUL";"DERIVP";0;0;0;0;0;0;2;2;1;1;1;1;1;1;1
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 2";"Professionel";"PL";"TRACTEUR";0;0;0;0;0;0;0;1;1;1;1;1;2;5;6
+"01009";"Andert-et-Condon";"Gaz";"Crit'Air 1";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;1;1;1;0;0;0;0;0;0
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMPCAR";0;0;0;0;0;0;0;1;4;3;3;5;3;3;3
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 3";"Professionel";"VUL";"DERIVP";0;0;0;0;0;0;0;1;1;1;0;0;1;1;1
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMPCAR";0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 4";"Particulier";"VUL";"VASP";0;0;0;0;0;0;0;1;1;1;0;1;1;1;1
+"01009";"Andert-et-Condon";"Essence HR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;1;1;1;1;1;2;3
+"01009";"Andert-et-Condon";"Essence";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+"01009";"Andert-et-Condon";"Essence HNR";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;1;1;1;2
+"01009";"Andert-et-Condon";"Essence";"Crit'Air 1";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;0;0;1;1;1;1
+"01009";"Andert-et-Condon";"Diesel";"Crit'Air 3";"Particulier";"VUL";"VASP";0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"01009";"Andert-et-Condon";"Essence";"Crit'Air 2";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;0;0;1;1
+"01009";"Andert-et-Condon";"Diesel HNR";"Crit'Air 2";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"01010";"Anglefort";"Diesel";"Crit'Air 5";"Particulier";"PL";"AUTREPL";1;1;1;1;1;1;0;0;0;0;0;0;0;0;0
+"01010";"Anglefort";"Diesel";"Non classé";"Particulier";"PL";"CAMION";1;1;1;1;1;1;1;1;1;1;1;0;0;0;0
+"01010";"Anglefort";"Diesel";"Crit'Air 5";"Professionel";"PL";"CAMION";2;2;2;2;4;4;3;3;3;3;3;3;3;2;2
+"01010";"Anglefort";"Diesel";"Non classé";"Professionel";"PL";"CAMION";5;6;6;6;7;4;6;6;4;5;5;5;5;5;4
+"01010";"Anglefort";"Diesel";"Non classé";"Professionel";"PL";"TRACTEUR";1;1;1;1;0;0;0;0;0;0;0;0;0;0;0
+"01010";"Anglefort";"Inconnu";"Inconnu";"Professionel";"VUL";"CAMTTE";1;1;1;1;1;1;1;1;0;0;0;0;0;0;0
+"01010";"Anglefort";"Essence";"Crit'Air 3";"Professionel";"VUL";"CAMTTE";1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+"01010";"Anglefort";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";5;8;10;10;13;13;13;15;18;23;15;18;17;19;18
+"01010";"Anglefort";"Essence";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+"01010";"Anglefort";"Diesel";"Crit'Air 3";"Professionel";"VUL";"CAMTTE";2;3;3;5;5;6;4;2;3;4;4;5;5;5;7
+"01010";"Anglefort";"Diesel";"Crit'Air 4";"Professionel";"VUL";"CAMTTE";4;3;3;2;5;2;3;3;4;3;2;2;1;1;1
+"01010";"Anglefort";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMTTE";9;11;14;15;14;14;8;10;11;7;7;10;9;12;10
+"01010";"Anglefort";"Diesel";"Crit'Air 5";"Professionel";"VUL";"CAMTTE";2;2;2;2;2;2;2;1;1;0;0;0;0;0;0
+"01010";"Anglefort";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMTTE";12;12;11;12;10;9;9;10;6;5;3;3;2;2;2
+"01010";"Anglefort";"Diesel";"Non classé";"Professionel";"VUL";"CAMTTE";4;4;5;3;3;3;3;3;3;2;2;1;1;1;1
+"01010";"Anglefort";"Diesel";"Non classé";"Particulier";"VUL";"CAMTTE";22;23;20;20;17;13;12;13;13;7;6;6;6;7;4
+"01010";"Anglefort";"Essence";"Crit'Air 2";"Professionel";"VUL";"CAMTTE";0;3;1;0;0;0;0;0;0;0;0;0;0;0;0
+"01010";"Anglefort";"Essence";"Non classé";"Particulier";"VUL";"CAMTTE";10;7;5;6;7;7;4;4;3;4;4;4;3;3;5
+"01010";"Anglefort";"Diesel";"Crit'Air 5";"Particulier";"VUL";"DERIVP";1;1;1;0;0;0;1;1;0;0;0;0;0;0;0
+"01010";"Anglefort";"Diesel";"Crit'Air 5";"Professionel";"VUL";"DERIVP";1;1;1;1;1;1;1;1;1;1;1;1;1;0;0
+"01010";"Anglefort";"Gaz";"Crit'Air 1";"Particulier";"VUL";"DERIVP";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01010";"Anglefort";"Diesel";"Crit'Air 4";"Professionel";"VUL";"DERIVP";1;2;1;0;0;0;0;0;0;0;0;0;0;0;0
+"01010";"Anglefort";"Essence";"Non classé";"Particulier";"VUL";"DERIVP";1;1;1;1;1;1;1;1;1;1;0;0;0;0;0
+"01010";"Anglefort";"Diesel";"Crit'Air 4";"Particulier";"VUL";"DERIVP";2;2;4;5;6;3;4;2;1;1;1;1;1;1;1
+"01010";"Anglefort";"Diesel";"Non classé";"Particulier";"VUL";"DERIVP";3;3;2;3;0;1;0;0;0;0;0;0;0;0;0
+"01010";"Anglefort";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMPCAR";0;1;1;2;1;3;2;3;3;4;3;4;6;10;15
+"01010";"Anglefort";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMPCAR";1;1;2;3;2;4;3;3;2;2;1;1;3;4;4
+"01010";"Anglefort";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMPCAR";3;2;3;3;2;2;2;2;3;3;4;4;3;4;2
+"01010";"Anglefort";"Diesel";"Non classé";"Particulier";"VUL";"CAMPCAR";7;5;3;3;3;3;3;3;3;3;3;3;2;2;2
+"01010";"Anglefort";"Essence";"Non classé";"Professionel";"VUL";"VASP";1;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+"01010";"Anglefort";"Diesel";"Crit'Air 4";"Particulier";"VUL";"VASP";1;1;1;1;1;1;1;1;1;1;2;2;1;0;0
+"01010";"Anglefort";"Gaz";"Crit'Air 3";"Particulier";"VP";"VP";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01010";"Anglefort";"Essence";"Crit'Air 3";"Professionel";"VP";"VP";1;1;1;1;1;1;0;0;0;0;0;1;1;0;0
+"01010";"Anglefort";"Diesel";"Crit'Air 5";"Professionel";"VP";"VP";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01010";"Anglefort";"Diesel";"Crit'Air 3";"Professionel";"VP";"VP";1;2;2;2;2;0;0;0;1;0;0;0;1;1;0
+"01010";"Anglefort";"Diesel";"Crit'Air 2";"Professionel";"VP";"VP";1;1;1;4;4;3;5;9;11;15;13;13;16;15;15
+"01010";"Anglefort";"Gaz";"Crit'Air 1";"Particulier";"VP";"VP";3;2;3;2;2;3;1;1;0;0;1;2;3;3;4
+"01010";"Anglefort";"Diesel";"Crit'Air 2";"Particulier";"VP";"VP";13;33;59;83;103;133;167;187;204;239;260;262;253;271;269
+"01010";"Anglefort";"Diesel";"Crit'Air 3";"Particulier";"VP";"VP";118;139;131;137;149;163;172;172;150;153;141;141;138;140;128
+"01010";"Anglefort";"Diesel";"Crit'Air 4";"Particulier";"VP";"VP";124;129;134;129;124;128;128;121;107;84;73;71;57;59;56
+"01010";"Anglefort";"Diesel";"Crit'Air 5";"Particulier";"VP";"VP";54;54;54;58;50;43;35;33;31;26;27;22;21;17;16
+"01010";"Anglefort";"Diesel";"Non classé";"Professionel";"VP";"VP";5;7;7;8;8;8;8;8;8;8;7;7;8;8;8
+"01010";"Anglefort";"Diesel";"Non classé";"Particulier";"VP";"VP";93;80;63;55;48;47;40;30;24;17;15;14;11;16;10
+"01010";"Anglefort";"Essence";"Crit'Air 1";"Particulier";"VP";"VP";1;6;12;19;28;37;53;72;95;125;128;145;151;166;173
+"01010";"Anglefort";"Essence";"Crit'Air 2";"Particulier";"VP";"VP";32;34;35;36;36;32;30;26;34;41;34;39;45;47;46
+"01010";"Anglefort";"Essence";"Crit'Air 3";"Particulier";"VP";"VP";63;72;81;87;89;79;68;67;72;63;52;56;56;45;41
+"01010";"Anglefort";"Essence";"Non classé";"Particulier";"VP";"VP";78;72;57;54;43;36;31;29;23;20;14;14;15;14;16
+"01010";"Anglefort";"Inconnu";"Non classé";"Particulier";"VP";"VP";5;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01010";"Anglefort";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMTTE";0;0;1;5;6;7;9;11;18;16;18;22;24;18;19
+"01010";"Anglefort";"Diesel";"Crit'Air 3";"Professionel";"VUL";"DERIVP";0;0;1;1;1;1;1;1;0;0;0;0;0;0;0
+"01010";"Anglefort";"Essence";"Non classé";"Professionel";"VUL";"DERIVP";0;1;1;1;1;1;1;0;0;0;0;0;0;0;0
+"01010";"Anglefort";"Diesel";"Crit'Air 2";"Professionel";"VUL";"CAMTTE";0;0;0;3;7;8;7;10;11;11;13;15;17;19;19
+"01010";"Anglefort";"Diesel";"Crit'Air 2";"Professionel";"VUL";"DERIVP";0;0;0;0;1;1;1;1;1;2;2;2;3;3;2
+"01010";"Anglefort";"Diesel";"Crit'Air 3";"Professionel";"VUL";"VASP";0;0;0;1;1;1;1;1;1;1;1;1;1;1;1
+"01010";"Anglefort";"Essence";"Crit'Air 3";"Particulier";"VUL";"DERIVP";0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+"01010";"Anglefort";"Diesel";"Crit'Air 5";"Particulier";"VUL";"VASP";0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+"01010";"Anglefort";"Electrique";"Crit'Air E";"Particulier";"VP";"VP";0;0;0;0;0;1;2;2;2;2;4;4;12;17;22
+"01010";"Anglefort";"Diesel";"Crit'Air 2";"Particulier";"VUL";"DERIVP";0;0;0;0;0;1;2;1;2;2;2;2;2;3;5
+"01010";"Anglefort";"Diesel";"Crit'Air 3";"Particulier";"VUL";"DERIVP";0;0;0;0;0;1;1;1;2;0;0;0;1;0;0
+"01010";"Anglefort";"Diesel";"Crit'Air 2";"Particulier";"VUL";"VASP";0;0;0;0;0;0;2;2;2;1;1;1;1;1;1
+"01010";"Anglefort";"Essence HNR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;0;2;2;4;9;9;12;13;18;27
+"01010";"Anglefort";"Essence HR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;1;1;1;1;0;1;3;5;7;6
+"01010";"Anglefort";"Essence";"Crit'Air 1";"Particulier";"VUL";"DERIVP";0;0;0;0;0;0;1;1;1;1;1;1;1;1;1
+"01010";"Anglefort";"Diesel HNR";"Crit'Air 2";"Professionel";"VP";"VP";0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+"01010";"Anglefort";"Essence HNR";"Crit'Air 2";"Particulier";"VP";"VP";0;0;0;0;0;0;1;1;1;1;1;2;2;2;1
+"01010";"Anglefort";"Essence";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;1;0;0;0;1;1;1;1
+"01010";"Anglefort";"Essence";"Crit'Air 1";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;1;1;1;1;1;2;1
+"01010";"Anglefort";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMPCAR";0;0;0;0;0;0;0;0;1;2;2;2;2;2;1
+"01010";"Anglefort";"Essence";"Crit'Air 1";"Professionel";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;0;1;1;1;1;1
+"01010";"Anglefort";"Diesel HNR";"Crit'Air 2";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;1;1;3;3;3;4
+"01010";"Anglefort";"Essence";"Crit'Air 2";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;0;1;1;1;1;1
+"01010";"Anglefort";"Diesel";"Crit'Air 4";"Professionel";"VUL";"VASP";0;0;0;0;0;0;0;0;0;0;0;1;1;1;1
+"01010";"Anglefort";"Diesel";"Crit'Air 4";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;1;1;1;2;1
+"01010";"Anglefort";"Electrique";"Crit'Air E";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;0;0;1;1
+"01010";"Anglefort";"Essence HR";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;0;0;1;1
+"01010";"Anglefort";"Diesel";"Crit'Air 2";"Professionel";"VUL";"VASP";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"01011";"Apremont";"Diesel";"Non classé";"Professionel";"PL";"AUTREPL";1;1;1;1;1;0;0;0;0;0;0;0;0;0;0
+"01011";"Apremont";"Diesel";"Non classé";"Professionel";"PL";"CAMION";1;1;1;1;1;1;1;1;1;1;2;2;1;0;0
+"01011";"Apremont";"Diesel";"Crit'Air 4";"Professionel";"PL";"TRACTEUR";1;1;1;1;1;2;1;1;0;0;0;0;0;0;0
+"01011";"Apremont";"Diesel";"Crit'Air 5";"Professionel";"VUL";"CAMTTE";1;1;1;2;1;1;1;1;0;0;0;0;0;0;0
+"01011";"Apremont";"Essence";"Non classé";"Particulier";"VUL";"CAMTTE";1;2;2;2;1;0;0;0;0;0;0;0;1;0;0
+"01011";"Apremont";"Diesel";"Crit'Air 3";"Professionel";"VUL";"CAMTTE";3;1;1;2;3;3;3;3;3;3;2;3;3;2;4
+"01011";"Apremont";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";3;6;8;7;7;8;9;11;8;7;8;8;10;8;7
+"01011";"Apremont";"Diesel";"Crit'Air 4";"Professionel";"VUL";"CAMTTE";2;1;1;1;1;1;0;1;2;2;2;1;0;0;0
+"01011";"Apremont";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMTTE";8;7;6;7;7;7;7;9;9;8;8;7;3;5;6
+"01011";"Apremont";"Diesel";"Non classé";"Professionel";"VUL";"CAMTTE";1;1;1;2;0;0;0;0;0;1;1;1;0;0;0
+"01011";"Apremont";"Diesel";"Non classé";"Particulier";"VUL";"CAMTTE";10;11;7;7;6;6;7;5;4;3;3;2;2;0;0
+"01011";"Apremont";"Diesel";"Crit'Air 3";"Particulier";"VUL";"DERIVP";1;1;1;1;2;2;1;1;1;1;0;0;0;0;0
+"01011";"Apremont";"Diesel";"Non classé";"Particulier";"VUL";"DERIVP";3;4;4;2;1;2;2;2;3;0;0;0;0;0;0
+"01011";"Apremont";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMPCAR";1;1;1;1;1;1;1;1;1;1;0;0;0;0;0
+"01011";"Apremont";"Gaz";"Crit'Air 1";"Particulier";"VP";"VP";1;1;1;0;0;1;1;1;1;0;0;0;0;0;0
+"01011";"Apremont";"Essence";"Crit'Air 1";"Professionel";"VP";"VP";0;1;1;1;0;0;0;0;0;0;1;1;0;0;0
+"01011";"Apremont";"Diesel";"Non classé";"Professionel";"VP";"VP";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01011";"Apremont";"Inconnu";"Non classé";"Particulier";"VP";"VP";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01011";"Apremont";"Diesel";"Crit'Air 2";"Particulier";"VP";"VP";5;10;15;28;41;45;54;60;63;72;82;83;97;101;110
+"01011";"Apremont";"Diesel";"Crit'Air 3";"Particulier";"VP";"VP";63;68;73;72;68;65;54;60;56;52;44;44;46;46;44
+"01011";"Apremont";"Diesel";"Crit'Air 4";"Particulier";"VP";"VP";40;44;37;35;34;29;27;26;25;25;27;25;21;17;14
+"01011";"Apremont";"Diesel";"Crit'Air 5";"Particulier";"VP";"VP";12;9;8;12;8;10;5;3;2;2;3;4;3;1;2
+"01011";"Apremont";"Diesel";"Non classé";"Particulier";"VP";"VP";27;23;18;23;20;14;11;8;5;3;3;4;3;3;2
+"01011";"Apremont";"Essence";"Crit'Air 1";"Particulier";"VP";"VP";3;5;7;10;13;19;29;31;44;51;54;62;57;57;58
+"01011";"Apremont";"Essence";"Crit'Air 2";"Particulier";"VP";"VP";8;8;10;11;12;12;13;16;19;19;17;16;14;10;12
+"01011";"Apremont";"Essence";"Crit'Air 3";"Particulier";"VP";"VP";22;26;30;28;27;22;17;15;14;13;11;9;8;6;6
+"01011";"Apremont";"Essence";"Non classé";"Particulier";"VP";"VP";25;23;21;17;16;13;10;14;9;8;7;5;5;6;5
+"01011";"Apremont";"Diesel";"Crit'Air 2";"Professionel";"VUL";"CAMTTE";0;0;1;1;3;3;2;2;3;2;3;3;2;2;3
+"01011";"Apremont";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMPCAR";0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01011";"Apremont";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMTTE";0;0;1;2;1;1;2;1;0;0;1;1;2;2;1
+"01011";"Apremont";"Diesel";"Crit'Air 2";"Professionel";"VP";"VP";0;0;0;1;2;2;2;1;1;2;3;2;3;3;3
+"01011";"Apremont";"Essence";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;1;1;1;1;1;1;1;0;0;0
+"01011";"Apremont";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;1;2;4;7;9;9;11;12;11
+"01011";"Apremont";"Diesel";"Crit'Air 4";"Particulier";"VUL";"DERIVP";0;0;0;0;0;1;1;1;1;0;0;0;0;0;0
+"01011";"Apremont";"Essence";"Crit'Air 3";"Particulier";"VUL";"DERIVP";0;0;0;0;0;1;1;1;1;0;0;0;0;0;0
+"01011";"Apremont";"Diesel HNR";"Crit'Air 2";"Particulier";"VP";"VP";0;0;0;0;0;1;1;1;1;1;0;0;0;0;0
+"01011";"Apremont";"Essence";"Crit'Air 1";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;1;1;1;1;1;2;1;1
+"01011";"Apremont";"Diesel";"Crit'Air 2";"Professionel";"PL";"TRACTEUR";0;0;0;0;0;0;0;0;1;1;1;1;1;1;2
+"01011";"Apremont";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMPCAR";0;0;0;0;0;0;0;0;0;1;1;1;1;2;4
+"01011";"Apremont";"Essence HR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;1;1;1;3;3;3
+"01011";"Apremont";"Essence";"Non classé";"Particulier";"VUL";"VASP";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01011";"Apremont";"Diesel";"Crit'Air 3";"Particulier";"VUL";"VASP";0;0;0;0;0;0;0;0;0;1;1;1;1;1;0
+"01011";"Apremont";"Electrique";"Crit'Air E";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;0;1;2;3;4;5
+"01011";"Apremont";"Essence HNR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;0;1;1;3;3;5
+"01011";"Apremont";"Diesel";"Non classé";"Professionel";"VUL";"DERIVP";0;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+"01011";"Apremont";"Diesel";"Crit'Air 5";"Professionel";"PL";"CAMION";0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"01011";"Apremont";"Diesel";"Crit'Air 3";"Professionel";"VUL";"VASP";0;0;0;0;0;0;0;0;0;0;0;0;1;1;0
+"01011";"Apremont";"Diesel";"Crit'Air 3";"Professionel";"PL";"TRACTEUR";0;0;0;0;0;0;0;0;0;0;0;0;0;1;1
+"01011";"Apremont";"Diesel";"Crit'Air 2";"Particulier";"VUL";"DERIVP";0;0;0;0;0;0;0;0;0;0;0;0;0;1;1
+"01011";"Apremont";"Diesel HR";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+"01012";"Aranc";"Diesel";"Non classé";"Particulier";"PL";"CAMION";1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01012";"Aranc";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMTTE";1;1;0;0;0;0;0;0;1;1;0;0;1;1;2
+"01012";"Aranc";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";2;3;4;2;4;4;3;4;5;6;10;11;10;10;12
+"01012";"Aranc";"Diesel";"Crit'Air 3";"Professionel";"VUL";"CAMTTE";1;2;3;4;5;4;3;4;4;4;4;4;4;4;4
+"01012";"Aranc";"Diesel";"Crit'Air 4";"Professionel";"VUL";"CAMTTE";2;2;2;2;0;1;0;0;1;1;0;0;0;0;0
+"01012";"Aranc";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMTTE";5;6;8;6;3;2;1;2;2;2;2;2;2;2;2
+"01012";"Aranc";"Diesel";"Crit'Air 5";"Professionel";"VUL";"CAMTTE";1;1;1;1;1;1;1;1;1;1;0;0;0;0;0
+"01012";"Aranc";"Diesel";"Non classé";"Particulier";"VUL";"CAMTTE";4;4;6;6;5;5;4;5;7;5;4;6;3;3;4
+"01012";"Aranc";"Essence";"Non classé";"Particulier";"VUL";"CAMTTE";3;2;1;3;1;2;2;2;2;3;0;1;0;0;1
+"01012";"Aranc";"Diesel";"Crit'Air 5";"Particulier";"VUL";"DERIVP";1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01012";"Aranc";"Diesel";"Crit'Air 3";"Particulier";"VUL";"DERIVP";1;1;2;1;1;0;0;0;0;0;0;0;0;0;0
+"01012";"Aranc";"Diesel";"Crit'Air 3";"Professionel";"VUL";"DERIVP";2;2;2;2;2;2;2;2;2;2;2;2;2;2;2
+"01012";"Aranc";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMPCAR";1;1;1;1;1;1;1;1;2;2;3;3;0;0;0
+"01012";"Aranc";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMPCAR";0;1;1;0;0;0;0;0;0;1;1;1;1;1;1
+"01012";"Aranc";"Essence";"Non classé";"Professionel";"VP";"VP";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01012";"Aranc";"Essence";"Crit'Air 1";"Particulier";"VP";"VP";0;1;6;8;8;10;17;20;23;31;35;47;60;62;64
+"01012";"Aranc";"Diesel";"Crit'Air 3";"Professionel";"VP";"VP";1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01012";"Aranc";"Diesel";"Crit'Air 4";"Professionel";"VP";"VP";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01012";"Aranc";"Diesel";"Crit'Air 2";"Particulier";"VP";"VP";3;6;11;21;29;38;45;59;62;65;74;74;76;78;77
+"01012";"Aranc";"Diesel";"Crit'Air 3";"Particulier";"VP";"VP";55;55;61;56;60;52;47;41;40;35;35;30;32;30;32
+"01012";"Aranc";"Diesel";"Crit'Air 4";"Particulier";"VP";"VP";24;26;27;28;31;31;29;23;20;16;17;14;13;14;10
+"01012";"Aranc";"Diesel";"Crit'Air 5";"Particulier";"VP";"VP";16;14;13;11;11;9;7;7;8;7;5;4;2;3;3
+"01012";"Aranc";"Diesel";"Non classé";"Particulier";"VP";"VP";29;23;17;18;16;12;15;13;9;5;3;0;1;1;1
+"01012";"Aranc";"Essence";"Crit'Air 2";"Particulier";"VP";"VP";11;11;10;8;9;14;15;12;11;14;17;19;19;17;21
+"01012";"Aranc";"Essence";"Crit'Air 3";"Particulier";"VP";"VP";32;31;27;23;21;21;24;24;23;21;17;12;9;13;12
+"01012";"Aranc";"Essence";"Non classé";"Particulier";"VP";"VP";31;28;25;27;25;16;12;11;6;4;3;1;1;2;2
+"01012";"Aranc";"Inconnu";"Non classé";"Particulier";"VP";"VP";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01012";"Aranc";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMTTE";0;0;0;2;2;3;4;6;6;6;5;9;9;6;6
+"01012";"Aranc";"Diesel";"Crit'Air 2";"Professionel";"VUL";"CAMTTE";0;0;0;2;2;2;2;2;2;3;7;7;7;7;7
+"01012";"Aranc";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMPCAR";0;0;0;1;1;1;1;1;1;0;0;1;3;3;2
+"01012";"Aranc";"Gaz";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;1;1;1;2;0;3
+"01012";"Aranc";"Diesel";"Crit'Air 2";"Professionel";"VP";"VP";0;0;0;1;1;0;0;1;1;2;1;1;1;2;2
+"01012";"Aranc";"Diesel";"Crit'Air 2";"Particulier";"VUL";"DERIVP";0;0;0;0;0;1;1;1;1;1;1;0;0;0;0
+"01012";"Aranc";"Diesel";"Crit'Air 4";"Particulier";"VUL";"DERIVP";0;0;0;0;0;2;2;2;2;2;1;1;1;1;1
+"01012";"Aranc";"Diesel";"Non classé";"Particulier";"VUL";"CAMPCAR";0;0;0;0;0;0;0;1;1;1;1;1;0;0;0
+"01012";"Aranc";"Essence";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;1;1;1;1;1;1;1
+"01012";"Aranc";"Diesel";"Non classé";"Professionel";"PL";"CAMION";0;0;0;0;0;0;0;0;1;1;0;0;0;0;0
+"01012";"Aranc";"Essence HNR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;1;1;1;1;2;5
+"01012";"Aranc";"Essence HR";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;1;1;1;1;1
+"01012";"Aranc";"Essence HR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;0;1;1;3;5;5
+"01012";"Aranc";"Electrique";"Crit'Air E";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;1;1;1;1
+"01012";"Aranc";"Electrique";"Crit'Air E";"Particulier";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;0;0;3;4
+"01012";"Aranc";"Diesel";"Crit'Air 2";"Particulier";"PL";"AUTREPL";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"01013";"Arandas";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMTTE";1;1;1;1;1;1;2;2;3;3;3;1;1;2;3
+"01013";"Arandas";"Diesel";"Crit'Air 3";"Professionel";"VUL";"CAMTTE";0;1;1;2;2;2;2;2;2;4;2;2;3;4;2
+"01013";"Arandas";"Essence";"Non classé";"Professionel";"VUL";"CAMTTE";2;1;0;0;0;1;1;1;1;1;1;1;0;0;1
+"01013";"Arandas";"Diesel";"Non classé";"Professionel";"VUL";"CAMTTE";1;1;1;2;1;1;1;1;1;1;0;0;0;0;0
+"01013";"Arandas";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";1;1;1;1;1;2;1;1;2;2;4;3;3;5;4
+"01013";"Arandas";"Essence";"Non classé";"Particulier";"VUL";"CAMTTE";4;5;4;4;2;2;0;0;0;0;0;0;0;0;0
+"01013";"Arandas";"Diesel";"Crit'Air 4";"Professionel";"VUL";"CAMTTE";4;4;3;2;2;3;3;3;2;1;1;1;1;0;0
+"01013";"Arandas";"Diesel";"Non classé";"Particulier";"VUL";"CAMTTE";3;2;3;5;6;4;5;4;4;2;1;1;1;1;1
+"01013";"Arandas";"Diesel";"Non classé";"Professionel";"VUL";"DERIVP";1;1;1;1;1;1;1;0;0;0;0;0;0;0;0
+"01013";"Arandas";"Diesel";"Crit'Air 5";"Particulier";"VUL";"VASP";1;1;1;1;1;1;1;0;0;0;0;0;0;0;0
+"01013";"Arandas";"Inconnu";"Non classé";"Particulier";"VP";"VP";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01013";"Arandas";"Diesel";"Crit'Air 2";"Particulier";"VP";"VP";0;6;9;15;18;19;25;31;35;32;40;34;32;35;37
+"01013";"Arandas";"Diesel";"Crit'Air 3";"Particulier";"VP";"VP";19;17;19;17;18;16;12;13;15;18;19;20;21;23;17
+"01013";"Arandas";"Diesel";"Crit'Air 4";"Particulier";"VP";"VP";18;19;20;18;15;16;16;16;19;17;12;13;12;8;9
+"01013";"Arandas";"Diesel";"Crit'Air 5";"Particulier";"VP";"VP";12;10;8;8;9;8;8;8;6;4;4;6;5;4;4
+"01013";"Arandas";"Diesel";"Non classé";"Particulier";"VP";"VP";9;9;9;8;8;8;8;7;3;3;3;3;2;3;3
+"01013";"Arandas";"Essence";"Crit'Air 1";"Particulier";"VP";"VP";2;3;5;6;6;6;8;8;10;13;15;15;17;20;16
+"01013";"Arandas";"Essence";"Crit'Air 2";"Particulier";"VP";"VP";3;3;2;2;3;5;6;5;4;5;5;5;6;5;6
+"01013";"Arandas";"Essence";"Crit'Air 3";"Particulier";"VP";"VP";2;2;2;3;8;8;9;8;8;6;7;4;4;4;4
+"01013";"Arandas";"Essence";"Non classé";"Particulier";"VP";"VP";18;17;17;15;13;10;8;9;5;6;6;5;5;6;7
+"01013";"Arandas";"Essence HNR";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;1;1;0;0;0;0;0;0;2;4;5
+"01013";"Arandas";"Diesel";"Crit'Air 3";"Professionel";"VP";"VP";0;0;0;1;1;1;0;0;0;0;0;1;1;0;0
+"01013";"Arandas";"Diesel";"Crit'Air 2";"Professionel";"VUL";"CAMTTE";0;0;0;0;0;0;2;2;2;2;2;4;2;4;6
+"01013";"Arandas";"Gaz";"Crit'Air 1";"Particulier";"VP";"VP";0;0;0;0;0;0;0;1;2;1;1;1;0;0;0
+"01013";"Arandas";"Diesel";"Crit'Air 2";"Professionel";"VP";"VP";0;0;0;0;0;1;1;0;0;0;0;0;0;0;0
+"01013";"Arandas";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+"01013";"Arandas";"Essence HNR";"Crit'Air 1";"Professionel";"VP";"VP";0;0;0;0;0;0;0;1;1;0;0;0;0;0;0
+"01013";"Arandas";"Essence";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+"01013";"Arandas";"Diesel";"Crit'Air 5";"Professionel";"VUL";"CAMTTE";0;0;0;0;0;0;0;1;0;0;0;1;2;2;1
+"01013";"Arandas";"Diesel HNR";"Crit'Air 2";"Particulier";"VP";"VP";0;0;0;0;0;0;0;1;1;0;0;0;0;0;0
+"01013";"Arandas";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;0;0;0;0;0;1;1;3;4;7
+"01013";"Arandas";"Diesel";"Non classé";"Particulier";"VUL";"CAMPCAR";0;0;0;0;0;0;0;0;0;0;1;1;1;0;0
+"01013";"Arandas";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMPCAR";0;0;0;0;0;0;0;0;0;0;0;1;1;0;0
+"01013";"Arandas";"Essence";"Non classé";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+"01013";"Arandas";"Electrique";"Crit'Air E";"Professionel";"VP";"VP";0;0;0;0;0;0;0;0;0;0;0;0;0;1;1
+"01013";"Arandas";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMPCAR";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"01014";"Arbent";"Diesel";"Crit'Air 3";"Professionel";"PL";"AUTREPL";1;1;1;1;1;1;1;0;0;0;0;0;0;0;0
+"01014";"Arbent";"Diesel";"Non classé";"Particulier";"PL";"CAMION";1;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+"01014";"Arbent";"Diesel";"Crit'Air 4";"Professionel";"PL";"CAMION";26;10;3;3;2;2;2;2;2;2;2;2;2;2;3
+"01014";"Arbent";"Diesel";"Crit'Air 5";"Professionel";"PL";"CAMION";17;19;14;6;4;4;4;4;4;4;3;2;3;3;3
+"01014";"Arbent";"Diesel";"Non classé";"Professionel";"PL";"CAMION";13;11;9;6;6;4;4;2;2;2;3;0;0;0;0
+"01014";"Arbent";"Diesel";"Crit'Air 4";"Professionel";"PL";"TRACTEUR";88;13;1;2;2;2;2;1;1;1;1;1;1;1;1
+"01014";"Arbent";"Diesel";"Crit'Air 5";"Professionel";"PL";"TRACTEUR";59;21;19;0;0;0;0;0;0;0;0;0;0;0;0
+"01014";"Arbent";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";4;5;6;9;10;13;14;17;21;21;23;22;30;27;24
+"01014";"Arbent";"Essence";"Crit'Air 3";"Particulier";"VUL";"CAMTTE";1;1;1;1;2;3;4;3;3;3;3;3;4;3;3
+"01014";"Arbent";"Essence";"Non classé";"Professionel";"VUL";"CAMTTE";4;4;4;4;4;4;3;3;3;1;1;1;1;1;1
+"01014";"Arbent";"Diesel";"Crit'Air 2";"Professionel";"VUL";"CAMTTE";1;12;19;35;53;67;104;121;145;145;147;156;152;160;166
+"01014";"Arbent";"Diesel";"Crit'Air 3";"Professionel";"VUL";"CAMTTE";56;62;64;67;69;68;64;60;58;51;45;38;38;38;33
+"01014";"Arbent";"Diesel";"Crit'Air 4";"Professionel";"VUL";"CAMTTE";41;40;42;43;42;37;30;31;28;23;17;14;10;10;10
+"01014";"Arbent";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMTTE";28;28;28;29;30;31;25;24;29;27;26;20;20;16;18
+"01014";"Arbent";"Diesel";"Crit'Air 5";"Professionel";"VUL";"CAMTTE";17;17;13;13;12;10;7;7;5;4;5;5;3;3;3
+"01014";"Arbent";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMTTE";9;8;6;9;10;9;10;9;9;7;4;2;3;2;1
+"01014";"Arbent";"Diesel";"Non classé";"Professionel";"VUL";"CAMTTE";16;15;11;8;7;6;4;3;1;1;1;1;1;1;1
+"01014";"Arbent";"Diesel";"Non classé";"Particulier";"VUL";"CAMTTE";21;21;20;21;17;16;11;8;7;3;2;5;4;3;5
+"01014";"Arbent";"Essence";"Crit'Air 3";"Professionel";"VUL";"CAMTTE";6;6;6;6;5;5;4;3;4;3;2;1;0;0;0
+"01014";"Arbent";"Essence";"Non classé";"Particulier";"VUL";"CAMTTE";11;10;9;9;9;8;7;6;5;6;5;3;1;3;0
+"01014";"Arbent";"Inconnu";"Non classé";"Particulier";"VUL";"CAMTTE";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01014";"Arbent";"Diesel";"Crit'Air 3";"Particulier";"VUL";"DERIVP";1;3;2;4;7;8;6;7;8;8;7;7;8;8;8
+"01014";"Arbent";"Diesel";"Crit'Air 2";"Professionel";"VUL";"DERIVP";0;7;7;14;19;16;21;20;25;28;29;27;22;17;16
+"01014";"Arbent";"Diesel";"Crit'Air 3";"Professionel";"VUL";"DERIVP";15;11;13;11;11;8;9;8;6;5;5;4;3;3;3
+"01014";"Arbent";"Diesel";"Crit'Air 4";"Professionel";"VUL";"DERIVP";7;7;8;9;7;5;5;2;2;2;0;1;1;1;1
+"01014";"Arbent";"Diesel";"Crit'Air 4";"Particulier";"VUL";"DERIVP";3;4;7;8;6;4;4;3;4;4;4;3;1;2;2
+"01014";"Arbent";"Diesel";"Crit'Air 5";"Professionel";"VUL";"DERIVP";2;2;1;1;1;1;1;1;1;1;1;1;1;0;0
+"01014";"Arbent";"Diesel";"Crit'Air 5";"Particulier";"VUL";"DERIVP";6;7;6;6;6;4;6;5;4;2;0;0;0;0;0
+"01014";"Arbent";"Diesel";"Non classé";"Professionel";"VUL";"DERIVP";11;9;8;6;4;2;1;0;0;0;0;0;0;0;0
+"01014";"Arbent";"Diesel";"Non classé";"Particulier";"VUL";"DERIVP";10;5;3;5;5;5;6;2;1;1;0;0;0;0;0
+"01014";"Arbent";"Essence";"Crit'Air 3";"Professionel";"VUL";"DERIVP";2;2;1;1;0;0;0;0;0;0;0;0;0;0;0
+"01014";"Arbent";"Diesel";"Crit'Air 5";"Particulier";"VUL";"CAMPCAR";1;1;1;1;0;0;0;0;0;0;0;0;1;1;0
+"01014";"Arbent";"Essence";"Non classé";"Particulier";"VUL";"CAMPCAR";1;1;1;1;1;1;1;0;0;0;0;0;0;0;0
+"01014";"Arbent";"Diesel";"Crit'Air 3";"Particulier";"VUL";"CAMPCAR";1;4;4;4;5;6;6;5;4;4;5;5;4;4;4
+"01014";"Arbent";"Diesel";"Crit'Air 4";"Particulier";"VUL";"CAMPCAR";8;6;6;6;5;5;4;5;4;3;1;1;1;2;3
+"01014";"Arbent";"Essence";"Non classé";"Particulier";"VUL";"VASP";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01014";"Arbent";"Diesel";"Crit'Air 5";"Particulier";"VUL";"VASP";1;1;1;1;0;0;0;0;0;0;0;0;0;0;1
+"01014";"Arbent";"Diesel";"Non classé";"Professionel";"VUL";"VASP";4;3;3;3;3;2;0;0;0;0;0;0;0;0;0
+"01014";"Arbent";"Essence HNR";"Crit'Air 2";"Professionel";"VP";"VP";1;1;1;1;1;0;0;0;0;0;0;0;0;0;0
+"01014";"Arbent";"Essence HR";"Crit'Air 1";"Particulier";"VP";"VP";0;1;1;1;0;1;2;2;2;1;1;7;11;16;23
+"01014";"Arbent";"Inconnu";"Crit'Air 3";"Particulier";"VP";"VP";1;1;1;1;1;1;1;0;0;0;0;0;0;0;0
+"01014";"Arbent";"Gaz";"Crit'Air 1";"Professionel";"VP";"VP";2;2;2;1;2;2;2;2;2;2;2;3;7;8;7
+"01014";"Arbent";"Gaz";"Crit'Air 1";"Particulier";"VP";"VP";21;16;14;16;14;12;15;14;14;13;10;9;9;13;19
+"01014";"Arbent";"Diesel";"Crit'Air 2";"Professionel";"VP";"VP";30;89;139;174;181;205;206;235;240;227;215;186;226;221;209
+"01014";"Arbent";"Diesel";"Crit'Air 2";"Particulier";"VP";"VP";41;105;171;222;285;351;405;444;468;516;573;616;628;655;665
+"01014";"Arbent";"Diesel";"Crit'Air 3";"Professionel";"VP";"VP";98;65;47;32;20;15;10;10;10;10;10;9;5;2;3
+"01014";"Arbent";"Diesel";"Crit'Air 3";"Particulier";"VP";"VP";410;417;431;440;440;455;447;431;437;438;419;414;413;395;361
+"01014";"Arbent";"Diesel";"Crit'Air 4";"Professionel";"VP";"VP";13;12;9;5;4;6;3;2;3;3;3;3;2;2;1
+"01014";"Arbent";"Diesel";"Crit'Air 4";"Particulier";"VP";"VP";368;385;369;359;348;354;341;336;314;278;250;212;188;159;152
+"01014";"Arbent";"Diesel";"Crit'Air 5";"Professionel";"VP";"VP";2;0;0;1;1;1;1;2;1;0;0;0;0;0;0
+"01014";"Arbent";"Diesel";"Crit'Air 5";"Particulier";"VP";"VP";160;158;145;144;134;119;107;101;88;70;50;44;38;31;26
+"01014";"Arbent";"Diesel";"Non classé";"Professionel";"VP";"VP";3;4;3;3;1;0;1;1;1;0;0;0;0;0;0
+"01014";"Arbent";"Diesel";"Non classé";"Particulier";"VP";"VP";294;237;204;180;144;119;106;82;58;32;22;21;18;15;11
+"01014";"Arbent";"Essence";"Crit'Air 1";"Professionel";"VP";"VP";0;2;3;11;8;14;7;52;83;59;72;83;62;76;39
+"01014";"Arbent";"Essence";"Crit'Air 1";"Particulier";"VP";"VP";13;44;78;114;150;189;224;291;351;421;467;497;523;557;576
+"01014";"Arbent";"Essence";"Crit'Air 2";"Professionel";"VP";"VP";4;3;0;4;0;1;1;2;2;2;2;2;2;2;2
+"01014";"Arbent";"Essence";"Crit'Air 2";"Particulier";"VP";"VP";171;174;154;150;155;156;147;139;137;138;117;118;115;118;113
+"01014";"Arbent";"Essence";"Crit'Air 3";"Professionel";"VP";"VP";4;2;2;1;1;2;2;3;3;2;3;3;2;2;4
+"01014";"Arbent";"Essence";"Crit'Air 3";"Particulier";"VP";"VP";239;226;222;218;204;197;181;175;163;162;143;131;123;106;92
+"01014";"Arbent";"Essence";"Non classé";"Professionel";"VP";"VP";3;2;1;1;1;1;0;0;0;0;0;1;1;1;1
+"01014";"Arbent";"Essence";"Non classé";"Particulier";"VP";"VP";263;215;172;136;105;88;69;54;37;36;33;35;27;26;27
+"01014";"Arbent";"Inconnu";"Non classé";"Particulier";"VP";"VP";14;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01014";"Arbent";"Inconnu";"Inconnu";"Particulier";"VP";"VP";2;1;1;1;1;1;1;1;1;0;0;0;0;0;0
+"01014";"Arbent";"Diesel";"Crit'Air 3";"Particulier";"PL";"AUTREPL";0;0;1;1;1;1;0;0;0;0;0;0;0;0;0
+"01014";"Arbent";"Diesel";"Non classé";"Professionel";"PL";"TRACTEUR";0;2;2;2;2;2;2;2;1;1;0;0;0;0;0
+"01014";"Arbent";"Diesel HNR";"Crit'Air 2";"Particulier";"VP";"VP";0;0;0;1;1;2;3;3;4;4;4;7;9;12;10
+"01014";"Arbent";"Diesel";"Non classé";"Professionel";"PL";"AUTREPL";0;0;0;1;1;1;0;0;0;0;0;0;0;0;0
+"01014";"Arbent";"Diesel";"Non classé";"Professionel";"TCP";"BUS";0;0;0;1;1;1;1;1;0;0;0;0;0;0;0
+"01014";"Arbent";"Diesel";"Crit'Air 2";"Professionel";"TCP";"BUS";0;0;0;0;1;1;2;2;3;4;4;10;9;9;9
+"01014";"Arbent";"Diesel";"Crit'Air 3";"Professionel";"TCP";"BUS";0;0;0;1;1;1;1;1;1;1;1;0;0;0;0
+"01014";"Arbent";"Diesel";"Crit'Air 4";"Professionel";"TCP";"BUS";0;0;0;1;2;2;2;2;2;4;3;1;0;0;0
+"01014";"Arbent";"Diesel";"Crit'Air 5";"Professionel";"TCP";"BUS";0;0;0;3;2;2;1;1;1;1;1;0;0;0;0
+"01014";"Arbent";"Diesel";"Crit'Air 2";"Particulier";"VUL";"CAMTTE";0;0;0;0;0;2;7;10;11;18;23;31;32;42;47
+"01014";"Arbent";"Diesel";"Non classé";"Particulier";"VUL";"CAMPCAR";0;0;0;1;1;1;0;1;0;0;1;1;1;1;1
