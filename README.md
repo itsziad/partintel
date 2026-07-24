@@ -1,7 +1,7 @@
 # TechWatch — Système de Veille Technologique Intelligent
 
 > Mémoire de Master Data Engineering — Projet de fin d'études  
-> Auteur : [Votre Nom] | Promotion 2024–2025
+> Auteur : itsziad | Promotion 2025–2026
 
 ---
 
