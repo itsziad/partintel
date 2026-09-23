@@ -61,7 +61,8 @@ jobs:
           pip install fastapi uvicorn elasticsearch pandas \
                       feedparser requests gensim scikit-learn \
                       sentence-transformers bcrypt python-jose \
-                      prometheus-client python-multipart httpx pytest pytest-cov
+                      prometheus-client python-multipart httpx pytest pytest-cov \
+                      python-dotenv
 
       - name: Wait for Elasticsearch
         run: |
