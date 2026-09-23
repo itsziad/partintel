@@ -83,7 +83,7 @@ jobs:
             --cov-fail-under=70 \
             -v
 
-  build:
+    build:
     name: Build Docker
     runs-on: ubuntu-latest
     needs: test
@@ -96,5 +96,11 @@ jobs:
           FROM python:3.12-slim
           WORKDIR /app
           COPY requirements.txt .
-tail -3 .github/workflows/ci.yml
-tail -3 requirements.txt
+          RUN pip install --no-cache-dir -r requirements.txt
+          COPY . .
+          EXPOSE 8000
+          CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "8000"]
+          EOF
+
+      - name: Build image
+        run: docker build -t partintel-api:${{ github.sha }} .
