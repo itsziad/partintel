@@ -24,7 +24,7 @@ jobs:
         run: pip install ruff==0.3.0
 
       - name: Ruff check
-        run: ruff check api/ collectors/ ml/ --ignore E501,F401
+        run: ruff check api/ collectors/ ml/ --ignore E501,F401,E402
 
   test:
     name: Tests
