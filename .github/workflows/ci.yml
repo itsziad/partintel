@@ -58,7 +58,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install fastapi uvicorn elasticsearch pandas \
+          pip install fastapi uvicorn "elasticsearch==8.12.0" pandas \
                       feedparser requests gensim scikit-learn \
                       sentence-transformers bcrypt python-jose \
                       prometheus-client python-multipart httpx pytest pytest-cov \
