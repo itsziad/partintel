@@ -83,7 +83,7 @@ jobs:
             --cov-fail-under=70 \
             -v
 
-    build:
+  build:
     name: Build Docker
     runs-on: ubuntu-latest
     needs: test
